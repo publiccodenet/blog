@@ -22,11 +22,22 @@ Terminal warns this is missing its Github authentication - does it connect back 
 "GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data."
 ```
 
+I'm missing a _layouts directory. Where should that go?
+
+
+
 ## Missing
 
 - [ ] about this blog
 - [ ] favicon (warns GitHub)
 - [ ] layout file for posts
 - [ ] front matter rendering for posts
-- [ ] internal nav (eg from post back to index)
+- [ ] internal nav: eg breadcrumbs to get from post back to index
+- [ ] internal nav: link to both the blog's about and http site
 - [ ] something that makes at least the most recent post appear on the index
+- [ ] Populate contact page (with HTML and our info)
+- [ ] RSS feed?
+- [ ] social sharing
+
+
+
