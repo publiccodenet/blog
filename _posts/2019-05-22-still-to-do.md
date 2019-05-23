@@ -28,16 +28,13 @@ I'm missing a _layouts directory. Where should that go?
 
 ## Missing
 
-- [ ] about this blog
-- [ ] favicon (warns GitHub)
+- [X] about this blog
+- [X] Populate contact page (with HTML and our info) - solved by deleting
+- [ ] something that makes at least the most recent post text appear on the index
 - [ ] layout file for posts
 - [ ] front matter rendering for posts
 - [ ] internal nav: eg breadcrumbs to get from post back to index
 - [ ] internal nav: link to both the blog's about and http site
-- [ ] something that makes at least the most recent post appear on the index
-- [ ] Populate contact page (with HTML and our info)
+- [ ] favicon (warns GitHub)
 - [ ] RSS feed?
 - [ ] social sharing
-
-
-
