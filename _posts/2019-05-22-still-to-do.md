@@ -24,8 +24,6 @@ Terminal warns this is missing its Github authentication - does it connect back 
 
 I'm missing a _layouts directory. Where should that go?
 
-
-
 ## Missing
 
 - [X] about this blog
