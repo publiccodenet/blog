@@ -1,6 +1,6 @@
 # About this blog
 
-![Our frontdoor](/assets/frontdoor-2019-05-small.jpeg)
+![Our frontdoor](/assets/frontdoor-2019-05-small.jpg)
 
 The Foundation for Public Code uses this blog to:
 
