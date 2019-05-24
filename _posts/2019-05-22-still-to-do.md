@@ -3,6 +3,7 @@ layout: post
 title:  "To do and outstanding questions!"
 date:   2019-05-23 
 categories: sandbox
+author: elena
 ---
 
 # To do on this blog and outstanding questions
@@ -30,9 +31,15 @@ I'm missing a _layouts directory. Where should that go?
 - [X] Populate contact page (with HTML and our info) - solved by deleting
 - [ ] something that makes at least the most recent post text appear on the index
 - [ ] layout file for posts
+- [ ] Go back to https://jekyllrb.com/docs/configuration/front-matter-defaults/ to set up default post layout after reading about layouts
 - [ ] front matter rendering for posts
 - [ ] internal nav: eg breadcrumbs to get from post back to index
 - [ ] internal nav: link to both the blog's about and http site
 - [ ] favicon (warns GitHub)
 - [ ] RSS feed?
 - [ ] social sharing
+
+## Not currently relevant
+
+- [ ] [data files](https://jekyllrb.com/docs/datafiles/) - can be used to organise site by author!
+- [ ] [collections](https://jekyllrb.com/docs/collections/) of posts
