@@ -1,10 +1,4 @@
----
-layout: post
-title:  "To do and outstanding questions!"
-date:   2019-05-23 
-categories: sandbox
-author: elena
----
+
 
 # To do on this blog and outstanding questions
 
