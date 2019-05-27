@@ -4,8 +4,6 @@ date:   2019-05-23
 author: elena
 ---
 
-# To do on this blog and outstanding questions
-
 Blogpost attributes:
 - date
 - author
