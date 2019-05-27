@@ -4,7 +4,8 @@ date:   2019-05-23
 author: elena
 ---
 
-# To do on this blog and outstanding questions
+This text confirms that only the first paragraph gets pulled in (as anticipated).
+
 
 Blogpost attributes:
 - date
