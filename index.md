@@ -13,6 +13,7 @@ If you're interested in a topic we haven't covered yet, [get in touch](https://a
 
 We'd love to hear how we can make this blog more useful for you.
 
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -20,3 +21,4 @@ We'd love to hear how we can make this blog more useful for you.
       {{ post.excerpt }}
     </li>
   {% endfor %}
+  </ul>
