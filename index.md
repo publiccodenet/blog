@@ -21,4 +21,4 @@ We'd love to hear how we can make this blog more useful for you.
       {{ post.excerpt }}
     </li>
   {% endfor %}
-  </ul>
+ </ul>
