@@ -1,8 +1,4 @@
----
-type: Index
----
-
-# Welcome to the blog
+# Recent posts
 
 <ul>
   {% for post in site.posts %}
