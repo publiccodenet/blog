@@ -2,12 +2,14 @@
 title:  "To do and outstanding questions!"
 date:   2019-05-23 
 author: elena
+type: posts
 ---
 
 This text confirms that only the first paragraph gets pulled in (as anticipated).
 
 Blogpost attributes:
-- date
+- date (why is this frontmatter not rendering locally?)
+- title (why is this frontmatter not rendering locally?)
 - author
 - category
 - tag
@@ -26,12 +28,11 @@ I'm missing a _layouts directory. Where should that go?
 Removing frontmatter removes need for a post layout; applies sitewide default.
 
 
-
 ## Missing
 
 - [X] about this blog
 - [X] Populate contact page (with HTML and our info) - solved by deleting
-- [ ] something that makes at least the most recent post text appear on the index
+- [X] something that makes at least the most recent post text appear on the index
 - [ ] layout file for posts
 - [ ] Go back to https://jekyllrb.com/docs/configuration/front-matter-defaults/ to set up default post layout after reading about layouts
 - [ ] front matter rendering for posts
