@@ -1,5 +1,4 @@
-# The title of the website, if left empty this will default to the repository name
-# title: Foundation For Public Code
+# Title: Blog
 
 # Jekyll plugins that are supported by GitHub pages
 plugins:
