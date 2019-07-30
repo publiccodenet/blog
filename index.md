@@ -1,5 +1,5 @@
 ---
-type: index
+type: Index
 ---
 
 # Welcome to the blog
