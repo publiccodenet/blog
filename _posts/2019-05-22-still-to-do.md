@@ -1,6 +1,6 @@
 ---
-title:  "To do and outstanding questions!"
-date:   2019-05-23 
+title: "To do and outstanding questions!"
+date: 2019-05-23 
 author: elena
 type: posts
 ---
