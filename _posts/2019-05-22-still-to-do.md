@@ -11,6 +11,7 @@ excerpt: When singing songs of scariness, of bloodiness and hairyness, I feel mo
 This text confirms that only the first paragraph gets pulled in (as anticipated).
 
 Blogpost attributes:
+
 - date (why is this frontmatter not rendering locally?)
 - title (why is this frontmatter not rendering locally?)
 - author
@@ -49,7 +50,6 @@ Terminal warns this is missing its Github authentication - does it connect back 
 - [ ] main page: formatting of blog post list items - can the title be separated further from the body? (linebreak?)
 - [ ] main page: can we get the date to show in the post list?
 - [ ] blogpost page: in lieu of comments, standard line on bottom of page asking for feedback: emaill/twitter
-
 
 ## Not currently relevant
 
