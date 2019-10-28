@@ -3,7 +3,7 @@ title: "To do and outstanding questions!"
 date: 2019-05-23 
 author: elena
 type: posts
-excerpt: There's always lots to get ready when setting up a new blog. Here we discuss what we've done, still need to do, and (most importantly!) what we're learning along the way.
+excerpt: There's always lots to get ready when setting up a new blog. Here we discuss what we've done, what we still need to do, and (most importantly!) what we're learning along the way.
 ---
 
 # To do and outstanding questions!
