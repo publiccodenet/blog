@@ -3,7 +3,7 @@ title: "To do and outstanding questions!"
 date: 2019-05-23 
 author: elena
 type: posts
-excerpt: When singing songs of scariness, of bloodiness and hairyness, I feel most obligated at this moment to remind you...of the most ferocious beast of all! The murky, blurky stravagall...who's standing. right. behind you.
+excerpt: There's always lots to get ready when setting up a new blog. Here we discuss what we've done, still need to do, and (most importantly!) what we're learning along the way.
 ---
 
 # To do and outstanding questions!
