@@ -51,7 +51,7 @@ Terminal warns this is missing its Github authentication - does it connect back 
 - [ ] main page: formatting of blog post list items - can the title be separated further from the body? (linebreak?)
 - [ ] main page: can we get the date to show in the post list?
 - [ ] blogpost page: in lieu of comments, standard line on bottom of page asking for feedback: emaill/twitter
-- [ ] terminal window error message: Error: YAML Exception reading /Users/leyn/Code/publiccode/blog/_posts/2019-05-22-still-to-do.md: (<unknown>): could not find expected ':' while scanning a simple key at line 7 column 1 
+- [ ] terminal window error message: Error: YAML Exception reading /Users/leyn/Code/publiccode/blog/_posts/2019-05-22-still-to-do.md: (<unknown>): could not find expected ':' while scanning a simple key at line 7 column 1
 
 ## Not currently relevant
 
