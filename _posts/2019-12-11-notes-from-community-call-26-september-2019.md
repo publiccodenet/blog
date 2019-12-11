@@ -7,7 +7,7 @@ categories:
   - Community call
 ---
 
-## Call notes
+# Call notes
 
 This community call focused on archival criteria in the Standard for Public Code, thanks to a [pull request to the Standard](https://github.com/publiccodenet/standard/pull/263).
 
