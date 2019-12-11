@@ -8,9 +8,9 @@ categories:
   - Community call
 ---
 
-# Call notes
+# Notes from community call - 26 September 2019
 
-This community call focused on archival criteria in the Standard for Public Code, thanks to a [pull request to the Standard](https://github.com/publiccodenet/standard/pull/263).
+This community call focused on archival criteria in the Standard for Public Code, thanks to [pull request 263 to the Standard](https://github.com/publiccodenet/standard/pull/263).
 
 On the call:
 
