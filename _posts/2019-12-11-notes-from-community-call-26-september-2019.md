@@ -3,11 +3,12 @@ title: "Notes from community call 26 September 2019"
 date: 2019-12-11
 author: Jan Ainali
 type: blogpost
+excerpt: We discussed archival criteria in the Standard for Public Code.
 categories:
   - Community call
 ---
 
-## Call notes
+# Call notes
 
 This community call focused on archival criteria in the Standard for Public Code, thanks to a [pull request to the Standard](https://github.com/publiccodenet/standard/pull/263).
 
