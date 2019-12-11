@@ -1,9 +1,11 @@
 
+# Recent posts
+
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
  </ul>
