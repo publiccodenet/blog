@@ -3,6 +3,7 @@ title: "Notes from community call 26 September 2019"
 date: 2019-12-11
 author: Jan Ainali
 type: blogpost
+excerpt: We discussed archival criteria in the Standard for Public Code.
 categories:
   - Community call
 ---
