@@ -10,7 +10,7 @@ categories:
 
 # Notes from community call - 10 October 2019
 
-As a matter of transparency, we post the notes from this community call even though no one attended the call.
+For transparency, we're sharing the update we prepared for this community call even though no one attended the call.
 
 ## Update from the Foundation
 
