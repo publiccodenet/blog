@@ -3,7 +3,7 @@ title: "Notes from community call - 10 October 2019"
 date: 2019-12-12
 author: Jan Ainali
 type: blogpost
-excerpt: News from the Foundation of Public Code as of 10 October 2019.
+excerpt: Recent news roundup from the Foundation for Public Code.
 categories:
   - Community call
 ---
