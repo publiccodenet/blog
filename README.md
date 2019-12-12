@@ -1,6 +1,6 @@
 # Blog for Public Code
 
-This is the Blog for Public Code by the [Foundation For Public Code](https://publiccode.net).
+This is the Blog for Public Code by the [Foundation for Public Code](https://publiccode.net).
 
 ## Building the site
 
