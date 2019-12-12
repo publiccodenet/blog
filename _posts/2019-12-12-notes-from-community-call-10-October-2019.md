@@ -16,5 +16,5 @@ As a matter of transparency, we post the notes from this community call even tho
 
 * We're gearing up for our Open Day next week, focusing on codebase stewardship in practice. We'll have workshops exploring how to collaborate on codebase governance and design a codebase to be easy and inviting for potential reusers. International guests working with public sector open source collaborations will share their experiences. Some of us are currently full-on with logistics and workshop design.
 * We have a new minor release of [Standard for Public Code, 0.1.3](https://github.com/publiccodenet/standard/releases/tag/0.1.3).
-* Our development of stewardship progresses and we're adding some new assets to our website later today.
+* Our development of stewardship progresses and we're [adding some new assets](https://github.com/publiccodenet/about/pull/430) to our website later today.
 * We have started working with a professional visualizer to create diagrams explaining stewardship and governance.
