@@ -1,6 +1,6 @@
 ---
 title: "Notes from community call - 24 October 2019"
-date: 2019-12-12
+date: 2019-12-17
 author: Jan Ainali
 type: blogpost
 excerpt: Discussion about levels of detail in the Standard for Public Code and CII best practices
