@@ -19,7 +19,7 @@ Foundation attendees were:
 
 Inspired by [issue 200](https://github.com/publiccodenet/standard/issues/200), we talked about the fact that some of the points in the [Standard for Public Code](https://standard.publiccode.net) were inspired by existing best practice.
 
-We can and should expand some of our guidance to developers and designers on 'how to test' and 'further reading' to more directly reference, for example, [CII best practices](https://bestpractices.coreinfrastructure.org/en). In general, they are at a lower level and more specific than we intend the Standard to be.
+We agreed we should expand some of our guidance to developers and designers on 'how to test' and 'further reading' to more directly reference, for example, [CII best practices](https://bestpractices.coreinfrastructure.org/en). In general, they are at a lower level and more specific than we intend the Standard to be.
 
 Eric's comparison between the Standard and the CII best practices highlighted that we could be more specific in some places, especially regarding SHOULD criteria rather than MUST criteria. For example, we could say 'you SHOULD use a distributed version control system like Git or Mercurial'. We agreed this approach made sense.
 
