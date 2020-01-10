@@ -12,7 +12,7 @@ categories:
 
 For transparency, we’re sharing the notes from this community call even though there were no external attendees at the call.
 
-Attendees were:
+Foundation attendees were:
 - Eric
 - Boris
 - Elena
