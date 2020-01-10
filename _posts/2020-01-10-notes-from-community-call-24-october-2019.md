@@ -27,6 +27,6 @@ Next steps:
 
 * Jan wanted a chance to review Eric's comparison and Eric wanted Jan's reality check
 * Eric and Jan will make a to-do list and then deal with reconciliation via individual pull requests
-* we should more generally consider how to word criteria in the Standard, which is connected to the 'use established and open standards'. For example, while we might say 'use best practice related to cryptography, see the best practice badge for some enumerated best practices', we wouldn't actually enumerate these in the Standard (ie, we wouldn't want to dig into specifics of cryptography and use of key lengths).
+* we should more generally consider how to word criteria in the Standard, which is connected to 'use established and open standards'. For example, while we might say 'use best practice related to cryptography, see the best practice badge for some enumerated best practices', we wouldn't actually enumerate these in the Standard (ie, we wouldn't want to dig into specifics of cryptography and use of key lengths).
 
 For the codebases that we steward we aim to achieve the CII best practice badges, but it wouldn't be a requirement. Instead, as Boris put it, "We could even help them get the badges!"
