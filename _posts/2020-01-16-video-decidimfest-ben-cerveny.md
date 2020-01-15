@@ -3,7 +3,7 @@ title: "Video: Ben Cerveny at DecidimFest 2019: Collaborative Code is the Future
 date: 2020-01-16
 author: Ben Cerveny / DecidimFest
 type: blogpost
-excerpt: Presentation: Collaborative Code is the Future of Cities
+excerpt: Video presentation of Collaborative Code is the Future of Cities
 categories:
   - Presentations
 ---
