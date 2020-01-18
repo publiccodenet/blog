@@ -12,4 +12,4 @@ categories:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cnJtnZ9Cx1o" target="_blank"><img src="http://img.youtube.com/vi/cnJtnZ9Cx1o/0.jpg" alt="Video: Ben Cerveny at DecidimFest 2019: Collaborative Code is the Future of Cities" width="240" height="180" border="10" /></a>
 
-[Ben Cerveny](https://publiccode.net/team/ben-cerveny.html) presented "Collaborative Code is the Future of Cities" at [DecidimFest 2019[(https://meta.decidim.org/conferences/decidimfest19).
+[Ben Cerveny](https://publiccode.net/team/ben-cerveny.html) presented "Collaborative Code is the Future of Cities" at [DecidimFest 2019](https://meta.decidim.org/conferences/decidimfest19).
