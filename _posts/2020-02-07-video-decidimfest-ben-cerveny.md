@@ -1,6 +1,6 @@
 ---
 title: "Video: Collaborative Code is the Future of Cities"
-date: 2020-01-20
+date: 2020-02-07
 author: staff
 type: blogpost
 excerpt: Video presentation of Collaborative Code is the Future of Cities
