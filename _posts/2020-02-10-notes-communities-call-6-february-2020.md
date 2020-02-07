@@ -1,6 +1,6 @@
 ---
 title: "Notes from community call - 6 February 2020"
-date: 2020-02-06
+date: 2020-02-10
 author: Jan Ainali
 type: blogpost
 excerpt: Recent news roundup from the Foundation for Public Code.
