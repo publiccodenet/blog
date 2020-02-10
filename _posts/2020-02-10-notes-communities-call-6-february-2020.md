@@ -17,4 +17,4 @@ For transparency, we're sharing the update we prepared for this community call e
 * We have two new colleagues at the Foundation: Deborah Meibergen who joins us as a Coordinator for Operations and Alba Roza who is our second Codebase Steward for Community. Read more about them on our [team page](https://publiccode.net/team/).
 * We went to the FOSDEM conference to network and learn even more best practices for collaborations on open source software.
 * We participated in the Connected Smart Cities Conference (CSCC) and learned about new initiatives, got to know more people and showcased our [governance game](https://github.com/publiccodenet/governance-game).
-* The Decidim Asssociation had it first technical steering group call. Eric, our Lead Codebase Steward for Quality, was on it.
+* The Decidim Asssociation had its first technical steering group call. Eric, our Lead Codebase Steward for Quality, was on it.
