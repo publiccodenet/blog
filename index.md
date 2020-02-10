@@ -24,3 +24,9 @@ The Foundation for Public Code uses this blog to:
 If you're interested in a topic we haven't covered yet, [get in touch](https://about.publiccode.net/organization/contact-details.html)!
 
 We'd love to hear how we can make this blog more useful for you.
+
+## Thanks
+
+We're grateful to the following people for contributing their ideas, words and curiosity to our blog:
+
+* [@attogram](https://github.com/attogram)
