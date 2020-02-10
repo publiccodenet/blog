@@ -10,7 +10,7 @@ categories:
 
 # Notes from community call - 6 February 2020
 
-Unfortunatelly no one showed up in the call, however we'd like to share some news about us.
+For transparency, we're sharing the update we prepared for this community call even though no new points were raised on it.
 
 ## Update from the Foundation
 
