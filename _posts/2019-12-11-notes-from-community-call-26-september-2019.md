@@ -1,5 +1,5 @@
 ---
-title: "Notes from community call 26 September 2019"
+title: "Notes from community call - 26 September 2019"
 date: 2019-12-11
 author: Jan Ainali
 type: blogpost
