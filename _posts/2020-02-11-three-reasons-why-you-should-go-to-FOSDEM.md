@@ -1,14 +1,14 @@
 ---
-title: "Three reasons why you should go to FOSDEM - 11 February 2020"
-date: 2020-02-11
+title: "A love letter to FOSDEM"
+date: 2020-02-14
 author: Alba Roza
 type: blogpost
-excerpt: Postmorten FOSDEM 2020.
+excerpt: Helpful tips from my first FOSDEM
 categories:
   - Events
 ---
 
-# Three reasons why you should go to FOSDEM - 11 February 2020
+# A love letter to FOSDEM - 14 February 2020
 
 The Foundation for Public Code team started February by attending **FOSDEM**. This conference is one of the biggest in Europe, as it gathers thousands of developers of free and **open source** software from all over the world.
 
