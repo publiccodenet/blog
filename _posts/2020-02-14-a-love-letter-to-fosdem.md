@@ -12,7 +12,7 @@ categories:
 
 ![FOSDEM main room](/assets/FOSDEM.jpg)
 
-On my first day working for the Foundation for Public Code, I went to FOSDEM. The team started February by attending **FOSDEM**. This conference is one of the biggest in Europe, as it gathers thousands of developers of free and **open source** software from all over the world.
+[On my first day](https://twitter.com/Alba_Roza/status/1223566123343470593?s=20) working for the Foundation for Public Code, I went to **FOSDEM** with the rest of the team. This conference is one of the biggest in Europe, as it gathers thousands of developers of free and **open source** software from all over the world.
 
 The open source community tends to create an ecosystem where every interaction looks very organic and natural. Maybe that’s why the event feels so different from others I’ve personally attended. In case you were wondering if you should join FOSDEM or not, I’m going to point out three reasons why you should, one per day of the conference.
 
