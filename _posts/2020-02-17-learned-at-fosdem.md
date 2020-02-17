@@ -17,7 +17,7 @@ I spent most of my time in the Community developer room. I can highly recommend 
 
 One of the talks that gave us at the Foundation for Public Code some really nice ideas was Jacob Redding's talk [Engaging Enterprise consumers of OSS](https://fosdem.org/2020/schedule/event/enterpriseoss/). What especially resonated with us was the encouragement of signing your commits as being made *on behalf of* your organization. The argument was that it would make it more transparent to the maintainers of a repository what they would expect of you. And [radiating your intent is always a good idea](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3). So strongly did this appeal to us, we [opened an issue](https://github.com/publiccodenet/about/issues/562) for integrating this into our processes even before the conference had ended.
 
-Jacob's talk was all over a gem, and that's why I want to highlight it in its entirety here. It has nothing to do with that I got to show of my skills in pronunciation of Swedish surnames. Not at all. 🇸🇪
+Jacob's talk was all over a gem, and that's why I want to highlight it in its entirety here. It has nothing to do with that I got to show of my skills in pronunciation of Swedish surnames. Not at all.
 
 <video width="560" height="314" controls>
   <source src="https://video.fosdem.org/2020/UB5.230/enterpriseoss.mp4" type="video/mp4">
