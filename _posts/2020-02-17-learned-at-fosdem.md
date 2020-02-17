@@ -13,7 +13,7 @@ FOSDEM is a great conference and I would like two share specific things from it.
 
 ## Highlight from the Community developer room
 
-I spent most of my time in the Community developer room. I can highly recommend that to anyone who has the slightest interest in community management. It was packed with good talks and had a lovely atmosphere (and cake!). I encourage you to go to [the website for the community track](https://fosdem.org/2020/schedule/track/community_devroom/) and start watching videos.
+I spent most of my time in the Community developer room. I can highly recommend that to anyone who has the slightest interest in community management. It was packed with good talks and had a lovely atmosphere ([and cake!](https://twitter.com/ejfdr/status/1223903608594468864?s=20)). I encourage you to go to [the website for the community track](https://fosdem.org/2020/schedule/track/community_devroom/) and start watching videos.
 
 One of the talks that gave us at the Foundation for Public Code some really nice ideas was [Jacob Redding's](https://twitter.com/jredding) talk [Engaging Enterprise consumers of OSS](https://fosdem.org/2020/schedule/event/enterpriseoss/). What especially resonated with us was the recommendation to sign your commits as being made *on behalf of* your organization. The argument was that it would make it more transparent to the maintainers of a repository what they could expect of you. And [radiating your intent is always a good idea](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3). So strongly did this appeal to us, we [opened an issue](https://github.com/publiccodenet/about/issues/562) for integrating this into our processes even before the conference had ended.
 
