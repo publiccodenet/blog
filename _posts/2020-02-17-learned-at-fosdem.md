@@ -4,7 +4,7 @@ date: 2020-02-17
 author: Jan Ainali
 type: blogpost
 category: events
-excerpt: FOSDEM is huge, but if you make plans it can give you good ideas.
+excerpt: Why plans are important and why it's even more important to ignore them.
 ---
 
 # A new and an old thing I (re)learned at FOSDEM
