@@ -12,10 +12,10 @@ categories:
 
 ## Attendees
 
-- [Elena] (chair)
-- [Jan] (notes)
-- [Alba]
-- [Eric]
+- [Elena](https://github.com/ElenaFdR) (chair)
+- [Jan](https://github.com/Ainali) (notes)
+- [Alba](https://github.com/AlbaRoza)
+- [Eric](https://github.com/ericherman)
 
 ## Foundation updates since December 2019
 
@@ -49,6 +49,6 @@ We discussed [the agenda for this call](https://hackmd.io/@publiccode/Foundation
 
 Another complication we discussed is how we pride ourselves in producing high quality content (in line with our [definition of done](https://about.publiccode.net/organization/definition-of-done.html). Would us having more documents with work in progress status publicly available undermine that? While not being sure on how the world looks upon it, we think most can be mitigated by clearly signal the status of the work. Since no one expects that you start with a finished product, it is natural for it to be iterated upon and evolved over time. A good status notice might also be an invitation for people to add their thoughts before the document is finished.
 
-We also touched upon the problem with information overload.  [about.publiccode.net](https://about.publiccode.net/) has so much content it can be hard to find what you are looking for. If people searching for information cannot find it, it doesn't really matter if it is open in theory. This led to us bringing up the need for usability research on our website. If we know who wants to use our website and how, we might be able to implement solutions to help them, with search bars or other tools that would serve their needs.
+We also touched upon the problem with information overload. [about.publiccode.net](https://about.publiccode.net/) has so much content it can be hard to find what you are looking for. If people searching for information cannot find it, it doesn't really matter if it is open in theory. This led to us bringing up the need for usability research on our website. If we know who wants to use our website and how, we might be able to implement solutions to help them, with search bars or other tools that would serve their needs.
 
 Finally, as a bit of a sidetrack from the topic of who uses our website, the question of the name About was brought up. Does our website contain what you would expect under a link named 'About us'? We noted that other organizations (like [Decidim](meta.decidim.org/)) use the term 'meta', but tabled the discussion without decisions.
