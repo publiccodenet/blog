@@ -8,7 +8,7 @@ categories:
   - Community call
 ---
 
-# 20 Feb 2020 Foundation community call [notes]
+# Notes from community call - 20 February 2019
 
 ## Attendees
 
