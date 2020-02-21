@@ -1,6 +1,6 @@
 ---
 title: "Notes from community call - 20 February 2019"
-date: 2019-12-11
+date: 2020-02-21
 author: Jan Ainali
 type: blogpost
 excerpt: Content strategy in a default-open organization 
