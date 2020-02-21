@@ -41,7 +41,7 @@ Upcoming events we'd love to see you at:
 
 The [Foundation for Public Code's communication principles](https://about.publiccode.net/activities/communication/communication-principles.html) define us as an open source organization. The topic for today's community call was 'how we approach content strategy as an open-by-default organization'. We ultimately only covered one of the potential content strategy questions.
 
-### Creating an open-first culture with a bias towards publication (and where people feel safe publishing their earliest usable in-progress work)
+### Creating an open-first culture with a bias towards publication (where people feel safe publishing their earliest usable in-progress work)
 
 We talked about how tools should make it easy to be open by default, to support you in your openness - otherwise it's too easy to default to staying closed. Using tools that are open also makes the process more open with regard to diversity - when there are no gatekeepers and it's easier to join, it can expand access for underrepresented communities.
 
