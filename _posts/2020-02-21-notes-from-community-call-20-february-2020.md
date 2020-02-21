@@ -12,10 +12,10 @@ categories:
 
 ## Attendees
 
-- Elena (chair)
-- Jan (notes)
-- Alba
-- Eric
+- [Elena] (chair)
+- [Jan] (notes)
+- [Alba]
+- [Eric]
 
 ## Foundation updates since December 2019
 
