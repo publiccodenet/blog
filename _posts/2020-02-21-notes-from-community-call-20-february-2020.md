@@ -1,5 +1,5 @@
 ---
-title: "Notes from community call - 20 February 2019"
+title: "Notes from community call - 20 February 2020"
 date: 2020-02-21
 author: Jan Ainali
 type: blogpost
@@ -8,7 +8,7 @@ categories:
   - Community call
 ---
 
-# 20 Feb 2020 Foundation community call [notes]
+# Notes from community call - 20 February 2020
 
 ## Attendees
 
