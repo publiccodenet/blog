@@ -19,7 +19,7 @@ Last fall we came up with an [exercise](https://about.publiccode.net/activities/
 
 ## An idea is born
 
-Unsurprisingly, the ultimate governance model was not the result we got from the exercise. Four parallel groups did the exercise; the models they came up with could not be meaningfully merged into one. Instead, the exercise turned out to be an excellent way to get participants to talk and think about governance and practice a common vocabulary. During the evaluation of the exercise, the idea of enhancing this aspect was mentioned which in turn led to the idea of turning it into a game.
+However, the ultimate governance model was not the result we got from the exercise. Four parallel groups did the exercise; the models they came up with could not be meaningfully merged into one. Instead, the exercise turned out to be an excellent way to get participants to talk and think about governance and practice a common vocabulary. During the evaluation of the exercise, the idea of enhancing this aspect was mentioned which in turn led to the idea of turning it into a game.
 
 As soon as someone mentions a game, I'm game. We did some very quick mockups and the first play tests inhouse showed that we were on to something. After a few more iterations, it became clear that this was becoming its own thing and thus deserved a proper [repository on GitHub](https://github.com/publiccodenet/governance-game). This makes it possible to track the game's development and also make it easier for anyone to give feedback .
 
@@ -27,7 +27,7 @@ As soon as someone mentions a game, I'm game. We did some very quick mockups and
 
 ![The game being played](../assets/game-play.jpg)
 
-[By month 2019] the time had come for us to test the game with a wider audience, so we had a decent prototype made. By testing it extensively and continuing to iterate the design we hope this tool will be a catalyst for code maintainers that are just starting to collaborate on a larger scale. We have already used the prototype as a powerful tool in workshops: it helps participants discover a shared vocabulary, understanding of their ecosystem and sense of purpose. We’ve seen repeatedly that a [governance game workshop](https://about.publiccode.net/activities/workshops/governance-game/) can provide enough clarity and sense of ownership to convert skeptics into champions within their organization.
+By December 2019 the time had come for us to test the game with a wider audience, so we had a decent prototype made. By testing it extensively and continuing to iterate the design we hope this tool will be a catalyst for code maintainers that are just starting to collaborate on a larger scale. We have already used the prototype as a powerful tool in workshops: it helps participants discover a shared vocabulary, understanding of their ecosystem and sense of purpose. We’ve seen repeatedly that a [governance game workshop](https://about.publiccode.net/activities/workshops/governance-game/) can provide enough clarity and sense of ownership to convert skeptics into champions within their organization.
 
 The game cards themselves have an added value for us. We've found that they are clear and generic enough to use as explanatory aids when we're getting to know new organizations and codebases that we're considering for [stewardship](https://about.publiccode.net/activities/codebase-stewardship/). It gives us an easy way to explore how the current governance is set up and to find existing friction points.
 
