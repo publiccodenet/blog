@@ -15,7 +15,7 @@ If you [follow us on Twitter](https://twitter.com/publiccodenet/), you may have 
 
 Last fall we came up with an [exercise](https://about.publiccode.net/activities/workshops/governance-exercise.html) to get people thinking about governance of codebases. We hoped the results of the exercise would help us create the perfect codebase governance diagram. This would help us guide everyone we worked with to adapt this governance model that had been discovered together with people working in this field. Excited to put our theories to the test, we ran a session with civil servants from municipalities, national digital transformation teams and other public organizations.
 
-![Exercise in our office](../assets/governance-exercise.jpg)
+![Exercise in our office]({{site.url}}/assets/governance-exercise.jpg)
 
 ## An idea is born
 
@@ -25,7 +25,7 @@ As soon as someone mentions a game, I'm game. We did some very quick mockups and
 
 ## Getting real
 
-![The game being played](../assets/game-play.jpg)
+![The game being played]({{site.url}}/assets/game-play.jpg)
 
 By December 2019 the time had come for us to test the game with a wider audience, so we had a decent prototype made. By testing it extensively and continuing to iterate the design we hope this tool will be a catalyst for code maintainers that are just starting to collaborate on a larger scale. We have already used the prototype as a powerful tool in workshops: it helps participants discover a shared vocabulary, understanding of their ecosystem and sense of purpose. We’ve seen repeatedly that a [governance game workshop](https://about.publiccode.net/activities/workshops/governance-game/) can provide enough clarity and sense of ownership to convert skeptics into champions within their organization.
 
