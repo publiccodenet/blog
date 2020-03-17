@@ -1,6 +1,6 @@
 ---
 title:  "A look at our Codebase Governance Game"
-date: 2020-03-16
+date: 2020-03-17
 author: Jan Ainali
 type: blogpost
 category: news
