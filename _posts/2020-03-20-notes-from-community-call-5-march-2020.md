@@ -16,13 +16,6 @@ categories:
 * We published a guest blog post on the [Open Belgium website](https://2020.openbelgium.be/blogpost/collaborative-code-future-governance). Jan will be giving [a talk](https://2020.openbelgium.be/session/collaborative-code-future-governance) there tomorrow.
 * We are preparing to go to the [SCORE Developer Sprint Week](https://score.community/t/score-developer-sprint-week-in-ghent-2020/806) in Ghent 16-20 April.
 
-## Atendees
-
-On the call:
-- Jan (chair)
-- Alba (notes)
-- Boris
-
 ## Call notes
 
 We discussed whether we needed to separate requirements related to governance into their own criteria in the Standard. Right now it's mostly baked into the criteria [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html). We [have previously discussed](https://github.com/publiccodenet/standard/issues/282) how governance is handled in the Standard. We agreed to look into this more, especially now when some of the codebases we are working with are in the phase of developing their governance structures.
