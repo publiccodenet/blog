@@ -10,6 +10,12 @@ categories:
 
 # 19 March 2020 community call
 
+## Attendees
+* Jan (Chair)
+* Laura (Notes)
+* Boris
+* Eric
+
 ## Update from the Foundation
 
 * We published our first [standard gap analysis of a codebase](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md) in its repository.
