@@ -21,7 +21,7 @@ categories:
 On the call:
 
 - [Jan](https://publiccode.net/team/jan-ainali.html) (chair)
-- [Alba[(https://publiccode.net/team/alba-roza.html) (notes)
+- [Alba](https://publiccode.net/team/alba-roza.html) (notes)
 - [Boris](https://publiccode.net/team/boris-van-hoytema.html)
 
 ## Call notes
