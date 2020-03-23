@@ -11,8 +11,8 @@ categories:
 # 19 March 2020 community call
 
 ## Attendees
-* [Jan](https://publiccode.net/team/jan-ainali.html) (Chair)
-* [Laura](https://publiccode.net/team/laura-scheske.html) (Notes)
+* [Jan](https://publiccode.net/team/jan-ainali.html) (chair)
+* [Laura](https://publiccode.net/team/laura-scheske.html) (notes)
 * [Boris](https://publiccode.net/team/boris-van-hoytema.html)
 * [Eric](https://publiccode.net/team/eric-herman.html)
 
