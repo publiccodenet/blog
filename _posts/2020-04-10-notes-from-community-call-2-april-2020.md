@@ -12,11 +12,11 @@ categories:
 
 ## Attendees
 
-* [Jan](https://publiccode.net/team/jan-ainali.html) (chair)
-* [Alba](https://publiccode.net/team/alba-roza.html) (notes)
-* [Laura](https://publiccode.net/team/laura-scheske.html)
-* [Boris](https://publiccode.net/team/boris-van-hoytema.html)
-* [Eric](https://publiccode.net/team/eric-herman.html)
+* [Jan Ainali](https://publiccode.net/team/jan-ainali.html) (chair)
+* [Alba Roza](https://publiccode.net/team/alba-roza.html) (notes)
+* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
+* [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
+* [Eric Herman](https://publiccode.net/team/eric-herman.html)
 
 ## Update from the Foundation
 
