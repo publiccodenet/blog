@@ -1,6 +1,6 @@
 ---
 title: "Notes from community call - 2 April 2020"
-date: 2020-04-15
+date: 2020-04-17
 author: Jan Ainali
 type: blogpost
 excerpt: Does the 'How to test?' section stand the test?
