@@ -3,7 +3,7 @@ title: "Notes from community call - 5 December 2019"
 date: 2019-12-13
 author: Jan Ainali
 type: blogpost
-excerpt: News from Mexico City, and when to apply the Standard
+excerpt: An update from Mexico City, and when to apply the Standard
 categories:
   - Community call
 ---
