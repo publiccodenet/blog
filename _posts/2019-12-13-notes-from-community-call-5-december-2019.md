@@ -11,7 +11,7 @@ categories:
 # Notes from the 5 December 2019 Community Call
 
 ## Attendees
-* Ali Gonzalez Garcia
+* [Ali Gonzalez Garcia](https://twitter.com/basicavisual)
 * [Boris](https://publiccode.net/team/boris-van-hoytema.html)
 * [Jan](https://publiccode.net/team/jan-ainali.html)
 * [Elena](https://publiccode.net/team/elena-findley-de-regt.html) (muted due to her cold)
