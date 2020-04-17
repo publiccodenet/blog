@@ -20,14 +20,14 @@ categories:
 ## Update from the Foundation
 
 * We have a new minor release of [Standard for Public Code, 0.1.4](https://github.com/publiccodenet/standard/releases/tag/0.1.4).
-* The governance exercise we have been using have been "forked" into a *Governance game* which now lives in [it's own repository](https://github.com/publiccodenet/governance-game).
+* The governance exercise we have been using have been forked into a *Governance game* which now lives in [its own repository](https://github.com/publiccodenet/governance-game).
 * We have [developed](https://github.com/publiccodenet/about/pull/520) our processes for how we start looking into new codebases and evaluate how we can help them become successful.
-* Ben, our president, went to Smart City Expo World Congress and gave a talk.
+* Ben, our president, went to [Smart City Expo World Congress](http://www.smartcityexpo.com/de/the-event/past-editions-2019) and gave a talk.
 
 ## Call notes
 
-We discussed the Standard and how it can be applied to new and existing projects. To apply it, it will require some extra work up front, but it will pay off as soon as there is ambition to scale the codebase.
+We discussed the Standard and how it can be applied to new and existing projects. To apply it will require some extra work up front, but it will pay off as soon as there is ambition to scale the codebase.
 
-We also discussed what Open Source development Mexico City has been doing so far and what their plans for the future are. Ali also mentioned they have been reusing both [Decidim](https://decidim.org/) and [RapidPro](https://rapidpro.github.io/rapidpro/).
+We also discussed what open source development Mexico City has been doing so far and what their plans for the future are. Ali also mentioned they have been reusing both [Decidim](https://decidim.org/) and [RapidPro](https://rapidpro.github.io/rapidpro/).
 
-Lastly we touched upon the tools that can be used for building community and we went through the various things the Foundation for Public Code already are using, like [collaborating directly on our repositories](https://github.com/publiccodenet) and [newsletters and these community calls](https://forms.gle/gn7wR2Eaxbv5g1BF9).
+Lastly we touched upon the tools that can be used for building community and we went through the various things the Foundation for Public Code is are using, like [collaborating directly on our repositories](https://github.com/publiccodenet) and [newsletters and these community calls](https://forms.gle/gn7wR2Eaxbv5g1BF9).
