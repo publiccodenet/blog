@@ -20,7 +20,7 @@ categories:
 
 ## Update from the Foundation
 
-* We have launched a website for Signalen at https://signalen.org
+* We have launched a website for Signalen at <https://signalen.org>
 * [Laura](https://publiccode.net/team/laura-scheske.html) has joined the Foundation for Public Code as Membership developer
 
 ## Notes
@@ -29,4 +29,4 @@ We discussed whether the 'How to test' sections are appropriate for the Standard
 
 We discussed the importance of being able to clearly test the Standard's MUST requirements, since these tests are how we check whether a contribution to a codebase is compliant with the Standard. Further, it would be useful to be able to easily track which requirement a specific test actually tests for. It was mentioned that a matrix could be developed for this purpose, which could be put in an annex. However, we came to the conclusion that we shouldn't let the layout determine such issues.
 
-The outcome of the discussion was that, yes, we would like to make an overview of that section, and that a [new issue that superseeds #80 should be created](https://github.com/publiccodenet/standard/issues/314) where the finer details could be discussed and documented.
+The outcome of the discussion was that, yes, we would like to make an overview of that section, and that a [new issue that supersedes #80 should be created](https://github.com/publiccodenet/standard/issues/314) where the finer details could be discussed and documented.
