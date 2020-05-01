@@ -30,8 +30,9 @@ We discussed our experiences working remotely under COVID-19 quarantine times. W
 We discussed tools that call participants deemed new or useful.
 
 1. Figma, an online collaborative graphic design and layout tool.
-2. Various chat apps (like Odoo, Slack, Mumble) were praised for the ability to separate multiple conversations into themes using 'channels'.
-3. Video calling apps (such as Zoom, Mumble and VNC) for ability to screen share and hang out with larger groups. We also noted the difference a good headset makes.
+
+2. Various chat apps (like Odoo, Slack and Mumble) were praised for the ability to separate multiple conversations into themes using 'channels'.
+3. Video calling apps (such as Zoom and VNC) for ability to screen share and hang out with larger groups. We also noted the difference a good headset makes.
 
 An important consideration while using all these tools (often several at once!), is to have a clear understanding within your organization on what to use each tool for. i.e. develop a clear **communications etiquette** that everyone adheres to. For example:
 
