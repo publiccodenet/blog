@@ -34,8 +34,8 @@ We also went to FOSDEM - [read Alba and Jan's blogposts](https://blog.publiccode
 
 Upcoming events we'd love to see you at:
 
-* Jan will be at Open Belgium in Hasselt on 6 March to [talk about public code, the future of governance](https://2020.openbelgium.be/session/collaborative-code-future-governance), and the role of the Foundation for Public Code
-* the codebase stewards will be at the [Aligning Public tech unconference](https://www.meetup.com/Code-For-NL/events/268798380/) on 12 March with the [governance game](https://about.publiccode.net/activities/workshops/governance-game/)
+* Jan will be at Open Belgium in Hasselt on 6 March to [talk about public code, the future of governance](https://2020.openbelgium.be/), and the role of the Foundation for Public Code
+* the codebase stewards will be at the [Aligning Public tech unconference](https://www.meetup.com/Code-For-NL/events/268798380/) on 12 March with the [governance game](https://about.publiccode.net/activities/supporting-codebase-governance/game/)
 
 ## Notes
 
