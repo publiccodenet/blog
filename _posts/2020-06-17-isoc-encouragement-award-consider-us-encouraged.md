@@ -13,7 +13,11 @@ excerpt: We're delighted to win an Encourgament Award from Internet Society Neth
 
 *Internet Society Netherlands commissioned this awesome cartoon of us by [Eva Hilhorst](https://evahilhorst.blogspot.com/).*
 
-The Dutch chapter of the Internet Society (ISOC) has recognised the work of the Foundation for Public Code with the 2020 *Aanmoedegingsprijs* (Encouragement Award.) We were proud to be nominated for the annual Innovation Award, and are delighted by Internet Society Netherlands' encouragement.
+The Dutch chapter of the Internet Society (ISOC) has recognised the work of the Foundation for Public Code with the 2020 *Aanmoedegingsprijs* (Encouragement Award). We were proud to be nominated for the annual Innovation Award, and are delighted by Internet Society Netherlands' encouragement.
+
+Foundation for Public Code CEO Boris van Hoytema says:
+
+> I'm happy that the hard work we're doing making collaboration on public purpose software commonplace is recognised.
 
 The [Internet Society Netherlands press release](https://awards.isoc.nl/innovatie/2020/) (in Dutch) says:
 
