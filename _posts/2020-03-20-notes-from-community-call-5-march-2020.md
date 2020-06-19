@@ -13,7 +13,7 @@ categories:
 ## Update from the Foundation for Public Code
 
 * We published our first [standard gap analysis of a codebase](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md) in its repository.
-* We published a guest blog post on the [Open Belgium website](https://2020.openbelgium.be/blogpost/collaborative-code-future-governance). Jan will be giving [a talk](https://2020.openbelgium.be/session/collaborative-code-future-governance) there tomorrow.
+* We published a guest blog post on the [Open Belgium website](https://2020.openbelgium.be). Jan will be giving [a talk](https://2020.openbelgium.be/session/collaborative-code-future-governance) there tomorrow.
 * We are preparing to go to the [SCORE Developer Sprint Week](https://score.community/t/score-developer-sprint-week-in-ghent-2020/806) in Ghent 16-20 April.
 
 ## Attendees
