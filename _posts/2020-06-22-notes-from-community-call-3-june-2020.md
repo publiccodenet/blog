@@ -35,7 +35,9 @@ We gave a general introduction to the Foundation for Public Code, the [Standard 
 
 ### Anchors and deep linking
 
-This topic was prompted by a [discussion in GitHub](https://github.com/publiccodenet/standard/issues/327). Eric pointed out that in [a practical example](https://github.com/open-zaak/open-zaak/pull/609/commits/410cc1241c08062429524c05f97751aeda4775de#diff-7604286f979d43446906528aa9487cff) it is clear that since the length of the criteria varies so much, it also varies how useful the header links are in providing proper context and for tracking when doing the analysis of a codebase.
+This topic was prompted by a [discussion in GitHub](https://github.com/publiccodenet/standard/issues/327). 
+
+Eric gave [a practical example of how useful header links are for providing proper context and tracking when doing the codebase analysis](https://github.com/open-zaak/open-zaak/pull/609/commits/410cc1241c08062429524c05f97751aeda4775de#diff-7604286f979d43446906528aa9487cff), based on the length of the criteria.
 
 We recognized that the situation could be improved by either making it possible to link to 'chapter and verse' (i.e. a specific requirement) or by making each criterion smaller, so context would be easier to keep.
 
