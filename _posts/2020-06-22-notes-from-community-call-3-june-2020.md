@@ -8,7 +8,7 @@ categories:
   - Community call
 ---
 
-# 3 June 2020 community call
+# 3 June 2020 Standard for Public Code community call
 
 ## Update from the Foundation
 
