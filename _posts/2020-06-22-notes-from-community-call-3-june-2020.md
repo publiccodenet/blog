@@ -28,7 +28,7 @@ categories:
 
 Renato joined the call for the first time and was curious about the Standard, and had heard about the new 'open by default' policy in the Netherlands. He shared a couple of links he found inspiring: 
 
-* [Creating new collaborative organisations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/)
+* [Creating new collaborative organisations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/), a blogpost by Richard Pope and DXW
 * [How to Build an Open Source Business](https://www.youtube.com/watch?v=c9SJAPxU5bs) 
 
 We gave a general introduction to the Foundation for Public Code, the [Standard for Public Code](https://standard.publiccode.net/), and the concept of [codebase stewardship](https://about.publiccode.net/activities/explaining-codebase-stewardship/). We will stay in touch to see how we can collaborate further.
@@ -48,4 +48,3 @@ To push the Standard towards maturity, we discussed the idea of doing more quick
 As a side track we discussed the template we used for the analysis, since it was when using it that we felt the need for deep links. Jan expressed that what was hard sometimes was to keep the context of each requirement in mind. Elena showed [an example of expandable requirements](https://www.gov.uk/service-manual/service-standard/point-6-have-a-multidisciplinary-team) from the UK. We agreed on that we need to iterate on this template, but had no concrete idea on the next step yet.
 
 Finally we discussed looking into splitting up the criteria that have the most requirements. This could mitigate the need for deep links, and probably be useful anyway. The criteria that felt most urgent was [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html) and [Require review of contributions](https://standard.publiccode.net/criteria/require-review.html). We will continue to explore this since we have, unrelatedly, discussed splitting the first of these to focus on Community and Governance respectively in a better way.
-
