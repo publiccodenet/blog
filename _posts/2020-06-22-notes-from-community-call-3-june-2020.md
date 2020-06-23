@@ -41,7 +41,7 @@ Eric gave [a practical example of how useful header links are for providing prop
 
 We recognized that the situation could be improved by either making it possible to link to 'chapter and verse' (i.e. a specific requirement) or by making each criterion smaller, so context would be easier to keep.
 
-We also acknowledged that our hesitation to make it harder to update the Standard also stemmed from a feeling that we haven't applied the Standard widely in practice yet. However, we also felt that the Standard is already useful when applied in practice, hence it cannot be too far from being mature.
+We also acknowledged that our hesitation to make it harder to update the Standard stemmed from a feeling that we haven't applied the Standard widely in practice yet. However, we also felt that the Standard is already useful when applied in practice, hence it cannot be too far from being mature.
 
 This led us to a question: how will we know when the Standard is ready for 1.0.0? First we agreed on that we need to apply it more, and on different types of codebases to know. A useful signal would be how much change we felt that the Standard needed after each time we applied it. If that urge decreases, it is a good sign of maturity. So observing our own reactions can be a tool. Another way would be to talk with people in our community that are using the Standard. The best way to do this would probably be long form qualitative interviews to tease this out.
 
