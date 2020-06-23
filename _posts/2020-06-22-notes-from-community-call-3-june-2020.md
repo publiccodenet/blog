@@ -31,7 +31,7 @@ Renato joined the call for the first time and was curious about the Standard, an
 * [Creating new collaborative organisations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/)
 * [How to Build an Open Source Business](https://www.youtube.com/watch?v=c9SJAPxU5bs) 
 
-We gave a general introduction to the Foundation for Public Code, the [Standard for Public Code](https://standard.publiccode.net/), and the concept of [codebase stewardship](https://about.publiccode.net/activities/codebase-stewardship/explaining-stewardship/). We will stay in touch to see how we can collaborate further.
+We gave a general introduction to the Foundation for Public Code, the [Standard for Public Code](https://standard.publiccode.net/), and the concept of [codebase stewardship](https://about.publiccode.net/activities/explaining-codebase-stewardship/). We will stay in touch to see how we can collaborate further.
 
 ### Anchors and deep linking
 
