@@ -37,7 +37,7 @@ We gave a general introduction to the Foundation for Public Code, the [Standard 
 
 This topic was prompted by a [discussion in GitHub](https://github.com/publiccodenet/standard/issues/327). 
 
-Eric gave [a practical example of how useful header links are for providing proper context and tracking when doing the codebase analysis](https://github.com/open-zaak/open-zaak/pull/609/commits/410cc1241c08062429524c05f97751aeda4775de#diff-7604286f979d43446906528aa9487cff), based on the length of the criteria.
+Eric gave a [practical example of how useful header links are for providing proper context and tracking](https://github.com/open-zaak/open-zaak/pull/609/commits/410cc1241c08062429524c05f97751aeda4775de#diff-7604286f979d43446906528aa9487cff) when doing the codebase analysis, based on the length of the criteria.
 
 We recognized that the situation could be improved by either making it possible to link to 'chapter and verse' (i.e. a specific requirement) or by making each criterion smaller, so context would be easier to keep.
 
