@@ -3,7 +3,7 @@ title: "The OpenZaak market consultation workshops"
 author: Felix Faassen
 type: blogpost
 category: codebase stewardship
-excerpt: how to build a financially sustainable open source codebase ecosystem from scratch
+excerpt: How to build a financially sustainable open source codebase ecosystem from scratch
 ---
 
 # The OpenZaak market consultation workshops
@@ -16,7 +16,7 @@ I started working as a Foundation for Public Code codebase steward at the start 
 
 OpenZaak is an open-source case register platform for municipalites which implements the [nationwide case management APIs (zaakgericht werken APIs)](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken). These establish a standard modern application architecture, making it easy for municipalities to create and deliver new online services to citizens and share data with other municipalities.
 
-OpenZaak was commissioned from a small developer by a group of more than 40 Dutch municipalities working together, including [Dimpact](https://www.dimpact.nl/), an association for shared municipal technology procurement. By February 2020, the municipalities were ready to take OpenZaak into production and further develop the software together with different software vendors. Amsterdam, Haarlem, Utrecht and the Dimpact municipalities asked the Foundation for Public Code to help them answer this question: how can we create a diverse and open community of market parties around OpenZaak
+OpenZaak was commissioned from a small developer by a group of more than 40 Dutch municipalities working together, including [Dimpact](https://www.dimpact.nl/), an association for shared municipal technology procurement. By February 2020, the municipalities were ready to take OpenZaak into production and further develop the software together with different software vendors. Amsterdam, Haarlem, Utrecht and the Dimpact municipalities asked the Foundation for Public Code to help them answer this question: how can we create a diverse and open community of market parties around OpenZaak.
 
 ## The OpenZaak market consultation
 
@@ -36,7 +36,7 @@ For example, there might be vendors offering first line helpdesk services that a
 
 ![Screenshot of governance game in progress](/assets/governance-workshop-screenshot-miro-board-1-wip.png)
 
-Due to the COVID-19 pandemic lockdown, we had to design workshops that were engaging, delivered the desired output...and completely remote.  We took extra care to make sure the workshop agendas were goal specific and could be [shared with and re-used by other codebases and communities](https://github.com/publiccodenet/about/issues/685).
+Due to the COVID-19 pandemic lockdown, we had to design workshops that were engaging, delivered the desired output... and completely remote.  We took extra care to make sure the workshop agendas were goal specific and could be [shared with and re-used by other codebases and communities](https://github.com/publiccodenet/about/issues/685).
 
 Above all, we wanted the workshops to be a valuable introduction to what it would be like to be part of the OpenZaak community. So not just answering questions, but really exploring and experiencing together how to grow a marketplace around an open source code base. This goal required us to reframe our workshop topics to highlight the symbiotic benefits of an open source codebase community.
 
@@ -54,7 +54,7 @@ With this framing, vendors surprised me with the scale of their ambitions for Op
 
 The second workshop was about the risks involved in running in OpenZaak in production both from a municipality and vendor perspective. But instead of discussing service level agreements and requirements, we chose the users' perspective.
 
-A case management system is a central part of a municipality's primary business processes. When a system is unavailable to its users, the first question asked is 'who are you going to call? The answer might be different depending on the size of the municipality or what kind of service is offered by the vendor.
+A case management system is a central part of a municipality's primary business processes. When a system is unavailable to its users, the first question asked is 'who are you going to call?'. The answer might be different depending on the size of the municipality or what kind of service is offered by the vendor.
 
 We had two groups discussing this subject at different levels. One group focused on the operational side of support and services; the other had a more strategic take on the subject. This successfully shifted the conversation to the ecosystem:
 
