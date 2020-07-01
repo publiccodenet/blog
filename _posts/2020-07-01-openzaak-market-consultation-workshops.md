@@ -34,7 +34,7 @@ For example, there might be vendors offering first line helpdesk services that a
 
 ## The workshops
 
-![Screenshot of governance game in progress](governance-workshop-screenshot-miro-board-1-wip)
+![Screenshot of governance game in progress](governance-workshop-screenshot-miro-board-1-wip.png)
 
 Due to the COVID-19 pandemic lockdown, we had to design workshops that were engaging, delivered the desired output...and completely remote.  We took extra care to make sure the workshop agendas were goal specific and could be [shared with and re-used by other codebases and communities](https://github.com/publiccodenet/about/issues/685).
 
