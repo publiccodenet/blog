@@ -16,7 +16,7 @@ I started working as a Foundation for Public Code codebase steward at the start 
 
 OpenZaak is an open-source case register platform for municipalites which implements the [nationwide case management APIs (zaakgericht werken APIs)](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken). These establish a standard modern application architecture, making it easy for municipalities to create and deliver new online services to citizens and share data with other municipalities.
 
-OpenZaak was commissioned from a small developer by a group of more than 40 Dutch municipalities working together, including [Dimpact](https://www.dimpact.nl/), an association for shared municipal technology procurement. By February 2020, the municipalities were ready to take OpenZaak into production and further develop the software together with different software vendors. Amsterdam, Haarlem, Utrecht and the Dimpact municipalities asked the Foundation for Public Code to help them answer this question: how can we create a diverse and open community of market parties around OpenZaak.
+OpenZaak was commissioned from a developer by a group of more than 40 Dutch municipalities working together, including [Dimpact](https://www.dimpact.nl/), an association for shared municipal technology procurement. By February 2020, the municipalities were ready to take OpenZaak into production and further develop the software together with different software vendors. Amsterdam, Haarlem, Utrecht and the Dimpact municipalities asked the Foundation for Public Code to help them answer this question: how can we create a diverse and open community of market parties around OpenZaak.
 
 ## The OpenZaak market consultation
 
