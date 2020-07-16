@@ -42,7 +42,7 @@ We also agreed on that having a separate governance criterion could be somewhat 
 
 With the explaination of the way the criterion was split the group found the requirement about the roadmap to fit better under Welcome contributions.
 
-After changing the header and moving that requirement the consensus was that this was ready to become a pull request.
+After changing the header and moving that requirement the consensus was that this was ready to become a [pull request](https://github.com/publiccodenet/standard/pull/347).
 
 ### Create reusable and portable code
 
