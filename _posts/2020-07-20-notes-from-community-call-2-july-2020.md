@@ -32,7 +32,7 @@ categories:
 
 Jonathan and Peter was given an introduction to the Foundation for Public Code and an explanation of codebase stewardship. Rather than attempt to go into details of the Standard for Public Code, they each decided to come back to a Foundation for Public Code community call in the future.
 
-### Splitting Welcome contributions
+### Splitting the Standard for Public Code's [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html) criterion
 
 Eric explained the background which is mostly captured in the [notes from our last community call](https://blog.publiccode.net/community%20call/2020/06/22/notes-from-community-call-3-june-2020.html). Then [the draft](https://hackmd.io/R0Q4PeDoSSqaUPYt1uDaMA) was shown to everybody and a few minutes were given to just read it through. As a quick improvment the name for the new criterion *Supporting easy contributions* was changed to *Make contributing easy*.
 
