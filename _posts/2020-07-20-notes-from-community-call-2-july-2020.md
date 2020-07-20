@@ -30,7 +30,7 @@ categories:
 
 ### Introductions
 
-Jonathan and Peter was given an introduction to the Foundation for Public Code and an explanation of codebase stewardship. Rather than attempt to go into details of the Standard for Public Code, they each decided to come back to a Foundation for Public Code community call in the future.
+Jonathan and Peter were given an introduction to the Foundation for Public Code and an explanation of codebase stewardship. Rather than attempt to go into details of the Standard for Public Code, they each decided to come back to a [Foundation for Public Code community call](https://about.publiccode.net/activities/community-calls/) in the future.
 
 ### Splitting the Standard for Public Code's [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html) criterion
 
