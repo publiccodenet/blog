@@ -22,7 +22,7 @@ categories:
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 * [Alba Roza](https://publiccode.net/team/alba-roza.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
-* [Laura Scheske](https://publiccode.net/team/laura-Scheske.html)
+* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
 * [Jonathan Pichot](https://twitter.com/_pichot)
 * [Peter Kuhn](https://twitter.com/nhuKreteP)
 
