@@ -3,7 +3,7 @@ title: "Notes from community call - 2 July 2020"
 date: 2020-07-20
 author: Jan Ainali
 type: blogpost
-excerpt: In which we split Welcome contributions
+excerpt: Splitting 'Welcome contributions' in the Standard for Public Code
 categories:
   - Community call
 ---
