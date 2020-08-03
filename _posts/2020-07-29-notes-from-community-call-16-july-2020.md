@@ -1,5 +1,5 @@
 ---
-title: "Notes from community call - 16 July 2020"
+title: "16 July 2020 - Foundation for Public Code community call"
 date: 2020-07-29
 author: Jan Ainali
 type: blogpost
