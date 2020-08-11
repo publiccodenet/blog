@@ -13,7 +13,7 @@ The Covid-19 pandemic has brought about quite a few changes at the Foundation fo
 
 With this transition to a virtual working reality we were in dire need of some off-screen socializing with [the entire team](https://publiccode.net/team/). Our Utrecht native and latest addition to the team, Felix Faassen, organized a wonderful day away in the forests of Lage Vuursche in the Netherlands on August 5th.
 
-![Strolling through cool Dutch forests](../assets/team-outing-walking-2020.jpeg)
+![Strolling through cool Dutch forests]({{site.url}}/assets/team-outing-walking-2020.jpeg)
 
 We spent the day hiking through this very diverse national park (temperate forests, heath, dunes), tried to spot the former Queen Beatrix in her castle, refueled for lunch at restaurant "Buiten in de Kuil", and stopped for ice cream on our way back. Check out the locations on the map below! 
 
@@ -34,5 +34,5 @@ Spending the day together outside the confinement of our homes was a privilege w
 
 We realized that spending time together in the same physical space doesn't only add value to our interactions, but is a lot of fun! We are already thinking about how we can make our upcoming strategy session happen in person (maybe we can rent [one of these](https://en.wikipedia.org/wiki/Open_air_school)?). Now all that remains is hoping for an Indian summer!
 
-![The whole team of the Foundation for Public Code](../assets/team-outing-2020.jpg)
+![The whole team of the Foundation for Public Code]({{site.url}}/assets/team-outing-2020.jpg)
 (From left to right: Laura, Ben, Felix, Eric (back), Elena (front), Alba, Claus (back), Boris (mid), Jan (front), Deborah)
