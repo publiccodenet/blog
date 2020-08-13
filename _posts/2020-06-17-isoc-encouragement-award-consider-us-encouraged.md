@@ -26,4 +26,4 @@ The [Internet Society Netherlands press release](https://awards.isoc.nl/innovati
 
 We're heartened to share this encouragement with the broader Foundation for Public Code community - the team is excited and eager to continue our work.
 
-Tags: {% for tag in page.tags %} [{{ tag }}](/tags/{{ tag }}/) {% endfor %}
+Tags: {% for tag in page.tags %} [{{ tag }}]({{site.url }}/tags/{{ tag }}) {% endfor %}

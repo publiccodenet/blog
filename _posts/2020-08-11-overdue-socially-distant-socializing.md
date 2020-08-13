@@ -38,4 +38,4 @@ We realized that spending time together in the same physical space doesn't only 
 
 ![The whole team of the Foundation for Public Code]({{site.url}}/assets/team-outing-2020.jpg) (From left to right: Laura, Ben, Felix, Eric (back), Elena (front), Alba, Claus (back), Boris (mid), Jan (front), Deborah)
 
-Tags: {% for tag in page.tags %} [{{ tag }}](/tags/{{ tag }}/) {% endfor %}
+Tags: {% for tag in page.tags %} [{{ tag }}]({{ site.url }}/tags/{{ tag }}) {% endfor %}
