@@ -1,13 +1,11 @@
 ---
-title: 'We''ve won our first award: consider us encouraged! <3'
+title: "We've won our first award: consider us encouraged! <3"
 date: 2020-06-17T00:00:00.000Z
 author: elena
 type: blogpost
 category: news
 tag: awards
-excerpt: >-
-  We're delighted to win an Encourgament Award from Internet Society Netherlands
-  (as part of the 2020 Innovation Award)
+excerpt:  We're delighted to win an Encourgament Award from Internet Society Netherlands (as part of the 2020 Innovation Award)
 ---
 
 # We've won our first award: consider us encouraged! <3
