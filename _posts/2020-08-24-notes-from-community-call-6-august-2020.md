@@ -1,6 +1,6 @@
 ---
 title: "Notes from community call - 6 August 2020"
-date: 2020-08-20
+date: 2020-08-24
 author: Jan Ainali
 type: blogpost
 excerpt: Discussions about if and how we should do translations of the Standard for Public Code
