@@ -23,7 +23,7 @@ categories:
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
-* [Laura Scheske](https://publiccode.net/team/laura-Scheske.html)
+* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
 * Jonas Claesson (JobTech Swedish Public Employment Office)
 * Joeri Bekker (Maykin Media)
 * Olaf-Gerd Gemein (SmartCitiesLab)
