@@ -42,7 +42,7 @@ After a brief introduction, we opened the floor to thoughts on the usefulness of
 
 Boris highlighted that providing translations comes with a cost, and that the cost increases if they are to be seen as official in some way.
 
-The participants agreed widely that there only needed to be one official version, in English, and that any translations were only provided as a non-binding helpful service. Machine translations and community crowdsourced translations were suggested as satisfactory solutions.
+The participants agreed widely that there only needed to be one official version, in English, and that any translations should only be provided as a non-binding helpful service. Machine translations and community crowdsourced translations were suggested as satisfactory solutions.
 
 An important aspect about the traceablility of the translations was raised. Participants discussed that there needs to be clarity on the exact version of the Standard a translation is based on. It was deemed crucial that there should be no confusion about that. There was general agreement that the English version should be the canonical version. Including disclaimers in translated versions that point to the repository of the original English version was proposed as a straightforward solution.
 
