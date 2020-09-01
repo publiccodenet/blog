@@ -23,7 +23,7 @@ This is why we are **launching our first live stream/podcast, 'Let's talk about 
 
 Stay tuned next **Thursday, 8 September at 14.00 (UTC)** for the first episode. You will be able to ask real time questions of our first guest, Dr. Arnau Monterde, coordinator from the popular project [Decidim](https://decidim.org/), a public codebase that has been replicated in dozens of organizations in Spain, Canada, Finland, Mexico, France, Sweden and Italy.
 
-Think of that issue your codebase is stumbling upon, that documentation question you always have in mind, that product backlog that is stuck... what if you could ask a real expert about it? Come along and [watch our YouTube channel](https://www.youtube.com/channel/UCXIL94kkenw0cs_ZgNhKYuw) next Thursday, we'll be waiting for you!
+Think of that issue your codebase is stumbling upon, that documentation question you always have in mind, that product backlog that is stuck... what if you could ask a real expert about it? Bring all your questions to our livestream next Thursday, we'll be waiting for you!
 
 Are you unable to join then? Don't worry, we've also thought about that. We are going to publish the interview in [podcast format](https://podcast.publiccode.net/) once it's edited, so everyone has the chance of listening to Arnau's insights.
 
