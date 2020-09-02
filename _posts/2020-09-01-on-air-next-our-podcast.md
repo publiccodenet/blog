@@ -3,8 +3,9 @@ title: "On air next: our podcast!"
 date: 2020-09-01
 author: Alba Roza
 type: blogpost
-excerpt: We're launching a new livestream/video podcast: 'Let's talk about public code'
-category: news
+excerpt: We're launching a new livestream/video podcast 'Let's talk about public code'
+categories:
+  - news
 ---
 
 # On air next: our podcast!
