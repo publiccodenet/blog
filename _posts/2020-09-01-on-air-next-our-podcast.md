@@ -1,5 +1,5 @@
 ---
-title:  "On air next: our podcast!"
+title: "On air next: our podcast!"
 date: 2020-09-01
 author: Alba Roza
 type: blogpost
