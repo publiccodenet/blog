@@ -28,3 +28,5 @@ Think of that issue your codebase is stumbling upon, that documentation question
 Are you unable to join then? Don't worry, we've also thought about that. We are going to publish the interview in [podcast format](https://podcast.publiccode.net/) once it's edited, so everyone has the chance of listening to Arnau's insights.
 
 See you all next week!
+
+Travis test: does a LinkedIn Live deeplink pass Travis? https://www.linkedin.com/video/live/urn:li:ugcPost:6516352819153502208/
