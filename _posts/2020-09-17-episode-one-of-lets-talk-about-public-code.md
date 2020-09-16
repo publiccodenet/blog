@@ -22,7 +22,7 @@ The video is available in a number of places:
 
 ## Where can I find the podcast?
 
-Do you prefer just listen to the audio? The you're in for a treat. We have published a polished version of the interview at [podcast.publiccode.net](https://podcast.publiccode.net/). We are also listed in the following platforms so it's a good chance you'll find us directly in your favourite podcast player if it's something else than Podbean where we are hosted:
+Do you prefer just listen to the audio? Then you're in for a treat. We have published a polished version of the interview at [podcast.publiccode.net](https://podcast.publiccode.net/). It is also listed in the following platforms so it's a good chance you'll find us directly in your favourite podcast player if it's something else than Podbean where we are hosted:
 
 - [Spotify](https://open.spotify.com/show/3m7m3AtL0jf67NpQ9B9HRs)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnB1YmxpY2NvZGUubmV0L2ZlZWQueG1s)
