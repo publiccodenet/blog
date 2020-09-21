@@ -1,6 +1,6 @@
 ---
 title: "Episode one of Let's talk about public code!"
-date: 2020-09-17
+date: 2020-09-21
 author: Jan Ainali
 type: blogpost
 excerpt: The first episode of our podcast is available
