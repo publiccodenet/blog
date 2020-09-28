@@ -43,7 +43,7 @@ During the meeting a summary of the previous call and how the Foundation for Pul
 Jan described how it will be a lot easier for people just doing translations if platforms purposed for this are used (having translation memory, documentation about what's being translated etc.) and how those can be automated to commit to a git repository.
 
 Boris described another system with forks with version numbers.
-This can be enabled by having one leading version which lets the Standard for Public Code to evolve in its own pace.
+This can be enabled by having one leading version which lets the Standard for Public Code to evolve at its own pace.
 Each fork could then choose any system they wanted for translation that suits their language community.
 
 But both of these directions will be on hold while the possibility of professional translators is being explored.
