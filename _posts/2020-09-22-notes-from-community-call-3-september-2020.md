@@ -33,7 +33,7 @@ And for more news, you can always head to our [blog](https://blog.publiccode.net
 ## Notes
 
 National public organizations might have access to professional translators in the EU languages which opens up a totally different path than traditional community translations by volunteers.
-The Foundation for Public Code could then be the one that take institutional responsibility for overseeing and merging translations in collaboration with a community for each language.
+The Foundation for Public Code could then take institutional responsibility for overseeing and merging translations in collaboration with a community for each language.
 This solution seemed particulary interesting and the Foundation for Public Code will look into this path next.
 
 As a short term solution the Standard for Public Code could also be modularized further.
