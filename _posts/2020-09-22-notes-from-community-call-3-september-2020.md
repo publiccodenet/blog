@@ -3,7 +3,7 @@ title: "Notes from community call - 3 September 2020"
 date: 2020-09-22
 author: Jan Ainali
 type: blogpost
-excerpt: Discussions about processes for how to do translations of the Standard for Public Code
+excerpt: Discussion about processes to translate the Standard for Public Code
 categories:
   - Community call
 ---
