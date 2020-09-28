@@ -40,7 +40,7 @@ As a short term solution the Standard for Public Code could also be modularized 
 Of particular interest would be an executive summary that also would be quicker to translate and at the same time might be the most important part to localize.
 
 During the meeting a summary of the previous call and how the Foundation for Pulic Code have been thinking about translations was given.
-Jan described how it will be a lot easier for people just doing translations if platforms purposed for this are used (having translation memory, documentation about what's being translated etc.) and how those can be automated to commit to a git repository.
+Jan described how it would be a lot easier for people just doing translations if platforms designed for this are used (with features like translation memory or documentation about what's being translated) and how those can be automated to commit to a git repository.
 
 Boris described another system with forks with version numbers.
 This can be enabled by having one leading version which lets the Standard for Public Code to evolve at its own pace.
