@@ -7,5 +7,5 @@ excerpt: [Celebrating Global Goals Week by explaining how we're working towards 
 category: [our current categories are: news]
 ---
 
-![colorful table listing 17 Sustainable Development Goals](assets/the-global-goals-grid-color.png)
+![colorful table listing 17 Sustainable Development Goals]({{site.url}}/assets/the-global-goals-grid-color.png)
 
