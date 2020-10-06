@@ -43,4 +43,4 @@ Following this, we talked a little bit about [our definition of public code](htt
 
 The discussion was mostly philosophical, and it stood clear that codebases exists all from where it is very obvious exact which policy that is getting implemented  to cases where it is equally obvious that none exist. The interesting parts are all those cases in between where it is plausible that the codebase implements policy but it might never have been stated explicitly. Or when a generic codebase is used as a tool to execute policy but where the policy is not implemented in the codebase itself.
 
-This discussion were enlightning but not conclusive and we need to continue with it in the future.
+This discussion was enlightening but not conclusive, so we need to continue with it in the future.
