@@ -29,7 +29,7 @@ categories:
 
 ### Distinguish the requirements of the "Create reusable and portable code" criterion
 
-This issue arose during a Standard gap analysis where it was a bit unclear what the differences were. They are intended to have a different focus so new wording was proposed to make it more clear. We all liked [this proposed change](https://github.com/publiccodenet/standard/pull/353), but will let it linger for a few more weeks in case anyone else has a comment.
+This issue arose during a Standard gap analysis where it was unclear what the difference between the terms portable and reusable was. They are intended to have a different focus so new wording was proposed to make it more clear. We all liked [this proposed change](https://github.com/publiccodenet/standard/pull/353), but will let it linger for a few more weeks in case anyone else has a comment.
 
 ### Add a requirement to consider the ethics of your software
 
