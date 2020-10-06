@@ -33,7 +33,7 @@ This issue arose during a Standard gap analysis where it was a bit unclear what 
 
 ### Add a requirement to consider the ethics of your software
 
-In order to support 'do no harm' requirments from the Digital Public Goods application, [we made some proposals](https://github.com/publiccodenet/standard/pull/356) for changes to make sure that ethics are not forgotten. We believe that no new requirements are called for since public organizations usually have that covered already so they only need to be referred to. We adjusted the wording of the proposal slightly.
+In order to support 'do no harm' requirements for our [Digital Public Goods](https://digitalpublicgoods.net/get-involved/) application, [we made some proposals](https://github.com/publiccodenet/standard/pull/356) for changes to the Standard, that ensure that ethics are not forgotten. We believe that no new requirements are necessary, since public organizations usually have stringent ethical principles and policies, which can be referred to. We adjusted the wording of the proposal slightly.
 
 We also acknowledged that some suggestions for the sections 'further reading' are welcome but intentionally left them out of this pull request to keep it small and easy to move forward.
 
