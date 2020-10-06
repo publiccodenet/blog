@@ -39,7 +39,7 @@ We also acknowledged that some suggestions for the sections 'further reading' ar
 
 ### General discussion about public code
 
-Following this, we talked a little bit on [our definition of public code](https://about.publiccode.net/glossary/public-code-definition.html) and how policy should be referenced in the codebase for us to consider it as such. This in light of the policy we just discussed and the criterion [Bundle policy and source code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html).
+Following this, we talked a little bit about [our definition of public code](https://about.publiccode.net/glossary/public-code-definition.html) and how policies should be referenced in codebases for us to consider them as such. This came up in light of the policy we just discussed and the criterion [Bundle policy and source code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html).
 
 The discussion was mostly philosophical, and it stood clear that codebases exists all from where it is very obvious exact which policy that is getting implemented  to cases where it is equally obvious that none exist. The interesting parts are all those cases in between where it is plausible that the codebase implements policy but it might never have been stated explicitly. Or when a generic codebase is used as a tool to execute policy but where the policy is not implemented in the codebase itself.
 
