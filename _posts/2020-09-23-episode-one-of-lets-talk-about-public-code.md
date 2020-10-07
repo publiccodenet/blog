@@ -16,9 +16,11 @@ Recently we [shared the news](https://blog.publiccode.net/news/2020/09/01/on-air
 
 The video is available in a number of places:
 
-- [Youtube](https://www.youtube.com/channel/UCXIL94kkenw0cs_ZgNhKYuw)
+- [Youtube](https://www.youtube.com/watch?v=MFAb8QaDXFY)
 - [Periscope](https://www.pscp.tv/w/1nAKEAQlonkKL)
 - [Facebook](https://www.facebook.com/publiccodenet/videos/643877099845339/)
+
+[![Screenshot of the podcast]({{site.url}}/assets/screenshot-podcast.png)](https://www.youtube.com/watch?v=MFAb8QaDXFY)
 
 ## Where can I find the podcast?
 
