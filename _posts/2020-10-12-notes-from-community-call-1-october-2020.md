@@ -16,7 +16,7 @@ categories:
     * [State of the Source 2020: How Open Source in Public Administrations and Government is different](https://www.youtube.com/watch?v=R7B2809l6EU) by Boris
     * [Comparing ecosystems: MariaDB and Public Code - MariaDB Server Fest 2020](https://www.youtube.com/watch?v=m_H4KZmAVtY) by Eric
     * [Open Sourcing our Way to the SDGs](https://www.youtube.com/watch?v=FkeQzL5q5t4), a panel Ben was in.
-* OpenZaak had their first [Product steering meeting](https://lists.publiccode.net/hyperkitty/hyperkitty/list/openzaak-discuss@lists.publiccode.net/thread/FAHQNHUEJADVAGOR6DTMWXMXIGYE3BDP/) and [Technical steering meeting](https://lists.publiccode.net/hyperkitty/hyperkitty/list/openzaak-discuss@lists.publiccode.net/thread/5JGJ2WMIW4M6A5WTBIO5AKEO3HXC7V4I/).
+* [OpenZaak](https://publiccode.net/codebases/openzaak.html) had their first [Product steering meeting](https://lists.publiccode.net/hyperkitty/hyperkitty/list/openzaak-discuss@lists.publiccode.net/thread/FAHQNHUEJADVAGOR6DTMWXMXIGYE3BDP/) and [Technical steering meeting](https://lists.publiccode.net/hyperkitty/hyperkitty/list/openzaak-discuss@lists.publiccode.net/thread/5JGJ2WMIW4M6A5WTBIO5AKEO3HXC7V4I/).
 
 ## Attendees
 
