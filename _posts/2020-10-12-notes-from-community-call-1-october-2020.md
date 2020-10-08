@@ -3,7 +3,7 @@ title: "Notes from community call - 1 October 2020"
 date: 2020-10-12
 author: Jan Ainali
 type: blogpost
-excerpt: Discussion about reusability, thics and public code in general
+excerpt: Discussion about reusability, ethics and public code in general
 categories:
   - Community call
 ---
