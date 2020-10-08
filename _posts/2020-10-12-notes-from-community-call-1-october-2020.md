@@ -41,6 +41,9 @@ We also acknowledged that new [suggestions for 'further reading'](https://github
 
 Following this, we talked a little bit about [our definition of public code](https://about.publiccode.net/glossary/public-code-definition.html) and how policies should be referenced in codebases for us to consider them as such. This came up in light of the policy we just discussed and the criterion [Bundle policy and source code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html).
 
-The discussion was mostly philosophical, and it became clear that codebases are diverse: for some it is very obvious that a specific policy is being implemented, and for others it is equally obvious that none exist. The interesting parts are all those cases in between where it is plausible that a codebase implements policy but it is not being stated explicitly. Or when a generic codebase is used as a tool to execute policy, but the policy is not implemented in the codebase itself.
+The discussion was mostly philosophical, and it became clear that codebases are diverse: for some it is very obvious that a specific policy is being implemented, and for others it is equally obvious that none exist. The interesting parts are all those cases in between where either:
+
+ * it is plausible that a codebase implements policy but it is not being stated explicitly
+ * a generic codebase is used as a tool to execute policy, but the policy is not implemented in the codebase itself
 
 This discussion was enlightening but not conclusive, so we need to continue with it in the future.
