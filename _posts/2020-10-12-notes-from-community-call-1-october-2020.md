@@ -35,7 +35,7 @@ This issue arose during a Standard gap analysis where it was unclear what the di
 
 We've decided to apply to have the Standard recognized as a [Digital Public Good](https://digitalpublicgoods.net/get-involved/). Being a Digital Public Good comes with 'do no harm' requirements, so [we made some proposals](https://github.com/publiccodenet/standard/pull/356) for changes to the Standard to ensure that ethics are not forgotten. We believe that no new requirements are necessary, since public organizations usually have stringent ethical principles and policies, which can be referred to. We adjusted the wording of the proposal slightly.
 
-We also acknowledged that some suggestions for the sections 'further reading' are welcome but intentionally left them out of this pull request to keep it small and easy to move forward.
+We also acknowledged that new [suggestions for 'further reading'](https://github.com/publiccodenet/standard/issues/357) are welcome but intentionally left them out of this pull request to keep it small and easy to move forward.
 
 ### General discussion about public code
 
