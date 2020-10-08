@@ -12,7 +12,7 @@ categories:
 
 ## Update from the Foundation
 
-* We gave several conference talks:
+* We gave several conference talks recently:
     * [State of the Source 2020: How Open Source in Public Administrations and Government is different](https://www.youtube.com/watch?v=R7B2809l6EU) by Boris
     * [Comparing ecosystems: MariaDB and Public Code - MariaDB Server Fest 2020](https://www.youtube.com/watch?v=m_H4KZmAVtY) by Eric
     * [Open Sourcing our Way to the SDGs](https://www.youtube.com/watch?v=FkeQzL5q5t4), a panel Ben was in.
