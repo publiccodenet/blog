@@ -45,7 +45,7 @@ The Foundation for Public Code contributes to achieving goal 16 by increasing tr
 
 An important but often forgotten part of access to information is *how* policy is implemented. Developing public code projects in the open (publishing all code and accompanying documentation), allows the public to see how policy choices that are implemented through digital service provision work in practice. This helps the public understand how this affects their lives, for example algorithms shaped by public policy.
 
-A small practical example of this is work we've done with the [OpenZaak codebase](https://publiccode.net/codebases/openzaak.html). We are helping them move their conversations to open platforms - to GitHub when needed, or to a mailing list where anyone can join or read the archive. This makes it possible for anyone to see what is happening (SDG 16.6) and also participate if they have something to contribute (SDG 16.7).
+A small practical example of this is work we've done with the [OpenZaak](https://publiccode.net/codebases/openzaak.html) and [Signalen](https://publiccode.net/codebases/signalen.html) codebases. We are helping them move their conversations to open platforms - to GitHub when needed, or to a mailing list where anyone can join or read the archive. This makes it possible for anyone to see what is happening (SDG 16.6) and also participate if they have something to contribute (SDG 16.7).
 
 ### Goal 17: Partnerships for the Goals
 
