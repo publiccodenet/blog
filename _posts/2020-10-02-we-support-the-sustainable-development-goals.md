@@ -3,7 +3,7 @@ title: "We support the Sustainable Development Goals"
 date: 2020-10-02
 author: Jan Ainali, Elena Findley-de Regt
 type: blogpost
-excerpt: [Celebrating Global Goals Week by explaining how we're working towards the SDGs]
+excerpt: "Celebrating Global Goals Week by explaining how we're working towards the SDGs"
 category: [our current categories are: news]
 ---
 
@@ -19,13 +19,14 @@ As a reminder, we define 'public code' as open source software developed by publ
 
 Our work to enable a flourishing ecosystem of public code directly supports SDGs 9, 11, 16 and 17.
 
-![colorful table listing Sustainable Development Goals 9, 11, 16 and 17]({{site.url}}/assets/9-11-16-17.png)
+![orange and blue graphic listing Sustainable Development Goals 9, 11, 16 and 17]({{site.url}}/assets/9-11-16-17.png)
 
 ### Goal 9: Industry, Innovation, and Infrastructure
 
 The Foundation for Public Code supports goal 9 by enabling new collaborations between public and private parties.
 
 For example, earlier this year we organized and co-facilitated a [market consultation for OpenZaak](https://github.com/open-zaak/open-zaak-market-consultation), one of the codebases we are supporting. The market consultation convened municipalities and IT-vendors to discuss future needs of both public and private parties and identify potential problems.
+
 By doing this, they are building effective partnerships (SDG 17.17) and laying the groundwork for OpenZaak to become a sustainable, resilient and inclusive (digital) infrastructure (SDG 9.1) for Dutch municipalities. During the market consultation, the OpenZaak community decided that public and private organizations should always steer codebase development together and wrote this into the codebase’s foundational documentation. Since the market consultation, municipalities and vendors have set-up a governance structure together to further develop and re-use OpenZaak. On a monthly basis they meet to manage the responsibility of developing and implementing the needs of the community - making for an effective and holistic partnership (SDG 17.17).
 
 ### Goal 11: Sustainable Cities and Communities
@@ -35,6 +36,7 @@ The Foundation for Public Code supports goal 11 by enabling sustainable collabor
 Increasingly, urbanization is planned and managed using digital tools. Using open tools to do so, helps lay the groundwork for making urbanization participatory and inclusive. This builds trust with civil society and encourages further collaboration in the urbanization process.
 
 About a year ago we started working with [Signalen](https://publiccode.net/codebases/signalen.html), a system that enables residents to file a variety of nuisance reports, which are then automatically triaged and routed to the correct handling department within the municipality. The system has already been hugely successful in Amsterdam, and we are now helping a community of interested Dutch municipalities make Signalen reusable.
+
 Signalen's success can contribute to SDG 11.3: "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries."
 
 ### Goal 16: Peace, Justice, and Strong Institutions
