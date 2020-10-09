@@ -4,7 +4,7 @@ date: 2020-10-02
 author: Jan Ainali, Elena Findley-de Regt
 type: blogpost
 excerpt: "Celebrating Global Goals Week by explaining how we're working towards the SDGs"
-category: [our current categories are: news]
+category: policy
 ---
 
 # We support the Sustainable Development Goals
