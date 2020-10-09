@@ -57,4 +57,4 @@ Partnerships are the core of what we do. Our concept of [codebase stewardship](h
 
 As an ever-increasing number of domains targeted by the Sustainable Development Goals undergo digital transformation, codebase stewardship work such as our own becomes increasingly linked to sustainability overall. Making sure that all SDG initiatives that develop digital tooling take into account the long-term support, iterative improvement, and maintenance of open code should be core to the overall mission of both the Foundation for Public Code and the SDG ecosystem.
 
-We commit to highlighting how we're supporting the SDG in all our major projects in the future, because none of our work is independent or inseparable. We take the Sustainable Development Goals seriously, and believe that awareness of them is in itself important.
+We commit to highlighting how we're supporting the SDGs in all our major projects in the future, because none of our work is independent or inseparable. We take the Sustainable Development Goals seriously, and believe that awareness of them is in itself important.
