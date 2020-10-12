@@ -1,5 +1,5 @@
 ---
-title: "Episode one of Let's talk about public code!"
+title: "Episode one of Let's talk about public code! - an interview with Dr. Arnau Monterde"
 date: 2020-09-23
 author: Jan Ainali
 type: blogpost
