@@ -3,7 +3,7 @@ title: "Notes from community call - 5 November 2020"
 date: 2020-11-16
 author: Jan Ainali
 type: blogpost
-excerpt: Discussion about challenges in implementing the standard
+excerpt: Discussion about challenges in implementing the Standard
 categories:
   - Community call
 ---
