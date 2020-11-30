@@ -24,7 +24,7 @@ categories:
 
 ## Notes
 
-During the call, we discussed why implementing the Standard for Public Code can sometimes be challenging. We covered several different aspects relating to governance (i.e., who decides to comply with the Standard?), language (i.e., are the decision makers comfortable with adopting a standard only described in English?) and committment (i.e., what does it mean for the organisation to commit to comply with the Standard?).
+During the call, we discussed why implementing the Standard for Public Code can sometimes be challenging. We covered several different aspects relating to governance (i.e., who decides to comply with the Standard?), language (i.e., are the decision makers comfortable with adopting a standard only described in English?) and commitment (i.e., what does it mean for the organization to commit to comply with the Standard?).
 
 No direct solutions were discovered during the call, but being aware of them could lead to the questions being addressed earlier and more appropriately.
 
