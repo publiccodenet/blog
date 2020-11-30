@@ -21,7 +21,7 @@ categories:
 
 * Our [blog](https://blog.publiccode.net/) is up and running and news will be posted there more regularly from now on.
 * We got a prototype of the [Governance game](https://github.com/publiccodenet/governance-game).
-* We are going to Connected Smart Cities Conference 23 January and [have a session on governance](https://oasc.events.idloom.com/connected-smart-cities-conference-2020/pages/programme).
+* We are going to Connected Smart Cities Conference 23 January and [have a session on governance](https://web.archive.org/web/20200810162311/https://oasc.events.idloom.com/connected-smart-cities-conference-2020/pages/programme).
 * The office will be closed from 21 December to 5 January.
 
 ## Call notes
