@@ -22,7 +22,7 @@ categories:
 * We have a new minor release of [Standard for Public Code, 0.1.4](https://github.com/publiccodenet/standard/releases/tag/0.1.4).
 * The governance exercise we have been using have been forked into a *Governance game* which now lives in [its own repository](https://github.com/publiccodenet/governance-game).
 * We have [developed](https://github.com/publiccodenet/about/pull/520) our processes for how we start looking into new codebases and evaluate how we can help them become successful.
-* Ben, our president, went to [Smart City Expo World Congress](http://www.smartcityexpo.com/de/the-event/past-editions-2019) and gave a talk.
+* Ben, our president, went to Smart City Expo World Congress and gave a talk.
 
 ## Call notes
 
