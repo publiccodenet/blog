@@ -22,7 +22,7 @@ Welcome to our newsletter, bumper summer edition. Like last summer, many of the 
 ### Codebase stewardship
 
 * We currently have 2 codebases under stewardship: [Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html). Both codebases are focused on growing their open source communities in 2020.
-* In June, we built a prototype product marketing website fo OpenZaak: <openzaak.org>.
+* In June, we built a prototype product marketing website for OpenZaak: [openzaak.org](https://openzaak.org/).
 * In July, [Felix](https://publiccode.net/team/felix-faassen.html) blogged about his experiences with the OpenZaak market consultation. [Read his blogpost](https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html).
 * Also in July, [Alba](https://twitter.com/Alba_Roza) developed a communications plan for Signalen, finished a 🎥 [video introducing Signalen](https://www.youtube.com/watch?v=I2Z-mRFt3pg), and launched the Signalen communications steering group.
 * Throughout July and August, [Eric](https://publiccode.net/team/eric-herman.html) and [Jan](https://publiccode.net/team/jan-ainali.html) worked with the Signalen and OpenZaak codebase communities to bring the codebases closer to Standard compliance (for example [adding a licence header to each source code file in OpenZaak](https://github.com/open-zaak/open-zaak/pull/672)).
@@ -39,7 +39,7 @@ Welcome to our newsletter, bumper summer edition. Like last summer, many of the 
 * We took advantage of the summer lull to focus on our own maintenance and administration.
 * We reorganized how the Board of Directors gets updates from the Foundation. [Ben](https://publiccode.net/team/ben-cerveny.html), [Boris](https://publiccode.net/team/boris-van-hoytema.html), [Laura](https://publiccode.net/team/laura-scheske.html) and [Claus](https://publiccode.net/team/claus-mullie.html) are now working on a logframe and roadmap so there's more clarity and predictabilty about our goals and how we'll get there. We'll publish these when they're ready.
 * In operations, [Deborah](https://publiccode.net/team/deborah-meibergen.html) has updated our financial forecasting model, upgraded our chat server, launched new tools to support our community (Mailman, Podbean and StreamYard), and has been experimenting with putting Jitsi on a more stable and scalable footing.
-* For communications, [Floris](http://flrs.nl/contact) is producing beautiful new illustrations and we've reorganised the [illustrations repo](https://github.com/publiccodenet/illustrations) so each illustration has better metadata. [Elena](https://publiccode.net/team/elena-findley-de-regt.html) and [Ryan](http://www.angelplasma.net/work/) are working on a refresh of <publiccode.net>.
+* For communications, [Floris](http://flrs.nl/contact) is producing beautiful new illustrations and we've reorganised the [illustrations repo](https://github.com/publiccodenet/illustrations) so each illustration has better metadata. [Elena](https://publiccode.net/team/elena-findley-de-regt.html) and [Ryan](http://www.angelplasma.net/work/) are working on a refresh of [publiccode.net](https://publiccode.net/).
 
 ## Community and public recognition (spreading the word!) 🗣️💃🙌
 
