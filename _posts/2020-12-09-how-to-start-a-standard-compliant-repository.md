@@ -3,7 +3,7 @@ title: "Notes from community call - 5 November 2020"
 date: 2020-12-09
 author: Jan Ainali
 type: blogpost
-excerpt: A step by step guide to make things right right from the start
+excerpt: A step by step guide to make things right, right from the start
 categories:
   - News
 ---
@@ -14,11 +14,11 @@ As maintainers of the [Standard for Public Code](https://standard.publiccode.net
 
 Below we assume that you know which policy your public code implements even though you don't have any source code yet. We make that assumption based on our [definition of public code](https://about.publiccode.net/glossary/public-code-definition.html). If you don't know it yet, but still want to meet as much as possible of the standard, just ignore the bullet points that refer to policy below.
 
-Disclaimer: we are intentionally ignoring the requirement "The codebase SHOULD be in use by multiple parties." in the criteria [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html) since no one is using it from the start.
+Note: we are intentionally ignoring the requirement "The codebase SHOULD be in use by multiple parties." in the criteria [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html) since no one is using it from the start.
 
 ## Step 0: Create an organization
 
-The repository should not be hosted by a single individual. And if you want to comply with spirit of the Standard for Public Code, you should start with creating an organization for this specific codebase. That makes it more attractive for people outside your agency to join in and feel ownership of the codebase. Name the organization the same name as the codebase (org_name below). The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding (codebase_name below).
+The repository should not be hosted by a single individual. If you want to comply with spirit of the Standard for Public Code, start by creating an organization for this specific codebase. That makes it more attractive for people outside your agency to join in and feel ownership of the codebase. Name the organization the same name as the codebase (org_name below). The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding (codebase_name below) - this helps others find it.
 
 Make sure to write everything in English (additional translations are welcome but not needed at this point).
 
@@ -33,11 +33,11 @@ Make sure to write everything in English (additional translations are welcome bu
 ## Step 2 - Protect branches
 
 1. Create the codebase directory locally and change directory to it: `mkdir codebase_name`; `cd codebase_name`
-2. Create you repository locally: `git init`
+2. Create your repository locally: `git init`
 3. Make an initial empty commit: `git commit --allow-empty -m"init"` This is needed to enable branch protection in GitHub.
 4. Add remote: `git remote add origin https://github.com/org_name/codebase_name.git`
 5. Push to GitHub: `git push -u origin master`
-7. Under Settings -> Branches add a new branch protection rule and set it to Require pull request reviews before merging.
+7. Under 'Settings' -> 'Branches' add a new branch protection rule and set it to 'Require pull request reviews before merging'.
 
 ## Step 3 - Compliance with all MUST requirements
 
@@ -57,7 +57,7 @@ Make a new branch where the following changes are made.
 * Create a LICENSE file in the root catalog with an [OSI approved license](https://opensource.org/licenses/category).
 * Make sure all text adheres to the writing style guide.
 
-Now you can make a pull request of these changes to the repository. Add a link to the Standard to explain that this repository aims to be standard compliant. If you want to aim higher, do step 4 and 5 before committing. Have someone, preferably from a different context than you, review the pull request before merging.
+Now you can make a pull request of these changes to the repository. Add a link to the Standard to explain that this repository aims to be standard compliant. If you want to aim higher, do steps 4 and 5 before committing. Have someone, preferably from a different context than you, review the pull request before merging.
 
 ## Step 4 - Compliance with all SHOULD requirements
 
@@ -67,7 +67,7 @@ Now you can make a pull request of these changes to the repository. Add a link t
     * add documentation on the codebase objectives understandable by policy makers and management
     * add a section for standards used and mention the Standard for Public Code with a link
 * In the CONTRIBUTING:
-    * expand the instructions for how to report potentially security sensitive issues on a closed channel
+    * expand the instructions for how to report potentially sensitive security issues on a closed channel
 * Add a publiccode.yml metadata description of the codebase in the root catalog.
 * Add a GOVERNANCE file describing how the governance of the codebase, contributions and its community is handled. If you need help writing it, use [this template](https://about.publiccode.net/activities/supporting-codebase-governance/governance-template.html).
 * Make sure none of the documents include acronyms, abbreviations, puns or legal/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
@@ -86,4 +86,4 @@ Now you can make a pull request of these changes to the repository. Add a link t
 
 ## Step 6 - Celebrate
 
-Congratulations, you have set up your repository in a way that is meeting all relevant requirements in the Standard for Public Code. Keep haveing the standard nearby when you start coding as more requirements will become relevant as source code is added to the repository.
+Congratulations, your new repository now meets all relevant requirements in the Standard for Public Code. Keep the standard close by when you start coding, as more requirements will become relevant as source code is added to the repository.
