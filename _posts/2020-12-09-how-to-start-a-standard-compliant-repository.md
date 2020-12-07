@@ -10,7 +10,9 @@ categories:
 
 # How to start a Standard compliant GitHub repository
 
-As maintainers of the [Standard for Public Code](https://standard.publiccode.net), naturally we want people to be able to follow it as easily as possible. Most commonly we meet people that already have some code in a repository and need to make a few adjustments to meet all of the requirements. But we also meet some people that are about to develop a new codebase, have heard about the Standard and want to meet it from day 1. Which got us thinking about a few practicalities. How do you go about to setup a brand new repository and be standard compliant? In this blog post we will describe how you get started in GitHub. We might return to guides for other platforms in the future.
+As maintainers of the [Standard for Public Code](https://standard.publiccode.net), naturally we want people to be able to follow it as easily as possible. Most commonly we meet people that already have some code in a repository and need to make a few adjustments to meet all of the requirements. But we also meet some people that are about to develop a new codebase, have heard about the Standard and want to meet it from day 1...which got us thinking about a few practicalities. How do you go about to setting up a brand new repository and being Standard compliant?
+
+In this blog post we describe how you get started in GitHub (assuming you have a basic familiarity with GitHub). We may return to guides for other platforms in the future.
 
 Below we assume that you know which policy your public code implements even though you don't have any source code yet. We make that assumption based on our [definition of public code](https://about.publiccode.net/glossary/public-code-definition.html). If you don't know it yet, but still want to meet as much as possible of the standard, just ignore the bullet points that refer to policy below.
 
