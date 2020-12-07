@@ -10,7 +10,7 @@ categories:
 
 # How to start a Standard compliant GitHub repository
 
-As maintainers of the [Standard for Public Code](https://standard.publiccode.net), naturally we want people to be able to follow it as easily as possible. Most commonly we meet people that already have some code in a repository and need to make a few adjustments to meet all of the requirements. But we also meet some people that are about to develop a new codebase, have heard about the Standard and want to meet it from day 1...which got us thinking about a few practicalities. How do you go about to setting up a brand new repository and being Standard compliant?
+As maintainers of the [Standard for Public Code](https://standard.publiccode.net), naturally we want people to be able to follow it as easily as possible. Most commonly we meet people that already have some code in a repository and need to make a few adjustments to meet all of the requirements. But we also meet some people that are about to develop a new codebase, have heard about the Standard and want to meet it from day 1...which got us thinking about a few practicalities. How do you go about setting up a brand new repository and being Standard compliant?
 
 In this blog post we describe how you get started in GitHub (assuming you have a basic familiarity with GitHub). We may return to guides for other platforms in the future.
 
