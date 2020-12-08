@@ -64,7 +64,7 @@ During the global week for the Sustainable Development Goals (September 2020) we
 
 We're happy to be able to stay at our curent premises on the Keizersgracht in Amsterdam until spring 2021.
 
-Our Operations Coordinator, Deborah, is working on bringing our operations handbook online. It's a handy blueprint for anyone who needs to set up and manage key systems to run an open organization like ours. Explore  [our tool management page](https://about.publiccode.net/activities/tool-management/) to see the tools we use.
+Our Operations Coordinator, [Deborah], is working on bringing our operations handbook online. It's a handy blueprint for anyone who needs to set up and manage key systems to run an open organization like ours. Explore  [our tool management page](https://about.publiccode.net/activities/tool-management/) to see the tools we use.
 
 Deborah has also steadily improved our technology systems, ranging from spinning up a Jitsi instance for our community, troubleshooting an [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) issue that impacted our mailing lists, as well as spinning up a VPS for colleagues and community members to co-work via [Virtual Network Computing](https://en.wikipedia.org/wiki/Virtual_Network_Computing). We've also migrated Odoo, our project management and CRM tool, to a new provider.
 
@@ -75,19 +75,19 @@ We're very proud to have launched our podcast, [Let's talk about public code](ht
 - Arnau Monterde from Decidim ([live video](https://www.youtube.com/watch?v=MFAb8QaDXFY), [podcast](https://podcast.publiccode.net/e/lets-talk-about-public-code-1-arnau-monterde-decidim/))
 - Rasmus Frey from OS2 ([live video](https://www.youtube.com/watch?v=fAkT9h4owhs), [podcast](https://podcast.publiccode.net/e/lets-talk-about-public-code-2-rasmus-frey-os2/))
 
-In September, Boris presented at the State of the Source Summit 2020: [How Open Source in Public Administrations and Government is different](https://www.youtube.com/watch?v=R7B2809l6EU).
+In September, [Boris](https://publiccode.net/team/boris-van-hoytema.html) presented at the State of the Source Summit 2020: [How Open Source in Public Administrations and Government is different](https://www.youtube.com/watch?v=R7B2809l6EU).
 
-During Global Goals Week, Ben spoke on a panel about [Opensourcing our way to the SDGs](https://www.youtube.com/watch?v=FkeQzL5q5t4&list=PL_5ziu2gADmDcp_ER8x2rcT1HOBaIe5cl&index=4).
+During Global Goals Week, [Ben](https://publiccode.net/team/ben-cerveny.html) spoke on a panel about [Opensourcing our way to the SDGs](https://www.youtube.com/watch?v=FkeQzL5q5t4&list=PL_5ziu2gADmDcp_ER8x2rcT1HOBaIe5cl&index=4).
 
 In October, Ben spoke on a panel about "Visions for the Future Internet: what if?" at the [Next Generation Internet Summit](https://www.youtube.com/watch?v=f0avTD7WR1U).
 
 We also ran 2 sessions at the Creative Commons Global Summit and made a [short video](https://www.youtube.com/watch?v=QWt6vB-cipE) explaining the Standard for Public Code as a common good.
 
-In November, Alba gave a presentation at [EsLibre](https://www.youtube.com/watch?v=iBi551I2E2c) (in Spanish) and was on a panel at DecidimFest on [Sustainability and scalability in free software projects](https://www.youtube.com/watch?v=v4rXEjJlm8Q&feature=youtu.be).
+In November, [Alba](https://publiccode.net/team/alba-roza.html) gave a presentation at [EsLibre](https://www.youtube.com/watch?v=iBi551I2E2c) (in Spanish) and was on a panel at DecidimFest on [Sustainability and scalability in free software projects](https://www.youtube.com/watch?v=v4rXEjJlm8Q&feature=youtu.be).
 
-Felix wrote [an article about how government and market parties are jointly building the OpenZaak community](https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) for the Dutch national open source forum ([opensource.pleio.nl](https://opensource.pleio.nl/)).
+[Felix](https://publiccode.net/team/felix-faassen.html) wrote [an article about how government and market parties are jointly building the OpenZaak community](https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) for the Dutch national open source forum ([opensource.pleio.nl](https://opensource.pleio.nl/)).
 
-Last week, Jan ran a workshop on how to effectively do "Open Source in the Public Sector" at the [Swedish GovTechDay](https://www.govtechday.se/program-2020#block-yui_3_17_2_1_1603099025104_121820) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
+Last week, [Jan](https://publiccode.net/team/jan-ainali.html) ran a workshop on how to effectively do "Open Source in the Public Sector" at the [Swedish GovTechDay](https://www.govtechday.se/program-2020#block-yui_3_17_2_1_1603099025104_121820) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
 
 ## Reading list
 
