@@ -1,5 +1,5 @@
 ---
-title: "Notes from community call - 5 November 2020"
+title: "How to start a Standard compliant GitHub repository"
 date: 2020-12-09
 author: Jan Ainali
 type: blogpost
