@@ -17,7 +17,7 @@ Welcome to our autumn newsletter, covering September - November 2020. We've had 
 
 In the months ahead, we hope to announce new members and incubate a new codebase.
 
-You can [read our last newsletter](2020-12-02-summer-2020-newsletter.md) (summer 2020) on our blog.
+You can [read our last newsletter](https://blog.publiccode.net/news/2020/12/02/summer-2020-newsletter.html) (summer 2020) on our blog.
 
 ## What we've been up to
 
