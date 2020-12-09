@@ -96,7 +96,7 @@ These have sparked long conversations this autumn:
 - [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) by Sage Sharp
 - [A better GIT workflow with rebase](https://www.themoderncoder.com/a-better-git-workflow-with-rebase/) by the Modern Coder
 - [Remote](https://basecamp.com/books/remote) by Jason Fried and David Heinemeier Hansson
-- [So you've made a mistake and it's public...](https://meta.wikimedia.org/wiki/Special:MyLanguage/So_you%27ve_made_a_mistake_and_it%27s_public...) on Wikipedia
+- [So you've made a mistake and it's public...](https://meta.wikimedia.org/wiki/Special:MyLanguage/So_you%27ve_made_a_mistake_and_it%27s_public...) on Wikimedia
 
 ## See you around
 
