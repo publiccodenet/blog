@@ -7,7 +7,7 @@ excerpt: Our first newsletter, bumper summer edition!
 categories:
   - News
 ---
-# Foundation for Public Code newsletter - summer 2020 
+# Foundation for Public Code newsletter - summer 2020
 
 > This newsletter was originally emailed to subscribers on 31 August 2020. [Subscribe to our newsletter](https://forms.gle/gn7wR2Eaxbv5g1BF9) to get the next one via email!
 
