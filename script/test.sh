@@ -12,7 +12,7 @@ bundle exec jekyll build
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
-    --url-ignore "/github.com/(.*)/edit/" \
+    --url-ignore "/github.com/,/twitter.com/,/opensource.pleio.nl/,/govtechday.se/" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
     --http_status_ignore "429" \
     ./_site
