@@ -26,16 +26,16 @@ categories:
 
 ### Introductions
 
-Renato joined the call for the first time and was curious about the Standard, and had heard about the new 'open by default' policy in the Netherlands. He shared a couple of links he found inspiring: 
+Renato joined the call for the first time and was curious about the Standard, and had heard about the new 'open by default' policy in the Netherlands. He shared a couple of links he found inspiring:
 
-* [Creating new collaborative organisations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/), a blogpost by Richard Pope and DXW
+* [Creating new collaborative organizations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organizations-to-operate-shared-services/), a blogpost by Richard Pope and DXW
 * [How to Build an Open Source Business](https://www.youtube.com/watch?v=c9SJAPxU5bs), a video by Peter Levine and Andreessen Horowitz  
 
 We gave a general introduction to the Foundation for Public Code, the [Standard for Public Code](https://standard.publiccode.net/), and the concept of [codebase stewardship](https://about.publiccode.net/activities/explaining-codebase-stewardship/). We will stay in touch to see how we can collaborate further.
 
 ### Anchors and deep linking
 
-This topic was prompted by a [discussion in GitHub](https://github.com/publiccodenet/standard/issues/327). 
+This topic was prompted by a [discussion in GitHub](https://github.com/publiccodenet/standard/issues/327).
 
 Eric gave a [practical example of how useful header links are for providing proper context and tracking](https://github.com/open-zaak/open-zaak/pull/609/commits/410cc1241c08062429524c05f97751aeda4775de#diff-7604286f979d43446906528aa9487cff) when doing the codebase analysis, based on the length of the criteria.
 
