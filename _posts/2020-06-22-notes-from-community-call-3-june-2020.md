@@ -28,7 +28,7 @@ categories:
 
 Renato joined the call for the first time and was curious about the Standard, and had heard about the new 'open by default' policy in the Netherlands. He shared a couple of links he found inspiring:
 
-* [Creating new collaborative organizations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organizations-to-operate-shared-services/), a blogpost by Richard Pope and DXW
+* [Creating new collaborative organisations to operate shared services](https://www.dxw.com/2020/02/creating-new-collaborative-organisations-to-operate-shared-services/), a blogpost by Richard Pope and DXW
 * [How to Build an Open Source Business](https://www.youtube.com/watch?v=c9SJAPxU5bs), a video by Peter Levine and Andreessen Horowitz  
 
 We gave a general introduction to the Foundation for Public Code, the [Standard for Public Code](https://standard.publiccode.net/), and the concept of [codebase stewardship](https://about.publiccode.net/activities/explaining-codebase-stewardship/). We will stay in touch to see how we can collaborate further.
