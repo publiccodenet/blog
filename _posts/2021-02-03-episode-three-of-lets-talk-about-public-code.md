@@ -28,6 +28,6 @@ The video is available in a number of places:
 
 ## What's next?
 
-The next episode will be livestreamed on March 2, and we will be talking to [Lea Hemetsberger](https://os2.eu/bruger/rasmus-frey), Communications and Project Manager of [Open & Agile Smart Cities](https://oascities.org/).
+The next episode will be livestreamed on March 2, and we will be talking to Lea Hemetsberger, Communications and Project Manager of [Open & Agile Smart Cities](https://oascities.org/).
 Open & Agile Smart Cities is building the foundation for a global market where digital services can scale sustainably together with their international member cities and partner organisations, and based on their core values – openness, agility, and cooperation.
 Make sure to tune in on March 2nd or subscribe to our podcast to catch this interview!
