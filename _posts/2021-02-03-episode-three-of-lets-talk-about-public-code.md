@@ -11,7 +11,7 @@ categories:
 # Episode three of Let's talk about public code!
 
 In the third episode we talked to Sergei Maertens from Maykin Media and Tjerk Vaags from Contezza.
-How can you design a process for handling Common Vulnerabilities and Exposures worked in a collaborative codebase?
+How can you design a process for handling Common Vulnerabilities and Exposures in a collaborative codebase?
 We got to know how they handled a security issue in OpenZaak. Hopefully this will inspire you as you consider what your project would do in the same situation.
 
 You will find the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/) or by searching in your favorite podcast app.
