@@ -20,7 +20,7 @@ categories:
 ## Updates from the Foundation
 
 * Signalen is incubation for the Standard for Pubic Code
-* Signalen and OpenZaak's assessments are both updated to the v.0.2.1 of the template
+* Signalen and OpenZaak's assessments are both updated to the [v.0.2.1 of the template](https://about.publiccode.net/activities/codebase-auditing/review-template.html)
 * Our podcast is back! Check out [Let's talk about public code #3 - Sergei Maertens and Tjerk Vaags, OpenZaak](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/)
 * We'll be at a lot of upcoming events:
     * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://openforumeurope.org/event/policy-summit-2021/)
@@ -38,7 +38,7 @@ categories:
 This community call was full of sharing visions of the future with a lot of ideas, and bouncing them back and forth.
 Here's a summary of what we currently believe certification will look like for codebases that meet the Standard for Public Code.
 
-The Foundation for Public Code will store information about which versions of all codebases that are compliant with the Standard.
+The Foundation for Public Code will store compliance information for every version of all codebases that are (or have ever been) compliant with the Standard.
 Technically, this will be done by saving the hashes of the relevant commits, proving that a specific state of the codebase is certified by the Foundation for Public Code.
 A service will be set up that can respond to a query with a commit hash by stating if it is compliant or not, making it possible to display a verifiable digital badge.
 
