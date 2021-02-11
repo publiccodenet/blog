@@ -54,4 +54,4 @@ For both of these processes we came back to our expectation that for the time be
 Therefore, it is in the regular line of work of the codebase stewards to make sure it is all as smooth as possible for the community.
 
 Finally we are all quite eager to see codebases move towards certification, but do believe we are still a bit away and that we still have time to discuss and iterate on this.
-If you have any opinions, please comment on [this issue](https://github.com/publiccodenet/standard/issues/434).
+If you have any opinions, [please comment on this issue](https://github.com/publiccodenet/standard/issues/434).
