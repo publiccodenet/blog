@@ -22,5 +22,5 @@ After nearly a year in assessment, we're honored they've chosen to work more clo
 
 ## Further reading
 
-* [See the other codebases we work with](https://publiccode.net/codebases/).
+* [See the other codebases we work with](https://publiccode.net/codebases/)
 * [Pull request 697 to the Signalen codebase to add incubation status](https://github.com/Amsterdam/signals/pull/697)
