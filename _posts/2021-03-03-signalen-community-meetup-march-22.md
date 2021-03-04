@@ -6,14 +6,13 @@ type: blogpost
 excerpt: New Signalen community day
 categories:
   - Signalen
-  - Community
 ---
 
 # Invitation: Signalen community meetup, March 22nd
 
 ![Invitation: Signalen invitation community meetup](/assets/Signalen-banner-EN.png)
 
-A few weeks ago we announced in this blog that Signalen was in incubation with the Foundation for Public Code. Today we would like to invite you to its second community get together, that will be held online the following March 22.
+A few weeks ago we announced in [this blog](/_posts/2021-02-04-signalen-is-in-incubation.md) that Signalen was in incubation with the Foundation for Public Code. Today we would like to invite you to its second community get together, that will be held online the following March 22.
 
 Since Signalen is ready for reuse, the meetup will welcome not only municipalities and market parties that are already using Signalen, but also those ones interested in it.
 
