@@ -28,4 +28,4 @@ The video is available in a number of places:
 
 ## What's next?
 
-The next episode will be in April, but date and guest is not set yet. If you have any suggestions for public coders we should talk to, reach out to us on [Twitter](https://twitter.com/publiccodenet) or add a tip in [an issue in our Projects repository](https://github.com/publiccodenet/projects/issues/new).
+The next episode will be in April, but date and guest are not set yet. If you have any suggestions for public coders we should talk to, reach out to us on [Twitter](https://twitter.com/publiccodenet) or comment in [an issue in our Projects repository](https://github.com/publiccodenet/projects/issues/new).
