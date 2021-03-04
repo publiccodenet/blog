@@ -13,7 +13,7 @@ categories:
 ## Update from the Foundation
 
 * The first Standard compliance analysis [has been merged](https://github.com/open-zaak/open-zaak/pull/609)!
-* There's [a mailing list for the Standard for Public Code](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/).
+* There's a mailing list for the Standard for Public Code
 
 ## Attendees
 
