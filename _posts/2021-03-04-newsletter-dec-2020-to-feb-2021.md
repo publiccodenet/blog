@@ -11,31 +11,30 @@ category: news
 
 Hello!
 
-It's time again to share what we've done since [November 2020](https://blog.publiccode.net/news/2020/12/02/autumn-2020-newsletter.html). 
+It's again time to share what we've done since [November 2020](https://blog.publiccode.net/news/2020/12/02/autumn-2020-newsletter.html).
 
 We have 3 highlights:
 
 - We're delighted that the [Signalen codebase is now in incubation]({% post_url 2021-02-04-signalen-is-in-incubation %}) with the Foundation for Public Code
-- We're proud to have launched a new product: a free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform. 
+- We're proud to have launched a new product: a free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform.
 - We received a philanthropic gift from Josh Elkes - thanks for enabling our work, Josh!
 
 And coming up:
 
 - MozFest 2021: come discuss "How public code can transform the digital future of cities" with our President Ben Cerveny and Ger Baron, CTO of Amsterdam on March 11th at 19:15 [register here](https//:schedule.mozillafestival.org/session/TDHQ3D-1)
-- MozFest 2021: we often get asked what individuals can do to affect their government's technology choices, which we don't have a good answer to. [Join this workshop](https://schedule.mozillafestival.org/session/CSH7RM-1) to hear what's worked for others, and what to try next. 21.15 CET, 11 March 2021.
-- Boris will be part of a panel
+- MozFest 2021: we often get asked what individuals can do to affect their government's technology choices, which we don't have a good answer to. [Join this workshop](https://schedule.mozillafestival.org/session/CSH7RM-1) (21.15 CET, 11 March 2021) to hear what's worked for others, and what to try next.
 
-Read on for everything else.
+Read on for everything else!
 
 ## What we've been up to
 
 ### Standard for Public Code
 
-Keep an eye out for a new release of the [Standard for Public Code](https://standard.publiccode.net/) soon.
+Keep an eye out for a [new release of the Standard for Public Code](https://github.com/publiccodenet/standard/pull/478) soon.
 
 ### Codebase stewardship
 
-We currently have 2 codebases in incubation (OpenZaak and Signalen) and 1 in assessment (Omgevingsbeleid). 
+We currently have 2 codebases in incubation (OpenZaak and Signalen) and 1 in assessment (Omgevingsbeleid).
 
 In the last months, the Omgevingsbeleid team has selected a license and published their backend. [Check out their demo site](https://omgevingsbeleid.zuid-holland.nl/).
 
@@ -43,10 +42,9 @@ The OpenZaak community dealt with their first critical security vulnerability in
 
 The Signalen community is now publishing documentation at docs.signalen.org. They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
 
+Signalen is hosting their first community day on 22 March! [See the program and register here](https://eventyay.com/e/12fbd0dc).
 
-Signalen is hosting their first community day on 22 March! See the program and register here: https://eventyay.com/e/12fbd0dc
-
-Both OpenZaak and Signalen now have blogging functionality on their product sites - we'll be adding highlights from these codebase communities to future newsletters.
+Both OpenZaak and Signalen now have blogging functionality on their product sites - we'll add highlights from these codebase communities to future newsletters.
 
 ### Operations
 
@@ -58,14 +56,13 @@ We're fully focused on producing our first annual report, which we'll publish in
 
 There's lots of [development work](https://github.com/jlowry/wikimedia-meet-accountmanager/tree/WIP) ongoing to create a ticketmaster account with which we can generate invitation tokens for anyone in our community that wants to sign up to use our community Jitsi. We are [building on a Wikimedia tool.](https://github.com/wikimedia/wikimedia-meet-accountmanager)
 
-And to celebrate one less distraction, we're able to stay in our office until at least June 2021.
-
+And to celebrate having fewer distractions, we're able to stay in our office until at least June 2021.
 
 ### Communications
 
-In January, we adopted a decentralized approach to creating social media, so that the whole team can tell the world what's really exciting in their area at that moment. Of course, we [also published guidance](https://about.publiccode.net/activities/communication/how-to-post-to-social-media.html) on how to use our new social media tool, Planable.
+In January, we adopted a decentralized approach to creating social media, so that the whole team can share what's exciting in their area at that moment. Of course, we [also published guidance](https://about.publiccode.net/activities/communication/how-to-post-to-social-media.html) on how to use our new social media tool, Planable.
 
-Our ongoing work on publiccode.net is starting to be public - there's now a new header and footer, plus [shiny codebase overview pages](https://publiccode.net/codebases/). [Read more about our next improvements](https://github.com/publiccodenet/publiccode.net/pull/169). 
+Our ongoing work on publiccode.net is starting to be public - there are now [shiny codebase overview pages](https://publiccode.net/codebases/), plus a new header and footer. [Read more about our next improvements](https://github.com/publiccodenet/publiccode.net/pull/169).
 
 We've also added Plausible for basic, cookie-free analytics on our websites - [check out our dashboard](https://plausible.io/publiccode.net).
 
@@ -95,6 +92,6 @@ You can also [see all our talks and articles](https://projects.publiccode.net/ta
 ## Reading list
 
 - [10 Lessons from the Trenches of Digital Government](https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a) by Paul Bellows
-- [Increasing awareness of vendor lock-in in public organizations](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/increasing-awareness-lock-public-sector-organisations)
-- [InnerSource patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+- [Increasing awareness of vendor lock-in in public organizations](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/increasing-awareness-lock-public-sector-organisations) by Astor Nummelin Carlberg
+- [InnerSource patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) by the InnerSource Commons
 - [The New Normal](https://strelkamag.com/en/article/strelka-institute-unveils-the-new-normal-book) - Ben contributed an essay to this book!
