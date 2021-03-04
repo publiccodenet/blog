@@ -38,7 +38,7 @@ We currently have 2 codebases in incubation (OpenZaak and Signalen) and 1 in ass
 
 In the last months, the Omgevingsbeleid team has selected a license and published their backend. [Check out their demo site](https://omgevingsbeleid.zuid-holland.nl/).
 
-The OpenZaak community dealt with their first critical security vulnerability in December, and created a new process for the future.
+The OpenZaak community dealt with their first critical security vulnerability in December, and [created a new process](https://github.com/open-zaak/open-zaak/blob/master/SECURITY.rst) for the future.
 
 The Signalen community is now publishing documentation at docs.signalen.org. They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
 
