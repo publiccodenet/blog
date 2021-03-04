@@ -11,7 +11,7 @@ categories:
 # Episode four of Let's talk about public code!
 
 In the fourth episode we talked to Lea Hemetsberger from [Open & Agile Smart Cities](https://oascities.org/).
-We discussed how they are collaborating with cities worldwide to support their digital transformation journey.
+We discussed how OASC collaborates with cities worldwide to support their digital transformation journey.
 We also talked about one of their latest resources, the [CITYxCITY Academy](https://citibycity.academy).
 
 You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/4-lea-hemetsberger-open-agile-smart-cities/) or by searching in your favorite podcast app.
