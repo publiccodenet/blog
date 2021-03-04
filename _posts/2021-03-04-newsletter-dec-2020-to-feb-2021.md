@@ -15,7 +15,7 @@ It's again time to share what we've done since [November 2020](https://blog.publ
 
 We have 3 highlights:
 
-- We're delighted that the [Signalen codebase is now in incubation]({% post_url 2021-02-04-signalen-is-in-incubation %}) with the Foundation for Public Code
+- We're delighted that the [Signalen codebase is now in incubation]({% post_url 2021-02-04-signalen-is-in-incubation %}) with the Foundation for Public Code.
 - We're proud to have launched a new product: a free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform.
 - We received a philanthropic gift from Josh Elkes - thanks for enabling our work, Josh!
 
