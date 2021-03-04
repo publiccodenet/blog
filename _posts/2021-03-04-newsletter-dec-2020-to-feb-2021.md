@@ -42,7 +42,7 @@ The OpenZaak community dealt with their first critical security vulnerability in
 
 The Signalen community is now publishing documentation at docs.signalen.org. They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
 
-Signalen is hosting their first community day on 22 March! [See the program and register here](https://eventyay.com/e/12fbd0dc).
+Signalen is hosting their second community day on 22 March! [See the program and register here](https://eventyay.com/e/12fbd0dc).
 
 Both OpenZaak and Signalen now have blogging functionality on their product sites - we'll add highlights from these codebase communities to future newsletters.
 
