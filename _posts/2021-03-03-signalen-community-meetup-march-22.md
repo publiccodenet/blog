@@ -12,7 +12,7 @@ categories:
 
 ![Invitation: Signalen invitation community meetup](/assets/Signalen-banner-EN.png)
 
-A few weeks ago we announced that [Signalen was in incubation with the Foundation for Public Code]((/_posts/2021-02-04-signalen-is-in-incubation.md)). Today we'd like to invite you to the second Signalen community get together, which will be held online on Monday, 22 March.
+A few weeks ago we announced that [Signalen was in incubation with the Foundation for Public Code]({% post_url 2021-02-04-signalen-is-in-incubation %})). Today we'd like to invite you to the second Signalen community get together, which will be held online on Monday, 22 March.
 
 Since Signalen is ready for reuse, the meetup will welcome not only municipalities and market parties that already use Signalen, but also those interested in learning more.
 
