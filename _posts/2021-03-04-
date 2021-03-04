@@ -15,13 +15,15 @@ It's time again to share what we've done since [November 2020](https://blog.publ
 
 We have 3 highlights:
 
-- We're delighted that the Signalen codebase is now in incubation with the Foundation for Public Code
+- We're delighted that the [Signalen codebase is now in incubation]({% post_url 2021-02-04-signalen-is-in-incubation %}) with the Foundation for Public Code
 - We're proud to have launched a new product: a free [online course introducing the Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities), hosted by Open and Agile Smart Cities' CITYxCITY online learning platform. 
 - We received a philanthropic gift from Josh Elkes - thanks for enabling our work, Josh!
 
-Upcoming: 
+And coming up:
 
 - MozFest 2021: come discuss "How public code can transform the digital future of cities" with our President Ben Cerveny and Ger Baron, CTO of Amsterdam on March 11th at 19:15 [register here](https//:schedule.mozillafestival.org/session/TDHQ3D-1)
+- MozFest 2021: we often get asked what individuals can do to affect their government's technology choices, which we don't have a good answer to. [Join this workshop](https://schedule.mozillafestival.org/session/CSH7RM-1) to hear what's worked for others, and what to try next. 21.15 CET, 11 March 2021.
+- Boris will be part of a panel
 
 Read on for everything else.
 
@@ -88,14 +90,11 @@ We've talked a lot this winter! Starting with the most recent, we've been at:
 - [Software becomes Public Infrastructure](https://www.citybycity.com/session/software-becomes-public-infrastructure), interview with Ben Cerveny at the Open and Agile Smart Cities CITYxCITY Festival (January 2021)
 - Open Source in the Public Sector, by Jan Ainali at [GovTechDay](https://web.archive.org/web/20201021073851/https://www.govtechday.se/program) [[slides](https://hackmd.io/@Ainali/H1EQUI99D#/)] (December 2020) (in Swedish)
 
-
 You can also [see all our talks and articles](https://projects.publiccode.net/talks-and-articles.html).
-
 
 ## Reading list
 
 - [10 Lessons from the Trenches of Digital Government](https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a) by Paul Bellows
 - [Increasing awareness of vendor lock-in in public organizations](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/increasing-awareness-lock-public-sector-organisations)
 - [InnerSource patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns)
-- The [Ethical Source movement](https://ethicalsource.dev/) 
 - [The New Normal](https://strelkamag.com/en/article/strelka-institute-unveils-the-new-normal-book) - Ben contributed an essay to this book!
