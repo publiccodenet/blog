@@ -1,7 +1,7 @@
 ---
 title:  "Notes: February 2021 Foundation for Public Code community call"
 date: 2021-02-25
-author: elena, ryan 
+author: Elena Findley-de Regt, Ryan Conlan
 type: blogpost
 excerpt: Introducing the publiccode.net product requirements document
 category: community call
