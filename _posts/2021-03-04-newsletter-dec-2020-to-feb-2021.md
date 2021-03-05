@@ -1,7 +1,7 @@
 ---
 title:  "Newsletter: Dec 2020 to Feb 2021"
 date: 2021-03-04
-author: elena 
+author: Elena Findley-de Regt
 type: blogpost
 excerpt: All the highlights from the last 3 months
 category: news
