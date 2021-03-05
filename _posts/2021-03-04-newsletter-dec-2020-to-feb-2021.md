@@ -21,7 +21,7 @@ We have 3 highlights:
 
 And coming up:
 
-- MozFest 2021: come discuss "How public code can transform the digital future of cities" with our President Ben Cerveny and Ger Baron, CTO of Amsterdam on March 11th at 19:15 [register here](https//:schedule.mozillafestival.org/session/TDHQ3D-1).
+- MozFest 2021: come discuss "How public code can transform the digital future of cities" with our President Ben Cerveny and Ger Baron, CTO of Amsterdam on March 11th at 19:15 [register here](https://schedule.mozillafestival.org/session/TDHQ3D-1).
 - MozFest 2021: we often get asked what individuals can do to affect their government's technology choices, which we don't have a good answer to. [Join this workshop](https://schedule.mozillafestival.org/session/CSH7RM-1) (21.15 CET, 11 March 2021) to hear what's worked for others, and what to try next.
 
 Read on for everything else!
