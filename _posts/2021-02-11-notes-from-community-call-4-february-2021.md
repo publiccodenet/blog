@@ -49,9 +49,9 @@ One would be for our organization, to display where we list the codebases we wor
 The other kind could be used by the community of the codebase.
 We didn't get too deep in these discussions, but noted that there is potential value in these ideas.
 
-As a sidenote we also discussed on the process to become certified, and to stay compliant during continuous development.
+As a sidenote we also discussed the process to become certified, and to stay compliant during continuous development.
 For both of these processes we came back to our expectation that for the time being, we are most likely to do this in close collaboration with known codebases during stewardship.
 Therefore, it is in the regular line of work of the codebase stewards to make sure it is all as smooth as possible for the community.
 
 Finally we are all quite eager to see codebases move towards certification, but do believe we are still a bit away and that we still have time to discuss and iterate on this.
-If you have any opinions, please comment on [this issue](https://github.com/publiccodenet/standard/issues/434).
+If you have any opinions, [please comment on this issue](https://github.com/publiccodenet/standard/issues/434).
