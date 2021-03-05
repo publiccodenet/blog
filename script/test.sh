@@ -15,5 +15,5 @@ bundle exec htmlproofer \
     --assume-extension \
     --url-ignore "/github.com/,/twitter.com/,/opensource.pleio.nl/,/govtechday.se/" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429", "5xx" \
+    --http_status_ignore "429,5xx" \
     ./_site
