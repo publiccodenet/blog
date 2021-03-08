@@ -18,7 +18,7 @@ The open source community tends to create an ecosystem where every interaction l
 
 ## Friday
 
-This is when the satellite events happen. Whether you are in FOSDEM for the Belgian beers or if you are craving for some meetups like [CHAOSScon](https://chaoss.community/chaosscon-2020-eu/) or the [EU Open Source Policy Meeting](http://www.openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/), you won’t get bored in Brussels during those first days of February.
+This is when the satellite events happen. Whether you are in FOSDEM for the Belgian beers or if you are craving for some meetups like [CHAOSScon](https://chaoss.community/chaosscon-2020-eu/) or the [EU Open Source Policy Meeting](https://web.archive.org/web/20200922035118/http://www.openforumeurope.org/eu-open-source-policy-meeting-2020-pre-fosdem/), you won’t get bored in Brussels during those first days of February.
 
 ## Saturday
 

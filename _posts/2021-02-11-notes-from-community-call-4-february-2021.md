@@ -23,7 +23,7 @@ categories:
 * Signalen and OpenZaak's assessments are both updated to the [v.0.2.1 of the template](https://about.publiccode.net/activities/codebase-auditing/review-template.html)
 * Our podcast is back! Check out [Let's talk about public code #3 - Sergei Maertens and Tjerk Vaags, OpenZaak](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/)
 * We'll be at a lot of upcoming events:
-    * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://openforumeurope.org/event/policy-summit-2021/)
+    * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/)
     * A FOSDEM talk on [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/)
     * Lightning talks at FOSS Backstage:
         * [How the Standard for Public Code can help you collaborate over time and space](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space)
