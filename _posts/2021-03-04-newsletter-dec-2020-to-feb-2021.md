@@ -40,7 +40,7 @@ In the last months, the Omgevingsbeleid team has selected a license and publishe
 
 The OpenZaak community dealt with their first security vulnerability in December, and [created a new process](https://github.com/open-zaak/open-zaak/blob/master/SECURITY.rst) for the future.
 
-The Signalen community is now publishing documentation at docs.signalen.org. They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
+The Signalen community is now publishing documentation at [docs.signalen.org](https://docs.signalen.org/). They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
 
 Signalen is hosting their second community day on 22 March! [See the program and register here](https://eventyay.com/e/12fbd0dc).
 
