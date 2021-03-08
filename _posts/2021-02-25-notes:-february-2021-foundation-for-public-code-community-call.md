@@ -10,7 +10,7 @@ category: community call
 
 # Notes: February 2021 Foundation for Public Code community call
 
-In this community call, we talked through our thinking about [publiccode.net](https://publiccode.net/) as product ([pull request #169](https://github.com/publiccodenet/publiccode.net/pull/169)), and demo'd [our wireframes](https://www.figma.com/file/Mcz4evZVI4rRwv3quXtKGC/Site-Map-Wireframe-exploration-Foundation-for-Public-Code?node-id=177%3A0).
+In this community call, we talked through our thinking about [publiccode.net](https://publiccode.net/) as a product ([pull request #169](https://github.com/publiccodenet/publiccode.net/pull/169)), and demo'd [our wireframes](https://www.figma.com/file/Mcz4evZVI4rRwv3quXtKGC/Site-Map-Wireframe-exploration-Foundation-for-Public-Code?node-id=177%3A0).
 
 ## Attendees
 
