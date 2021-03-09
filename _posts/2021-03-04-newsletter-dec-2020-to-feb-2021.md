@@ -1,7 +1,7 @@
 ---
 title:  "Newsletter: Dec 2020 to Feb 2021"
 date: 2021-03-04
-author: elena 
+author: Elena Findley-de Regt
 type: blogpost
 excerpt: All the highlights from the last 3 months
 category: news
@@ -40,7 +40,7 @@ In the last months, the Omgevingsbeleid team has selected a license and publishe
 
 The OpenZaak community dealt with their first security vulnerability in December, and [created a new process](https://github.com/open-zaak/open-zaak/blob/master/SECURITY.rst) for the future.
 
-The Signalen community is now publishing documentation at docs.signalen.org. They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
+The Signalen community is now publishing documentation at [docs.signalen.org](https://docs.signalen.org/). They're currently working on making processes more generic for reuse on other codebases. They're also working to shift whole community to publishing all issues only on the public repo (so no internal JIRAs left).
 
 Signalen is hosting their second community day on 22 March! [See the program and register here](https://eventyay.com/e/12fbd0dc).
 
@@ -82,7 +82,7 @@ We've talked a lot this winter! Starting with the most recent, we've been at:
 - [How the Standard for Public Code can help you collaborate over space and time](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space), lightning talk by Eric Herman at FOSS Backstage conference (February 2021)
 - Open source wordt verplicht, wat nu?, panel discussion with Boris van Hoytema at the [Conferentie Nederland Digitaal](https://www.nederlanddigitaal.nl/conferentie-nederland-digitaal) (February 2021) (in Dutch)
 - [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/), by Boris van Hoytema at [FOSDEM 2021](https://fosdem.org/2021/) (February 2021)
-- [OSPOs Everywhere: Universities, Governments and Businesses](https://youtu.be/nRohU4LxO-E), panel discussion with Boris van Hoytema at the [EU Open Source Policy Summit 2021](https://openforumeurope.org/event/policy-summit-2021/) (February 2021)
+- [OSPOs Everywhere: Universities, Governments and Businesses](https://youtu.be/nRohU4LxO-E), panel discussion with Boris van Hoytema at the [EU Open Source Policy Summit 2021](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/) (February 2021)
 - Standard for Public Code, by Jan Ainali at [Policies for open source in public agencies](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/) [[slides](https://hackmd.io/@Ainali/ryFCCIgCw#/)] [[video](https://youtu.be/oxCtmQrKAls?t=3259)] (January 2021) (in Swedish)
 - [Software becomes Public Infrastructure](https://www.citybycity.com/session/software-becomes-public-infrastructure), interview with Ben Cerveny at the Open and Agile Smart Cities CITYxCITY Festival (January 2021)
 - Open Source in the Public Sector, by Jan Ainali at [GovTechDay](https://web.archive.org/web/20201021073851/https://www.govtechday.se/program) [[slides](https://hackmd.io/@Ainali/H1EQUI99D#/)] (December 2020) (in Swedish)
