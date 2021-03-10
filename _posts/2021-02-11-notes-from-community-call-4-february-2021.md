@@ -23,7 +23,7 @@ categories:
 * Signalen and OpenZaak's assessments are both updated to the [v.0.2.1 of the template](https://about.publiccode.net/activities/codebase-auditing/review-template.html)
 * Our podcast is back! Check out [Let's talk about public code #3 - Sergei Maertens and Tjerk Vaags, OpenZaak](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/)
 * We'll be at a lot of upcoming events:
-    * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://openforumeurope.org/event/policy-summit-2021/)
+    * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/)
     * A FOSDEM talk on [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/)
     * Lightning talks at FOSS Backstage:
         * [How the Standard for Public Code can help you collaborate over time and space](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space)
@@ -49,9 +49,9 @@ One would be for our organization, to display where we list the codebases we wor
 The other kind could be used by the community of the codebase.
 We didn't get too deep in these discussions, but noted that there is potential value in these ideas.
 
-As a sidenote we also discussed on the process to become certified, and to stay compliant during continuous development.
+As a sidenote we also discussed the process to become certified, and to stay compliant during continuous development.
 For both of these processes we came back to our expectation that for the time being, we are most likely to do this in close collaboration with known codebases during stewardship.
 Therefore, it is in the regular line of work of the codebase stewards to make sure it is all as smooth as possible for the community.
 
 Finally we are all quite eager to see codebases move towards certification, but do believe we are still a bit away and that we still have time to discuss and iterate on this.
-If you have any opinions, please comment on [this issue](https://github.com/publiccodenet/standard/issues/434).
+If you have any opinions, [please comment on this issue](https://github.com/publiccodenet/standard/issues/434).
