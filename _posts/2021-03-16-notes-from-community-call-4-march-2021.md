@@ -69,4 +69,4 @@ To get more people over the first threshold, and to establish the Standard for P
 
 Lastly there was a question if complying with the Standard would slow down the work in a codebase. Our experience is that it's a bit of an investment when starting, but that it enables collaboration and increases quality in such a way that over even a short time it will be beneficial. Doing a gap analysis is also not a huge amount of work, and the earlier it is done, the quicker it goes.
 
-For civil servants, it could also be useful to have material that could be used in a business case internally to motivate the use of ths Standard. This would be handy if an organization have previous experience of standards being costly to implement to show that this might not be the case for this one.
+For civil servants, it could also be useful to have material that could be used in a business case internally to motivate the use of ths Standard. This would be handy if an organization has previous experience of standards being costly to implement to show that this might not be the case for this one.
