@@ -26,7 +26,7 @@ categories:
 ## Updates from the Foundation
 
 * Version 0.2.1 of the Standard [is on its way](https://github.com/publiccodenet/standard/pull/478)
-* [Lightning talk video](https://www.youtube.com/watch?v=SKl3BX9kAbY) about the Standard from FOSS Backstage is available
+* [Lightning talk video about the Standard ](https://www.youtube.com/watch?v=SKl3BX9kAbY) from FOSS Backstage is available
 * New episode of [Let's talk about public code](https://podcast.publiccode.net/e/4-lea-hemetsberger-open-agile-smart-cities/)
 
 ## Proposed for this call
