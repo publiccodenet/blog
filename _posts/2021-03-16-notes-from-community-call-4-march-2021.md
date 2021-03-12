@@ -47,7 +47,7 @@ We discussed if the standard could help a public organization about to procure d
 
 ### "Flavors" of the standard
 
-Another idea that was discussed was "flavors" of the standard that certain solutions and practices are perscribed in a stronger sense than the standard is today. The openess of it now gives so many choices for the implementing party it doesn't really give much direction at all. If there were some framework specific flavors that perscribed certain styles, tools and methods, it would be easier to start developing and spend less time choosing amongst these.
+Another idea that was discussed was "flavors" of the standard that certain solutions and practices are perscribed in a stronger sense than the standard does today. The openess of it now gives so many choices for the implementing party that it doesn't really give much direction at all. If there were some framework specific flavors that perscribed certain styles, tools and methods, it would be easier to start developing and spend less time choosing amongst these.
 
 ### Generic codebase template
 
