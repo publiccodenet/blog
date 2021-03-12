@@ -51,7 +51,7 @@ Another idea that was discussed was "flavors" of the standard that certain solut
 
 ### Generic codebase template
 
-Related to this, but also different in the approach, one could imagine a very generic codebase (which in itself doesn't do much) that meets the standard that could be used as a reference point and inspiration. This could have the most preferred of all methods and good practices in it. But it might not be the Foundation for Public Code's role to maintain it or decide what goes in it, but rather it could be a community curated resource.
+Related to this, but also different in the approach, one could imagine a very generic codebase (which in itself doesn't do much) that meets the standard that could be used as a reference point and inspiration. This could have the most preferred of all methods and good practices in it. But it might not be the Foundation for Public Code's role to maintain it or decide what goes in it. Instead, it could be a community curated resource.
 
 ### Guides
 
