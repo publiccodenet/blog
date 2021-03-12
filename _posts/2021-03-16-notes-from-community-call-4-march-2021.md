@@ -43,7 +43,7 @@ The discussion had a lot of different angles and ideas. Below are a few of those
 
 ### The standard as a help in procurement
 
-We discussed if the standard could be a help for a public organization about to procure development services. Right now the confidence of both buyer and the seller are too low for either of them to go that way. In theory, the standard should be able to be part of a procurement, much like a set of functional requirements. What might help are more codebases showing how they are compliant, and guides to get there.
+We discussed if the standard could help a public organization about to procure development services. Right now the confidence of both buyer and the seller are too low for either of them to go that way. In theory, the standard should be able to be part of a procurement, much like a set of functional requirements. What might help are more codebases showing how they are compliant, and guides to get there.
 
 ### "Flavors" of the standard
 
