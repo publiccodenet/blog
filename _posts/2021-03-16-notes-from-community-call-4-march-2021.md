@@ -19,7 +19,7 @@ categories:
 * [Laura Scheske](https://publiccode.net/who-we-are/team/laura-scheske.html)
 * [Claus Mullie](https://publiccode.net/who-we-are/team/claus-mullie.html)
 * [Alba Roza](https://publiccode.net/who-we-are/team/alba-roza.html)
-* Johan Groenen
+* [Johan Groenen](https://www.jgroenen.nl/)
 * Martin Dias d’Ullois
 * Rasmus Frey
 
@@ -47,7 +47,7 @@ We discussed if the standard could help a public organization about to procure d
 
 ### "Flavors" of the standard
 
-Another idea that was discussed was "flavors" of the standard that certain solutions and practices are perscribed in a stronger sense than the standard does today. The openess of it now gives so many choices for the implementing party that it doesn't really give much direction at all. If there were some framework specific flavors that perscribed certain styles, tools and methods, it would be easier to start developing and spend less time choosing amongst these.
+Another idea that was discussed was "flavors" of the standard that certain solutions and practices are perscribed in a stronger sense than the standard does today. The openess of it now gives so many choices for the implementing party that it doesn't really give much direction at all. If there were some framework specific flavors that perscribed certain styles, tools and methods, it would be easier to start developing and spend less time choosing amongst these. These flavors could be created by codebase communities themselves to be distributed in the teams working with the codebase and be reused by anyone who finds the flavor useful.
 
 ### Generic codebase template
 
@@ -55,7 +55,7 @@ Related to this, but also different in the approach, one could imagine a very ge
 
 ### Guides
 
-More guides like the one on [how to start a Standard compliant GitHub repository](https://blog.publiccode.net/news/2020/12/09/how-to-start-a-standard-compliant-repository.html) were also requested.
+More guides like the one on [how to start a Standard compliant GitHub repository](https://blog.publiccode.net/news/2020/12/09/how-to-start-a-standard-compliant-repository.html) were also requested. This would make it easier for public organizations and vendors to use the standard right from the start.
 
 ### Vendors checking compliance
 
