@@ -39,7 +39,7 @@ Let's have an open discussion now on how to grow a community that's confident in
 
 ## Notes
 
-The discussion had a lot of different angles and ideas. Below are a few of those that sparked most discussion.
+The discussion had a lot of different angles and ideas. The ones below sparked the most discussion.
 
 ### The standard as a help in procurement
 
