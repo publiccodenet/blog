@@ -38,7 +38,7 @@ Make sure to write everything in English (additional translations are welcome bu
 2. Create your repository locally: `git init`
 3. Make an initial empty commit: `git commit --allow-empty -m"init"` This is needed to enable branch protection in GitHub.
 4. Add remote: `git remote add origin https://github.com/org_name/codebase_name.git`
-5. Push to GitHub: `git push -u origin master`
+5. Push to GitHub: `git push -u origin main`
 7. Under 'Settings' -> 'Branches' add a new branch protection rule and set it to 'Require pull request reviews before merging'.
 
 ## Step 3 - Compliance with all MUST requirements

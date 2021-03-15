@@ -14,7 +14,7 @@ categories:
 
 * The Signalen community updated the Standard for Public Code gap analysis included in their codebase community. [See the new version.](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md)
 * Alba was in a panel at DecidimFest on [Sustainability and scalability in free software projects](https://www.youtube.com/watch?v=7veHik0LLVk).
-* Jan ran a workshop on how to effectively do 'Open Source in the Public Sector' at the [Swedish GovTechDay](https://www.govtechday.se/program-2020#block-yui_3_17_2_1_1603099025104_121820) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
+* Jan ran a workshop on how to effectively do 'Open Source in the Public Sector' at the [Swedish GovTechDay](https://www.govtechday.se/) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
 
 ## Attendees
 
@@ -33,4 +33,4 @@ We also talked about codebases that use A/B testing in production. Do they signa
 
 ### Providing feedack
 
-This discussion was based on the [issue 349]((https://github.com/publiccodenet/standard/issues/349)) (""Reviewers MUST provide feedback on all decisions" lacks clarity of intent"). We all agreed on that the most important feedback, and what the requirement should address, is for contributions that are not immediately accepted. During the call [a pull request that clarified this](https://github.com/publiccodenet/standard/issues/349) was created.
+This discussion was based on the [issue 349](https://github.com/publiccodenet/standard/issues/349) (""Reviewers MUST provide feedback on all decisions" lacks clarity of intent"). We all agreed on that the most important feedback, and what the requirement should address, is for contributions that are not immediately accepted. During the call [a pull request that clarified this](https://github.com/publiccodenet/standard/issues/349) was created.
