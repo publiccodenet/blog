@@ -63,7 +63,7 @@ Could checking standard compliance be done by vendors? Yes, that should be possi
 
 ### Marketing and outreach
 
-To get more people over the first threshold, and to establish the Standard for Public Code as a well known concept, there were suggestions to market it more proactively. Unfortunately we didn't have time to discuss how to do this in detail, though it might be topic for a separate community call in the future.
+To get more people over the first threshold, and to establish the Standard for Public Code as a well known concept, there were suggestions to market it more proactively. Unfortunately we didn't have time to discuss how to do this in detail, though this might be topic for a separate community call in the future.
 
 ### Does using the standard create a lot of overhead?
 
