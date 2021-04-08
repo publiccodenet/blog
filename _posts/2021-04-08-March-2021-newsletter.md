@@ -29,7 +29,7 @@ The codebase stewards also met with 4 new codebases to explore potential future 
 
 There's increasing international interest in Signalen - Ghent (Belgium) joined the community day, and Helsingborg (Sweden) is testing a demo version.
 
-Signalen moved closer to Standard for Public Code compliance by fully meeting the criteria [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html).
+Signalen moved closer to Standard for Public Code compliance by fully meeting the criterion [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html).
 
 ### OpenZaak
 
