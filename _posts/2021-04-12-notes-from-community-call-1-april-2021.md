@@ -25,7 +25,7 @@ categories:
 
 ## Notes
 
-In this call we gave a thourough introduction to the Foundation of Public Code and how we work. Then we moved on to the [long backlog of open issues](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc) in the repository for Standard for Public Code and worked through them oldest to newest. This is the result of our pruning, which is also reflected in the GitHub repository:
+In this call we gave a thorough introduction to the Foundation of Public Code and how we work. Then we moved on to the [long backlog of open issues](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc) in the Standard for Public Code repository and worked through them from oldest to newest. This is the result of our pruning, which is also reflected in the GitHub repository:
 
 - [#38: Standardise terms for policy, civic code etc](https://github.com/publiccodenet/standard/issues/38) - closed
 - [#47: Add vendor and platform independence as a criterion](https://github.com/publiccodenet/standard/issues/47) - remains open, good topic for a community call
