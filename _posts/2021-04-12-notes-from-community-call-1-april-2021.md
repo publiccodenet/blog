@@ -15,7 +15,7 @@ categories:
 * [Jan Ainali](https://publiccode.net/who-we-are/team/jan-ainali.html)
 * [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html)
 * [Alba Roza](https://publiccode.net/who-we-are/team/alba-roza.html)
-* Jacob Green
+* [Jacob Green](https://twitter.com/jacoblyopen)
 
 ## Updates from the Foundation
 
