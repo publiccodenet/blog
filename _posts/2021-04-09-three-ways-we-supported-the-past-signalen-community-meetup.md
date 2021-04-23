@@ -10,7 +10,7 @@ categories:
 
 # Three ways we supported the last Signalen community meetup
 
-On 22 March, one of the codebases we work with, the Dutch [Signalen](https://signalen.org/), organized its first community meetup. The aim of this virtual get together was to get to know new municipalities curious about the solution for nuisance reporting as well as vendors interested in its implementation.
+On 22 March, one of the codebases we work with, the Dutch [Signalen](https://signalen.org/), organized its first public community meetup. The aim of this virtual get together was to get to know new municipalities curious about the solution for nuisance reporting as well as vendors interested in its implementation.
 
 As part of its community, the Foundation for Public Code helped by advising on mostly three aspects.
 
@@ -38,7 +38,7 @@ Our codebase steward Felix Faassen was asked to moderate the conversation happen
 
 ## Event management tips
 
-Once someone decides an event is taking place, the immediate following step must be its planning. Even though the idea for this event was to keep it relatively small and familiar from the beginning, we wanted it to be perfect. We worked along with the community in Github and in several meetings offering them a content plan, a marketing schedule and a communications one. The promotion campaign also walked along other entities like the Foundation for Public Code and several Dutch forums and organizations in order to boost and reach out to more potential interested attendees.
+Once someone decides an event is taking place, the immediate following step must be its planning. Even though the idea for this event was to keep it relatively small and intimate from the beginning, we wanted it to be perfect. We worked along with the community in Github and in several meetings offering them a content plan, a marketing schedule and a communications one. The promotion campaign also walked along other entities like the Foundation for Public Code and several Dutch forums and organizations in order to boost and reach out to more potential interested attendees.
 
 After the event finished, it is time for the follow up actions coordination, a task we're currently supporting.
 
