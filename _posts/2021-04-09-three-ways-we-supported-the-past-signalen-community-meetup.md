@@ -28,7 +28,7 @@ For the meetup, the Signalen community offered newcomers a prepared demo environ
 
 For a while now the Signalen community has used Jitsi for their regular calls and steering groups and it works just fine, and so it was the chosen tool for the several breakout rooms in the event. 
 
-The machine (hosted in the Foundation for Public Code’s server) did its job well: there were moments with more than 50 attendees in a room, all with good connections.
+The machine (hosted on the Foundation for Public Code server) enabled a day with peaks of more than 50 connected attendees.
 
 ## Moderation of market parties track
 
