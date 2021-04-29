@@ -32,7 +32,7 @@ The machine (hosted on the Foundation for Public Code server) enabled a day with
 
 ## Moderation of market parties track
 
-Our codebase steward Felix Faassen was asked to moderate the conversation happening in track 3, the vendors’ one. This virtual room was a crucial one since the purpose of the Signalen Community Meetup was not only onboarding potential new municipalities, but also new companies passionate about replicating the Dutch public code solution. 
+Our codebase steward Felix Faassen was asked to moderate the conversation happening in track 3, the vendors’ one. This virtual room was a crucial one since the purpose of the Signalen community meetup was not only onboarding potential new municipalities, but also new companies passionate about replicating the Dutch public code solution. 
 
 [Read Felix's notes](https://hackmd.io/@felixfaassen/B1RuQXDV_) (in Dutch) for more information on track 3.
 
