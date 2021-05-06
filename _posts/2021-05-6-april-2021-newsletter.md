@@ -37,9 +37,9 @@ The [Omgevingsbeleid front end repository is now public](https://github.com/Prov
 
 The codebase stewards ran a governance workshop with the [OpenStad community](https://openstad.org/).
 
-## Operations
+## Running the Foundation for Public Code
 
-We've been hard at work on:
+We've been focused on:
 
 * Our first annual report, including establishing templates for appropriate annual financial reporting. The report will be published shortly
 * Creating a salary framework and implementing performance management; including meeting with experts for advice
