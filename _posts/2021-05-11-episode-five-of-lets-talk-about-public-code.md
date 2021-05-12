@@ -3,7 +3,7 @@ title: "Episode five of Let's talk about public code! - Amy van Someren from Sig
 date: 2021-05-11
 author: Jan Ainali
 type: blogpost
-excerpt: The fifth episode of our podcast is available
+excerpt: The newest episode of our podcast is available
 categories:
   - news
 ---
