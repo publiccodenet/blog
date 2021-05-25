@@ -9,7 +9,7 @@ category: news
 
 # Newsletter: April 2021
 
-Welcome to our April newsletter! April included 2 public holidays, so our month was a bit more relaxed than usual.
+Welcome to our April newsletter! April included two public holidays, so our month was a bit more relaxed than usual.
 
 Our highlights this month were:
 
