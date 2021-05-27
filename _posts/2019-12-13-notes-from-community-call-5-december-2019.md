@@ -30,4 +30,4 @@ We discussed the Standard and how it can be applied to new and existing projects
 
 We also discussed what open source development Mexico City has been doing so far and what their plans for the future are. Ali also mentioned they have been reusing both [Decidim](https://decidim.org/) and [RapidPro](https://rapidpro.github.io/rapidpro/).
 
-Lastly we touched upon the tools that can be used for building community and we went through the various things the Foundation for Public Code is are using, like [collaborating directly on our repositories](https://github.com/publiccodenet) and [newsletters and these community calls](https://forms.gle/gn7wR2Eaxbv5g1BF9).
+Lastly we touched upon the tools that can be used for building community and we went through the various things the Foundation for Public Code is are using, like [collaborating directly on our repositories](https://github.com/publiccodenet) and [newsletters and these community calls](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).

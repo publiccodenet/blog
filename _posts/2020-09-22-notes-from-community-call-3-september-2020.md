@@ -12,7 +12,7 @@ categories:
 
 ## Update from the Foundation
 
-* We finally sent out our first newsletter! You can also [sign up](https://forms.gle/gn7wR2Eaxbv5g1BF9).
+* We finally sent out our first newsletter! You can also [sign up](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
 * 2 weeks ago, we presented on codebase stewardship at [Barcamp: Verwaltung. Digital. Gestalten](https://www.fokus.fraunhofer.de/de/dps/barcamp_200820), hosted by the Fraunhofer Institute for Open Communication Systems and NextNetz - this was our first presentation on codebase stewardship to a German audience.
 * Next week we will start our live stream / podcast [Let's talk about public code](https://blog.publiccode.net/news/2020/09/01/on-air-next-our-podcast.html).
 * Boris will present on why 'open source in gov't is different' at State of the Source on 9 September ([video](https://www.youtube.com/watch?v=mvhFF_7lVV4&list=PL_5ziu2gADmDcp_ER8x2rcT1HOBaIe5cl&index=3)).
