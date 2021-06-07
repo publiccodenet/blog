@@ -3,7 +3,7 @@ title: "Pruning the oldest issues - May 2021"
 date: 2021-05-20
 author: Jan Ainali
 type: blogpost
-excerpt: We are continuing reducing our backlog
+excerpt: We are continuing to reduce our Standard for Public Code backlog
 categories:
   - News
 ---
