@@ -39,7 +39,7 @@ Could a new requirement like below be enough?
 > Required services and platforms SHOULD be available from multiple vendors.
 
 It's worth thinking about the risk of becoming too reliant on a single vendor.
-As a counter argument, if the Standard for Public Code is adhered to closely, this should not really be a problem.
+As a counterargument, if the Standard for Public Code is adhered to closely, this should not really be a problem.
 After some further discussion we thought that it might be useful to add some extra advice under **Management: what you need to do** along the lines of:
 
 > Make sure you are not giving a single vendor exclusive rights when procuring services.
