@@ -33,7 +33,7 @@ Background: This was an empty header early in the Standard for Public code.
 Later it was removed without any text ever being added to the section.
 Clearly the issue was in mind from the beginning and the issue remained in the backlog. 
 
-Eric mentions that the purpose is to make a codebase as reusable as possible, and we have the criteria [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html) to cover it.
+Eric mentioned that the purpose is to make a codebase as reusable as possible, and we have the criteria [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html) to cover it.
 Could a new requirement like below be enough?
 
 > Required services and platforms SHOULD be available from multiple vendors.
