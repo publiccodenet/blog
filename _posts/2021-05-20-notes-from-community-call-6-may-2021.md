@@ -23,7 +23,7 @@ categories:
 - We now have a printed version of the 0.2.1 version of the Standard for Public Code. If you want one, give us a postal address and we'll ship it to you.
 - [Version 1.4.0 of OpenZaak was released](https://open-zaak.readthedocs.io/en/stable/development/changelog.html#id1)
 - [Omgevingsbeleid is now all openly published](https://github.com/Provincie-Zuid-Holland)
-- Based on experiences in Signalen, [we wrote a blog post on collaboration on the OS2 blog](https://os2.eu/blog/blog-samarbete-i-praktiken#english)
+- Based on experiences with Signalen, [we wrote a blog post on collaboration on the OS2 blog](https://os2.eu/blog/blog-samarbete-i-praktiken#english)
 
 ## Notes
 
