@@ -23,7 +23,7 @@ Following the [community call in April](https://blog.publiccode.net/community%20
 
 - [#62 Bundle policy and code: invite policy makers to contribute their own work in their own formats](https://github.com/publiccodenet/standard/issues/62) - added comment on upcoming work session
 - [#167 Template: Reference back to Foundations' core value propositions](https://github.com/publiccodenet/standard/issues/167) - comment added, close next time if nothing new
-- [#168 Include section on 'how to implement standard in your organisation'?](https://github.com/publiccodenet/standard/issues/168) - important issue, but should not be in the standard, transferred to About. Might even be an course on the City by City platform where we have the Standard for Public Code course
+- [#168 Include section on 'how to implement standard in your organisation'?](https://github.com/publiccodenet/standard/issues/168) - important issue, but should not be in the standard, transferred to About. Might even be an course on the CITYxCITY platform where we have the Standard for Public Code course
 - [#170 Margins on the print version can use improvement](https://github.com/publiccodenet/standard/issues/170) - closed
 - [#177 Create some amazingly easy 'good first issue's](https://github.com/publiccodenet/standard/issues/177) - closed
 - [#182 suggest changing policy makers to public policy makers in all standard criteria headers](https://github.com/publiccodenet/standard/issues/182) - make this a decision point in a community call
