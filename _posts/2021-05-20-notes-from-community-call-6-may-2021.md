@@ -42,6 +42,6 @@ A possible additional aspect that it might being worth thinking about is the ris
 As a counter argument, if the Standard for Public Code is adhered to closely, this should not really be a problem.
 After some further discussion we thought that it might be useful to add some extra advice under **Management: what you need to do** along the lines of:
 
-> Make sure you are not giving a single vendor exclusive rights  when procuring services.
+> Make sure you are not giving a single vendor exclusive rights when procuring services.
 
 With those two additions, we think that we are addressing this issue properly.
