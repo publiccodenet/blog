@@ -19,7 +19,7 @@ categories:
 
 ## Log
 
-Following the [community call in April](https://blog.publiccode.net/community%20call/2021/04/12/notes-from-community-call-1-april-2021.html) we continue reviewing our oldest issues. These were the ones we got through:
+Following the [community call in April](https://blog.publiccode.net/community%20call/2021/04/12/notes-from-community-call-1-april-2021.html) we continue reviewing our oldest Standard for Public Code issues. These were the ones we got through:
 
 - [#62 Bundle policy and code: invite policy makers to contribute their own work in their own formats](https://github.com/publiccodenet/standard/issues/62) - added comment on upcoming work session
 - [#167 Template: Reference back to Foundations' core value propositions](https://github.com/publiccodenet/standard/issues/167) - comment added, close next time if nothing new
