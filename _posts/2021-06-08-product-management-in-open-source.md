@@ -13,13 +13,11 @@ Felix is a [Codebase Steward ](https://publiccode.net/codebase-stewardship/)at t
 
 In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/), he experiences (and empathizes!) with the challenges communities face when starting with open source and working step by step from a project to a product.
 
-
 ## Introduction
 
 [Open unless](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) is the policy line that the Dutch Ministry of the Interior is promoting. Within the [Common Ground movement](https://commonground.nl/), local governments are working hard to put open source products into practice within government. [Signalen](https://signalen.org), [OpenStad ](https://openstad.org)and the [Virtual Municipal Assistant ](https://virtuele-gemeente-assistent.nl/)are some examples.
 
 [Open source offers many benefits](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/section-one-an-overview-of-open-source/#why-use-open-source). But reaping those benefits takes more than making your code public and putting a pretty website online. The old saying "Great power brings great responsibility" applies here. Freedom is a verb and it doesn't come for free. Taking advantage of the benefits and power of open source requires responsibility and commitment. This means the responsibility to make a long-term, shared commitment to the open source product and its users. With the goal to develop and manage the product to make it valuable to as many people as possible. But how do you do that and where do you start?
-
 
 ## From open source project to product
 
@@ -35,13 +33,11 @@ Thus, a lot of work and effort is required before a project becomes a product. A
 
 In open source software, those responsibilities and activities are a shared task of the users. By users we mean not only end users but also developers from both public and private organizations. Together, these users will have to invest time and money. The more people use the product and invest in it, the more you as a user can benefit from each other's efforts. As a user you are therefore responsible for product management. This requires commitment, knowledge and perseverance.
 
-
 ## What is product management?
 
 [Product management](https://en.wikipedia.org/wiki/Product_management) is a collection of product development and product marketing activities within a products or services organization. The purpose of these activities is to develop a product that meets market demand on the one hand and to manage the product throughout its life cycle on the other. At a large company like Apple, thousands of people work on this every day. The end goal is to make a product or service that matches the market so well that as many as possible can be sold. The activities and responsibilities are centralized because only one organization develops the product and determines what happens to it.
 
 In open source communities there is not one single person or organization responsible for completing these activities. The big difference with commercial products is therefore that the users themselves determine what happens to the product. Of course, not every open source community is organized in the same way. Open source communities also make joint agreements about how they deal with product management. Coming to these agreements is an organic and evolutionary process. It starts informally and as the community grows, more agreements will be made and documented in the community's governance.
-
 
 ## Product management within open source
 
@@ -57,9 +53,7 @@ Eric Herman, in addition to being a codebase steward at the Foundation for Publi
 
 But how do you prevent different members of the community from making the same things or ensure that functionality has a logical connection to other parts within the product?
 
-
 >"These issues are discussed continuously. Once a year at the MariaDB conference, the future of MariaDB is discussed. At this conference, users and developers come together and talk about each other's needs and wants. They reflect on what’s been created and what’s needed in the future. From this discussion, no itemized document follows but many new epics are recorded in Jira. Usually the MariaDB Foundation will provide some highlights and summary in a blog post of these discussions."
-
 
 >"In some cases, the MariaDB Corporation (the largest contributor) may also share updates. But you can’t speak of a structured central process and an official roadmap. The roadmap actually lives in the minds of the people who contribute to it on a daily basis. So there is an informal process but no central roadmap within the open source community. MariaDB Corporation does have a roadmap that is used for the commercial version of the MariaDB product."
 
@@ -71,7 +65,6 @@ So this is one area where I think these open source projects differ from open so
 
 Here, having an open and shared roadmap does matter.
 
-
 ## The value of an open and shared roadmap
 
 A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals ](https://standard.publiccode.net/criteria/document-objectives.html)and functional requirements over time.
@@ -79,7 +72,6 @@ A publicly available and shared roadmap is an important communication tool. It c
 A roadmap helps future users to make a decision whether an open source product is interesting to use and what the possibilities are. In addition, it helps existing users to prioritize their development and define the scope.
 
 In addition to having a roadmap, perhaps the most valuable thing is the process of arriving at that roadmap. In the process you learn to understand the product, each other's needs and challenges. You learn which issues you can collaborate on and which issues you may need to pick up on your own. The process also helps to make use of each other's knowledge and skills. For example, one can help with developers and the other with improving documentation.
-
 
 ## Public code in practice: From centralized to decentralized shared product ownership within Signalen
 
@@ -97,16 +89,13 @@ In the beginning, the product steering group was mostly busy talking about gover
 
 Amy van Someren is the 's Hertogenbosch Signalen product owner and therefore actively involved within the Signalen product steering committee.
 
-
 > "There are still many things we need to learn and try out. Slowly but surely it’s becoming clear what everyone is working on, what the greatest common denominator is and where the parties can work together on further development. This model works extremely well but also has its challenges. Each product owner has several responsibilities within her own municipality. It is sometimes difficult to free up time. There is also a difference in knowledge between the different product owners. The decentralized nature also has its challenges. We all share the responsibility but sometimes there is still a need for someone to facilitate the process and help it along."
-
 
 ## Together where possible, alone if necessary.
 
 One of the advantages of open source is that even in a community you don't have to wait for each other to get things done. Suppose you need a dashboard functionality or a special integration with existing software. Nothing prevents you from implementing that functionality. The goal of an open community working together on an open roadmap is not to reach complete consensus but to inform each other and discover where there is shared value and need so that you can distribute the necessary resources and investment among multiple members of the community.
 
 If that shared need is not there (yet), it can still be very valuable to make and develop that investment yourself and communicate about it. By investing in the product you, as an individual and an organization, also learn more about the product and it also becomes easier to collaborate with other parties. In this way you take responsibility for the product. If everyone does that, we can all make use of the advantages and strengths that open source offers. Think big, start small but start!
-
 
 ## Continue reading
 
