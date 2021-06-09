@@ -58,7 +58,7 @@ Eric Herman, in addition to being a codebase steward at the Foundation for Publi
 But how do you prevent different members of the community from making the same things or ensure that functionality has a logical connection to other parts within the product?
 
 
->  "These issues are discussed continuously. Once a year at the MariaDB conference, the future of MariaDB is discussed. At this conference, users and developers come together and talk about each other's needs and wants. They reflect on what’s been created and what’s needed in the future. From this discussion, no itemized document follows but many new epics are recorded in Jira. Usually the MariaDB Foundation will provide some highlights and summary in a blog post of these discussions.
+>"These issues are discussed continuously. Once a year at the MariaDB conference, the future of MariaDB is discussed. At this conference, users and developers come together and talk about each other's needs and wants. They reflect on what’s been created and what’s needed in the future. From this discussion, no itemized document follows but many new epics are recorded in Jira. Usually the MariaDB Foundation will provide some highlights and summary in a blog post of these discussions."
 
 
 In some cases, the MariaDB Corporation (the largest contributor) may also share updates. But you can’t speak of a structured central process and an official roadmap. The roadmap actually lives in the minds of the people who contribute to it on a daily basis. So there is an informal process but no central roadmap within the open source community. MariaDB Corporation does have a roadmap that is used for the commercial version of the MariaDB product."
