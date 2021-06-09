@@ -65,7 +65,7 @@ But how do you prevent different members of the community from making the same t
 
 Pieter Hintjens also describes such a process in his article ["Building Online Communities"](http://hintjens.com/blog:117), where he also writes about the downside of having a roadmap in open source communities.
 
-"You don't need roadmaps if you have a good process." he writes in the section “[How ZeroMQ lost its roadmap](http://hintjens.com/blog:117#toc52)<span style="text-decoration:underline;">“.</span>
+"You don't need roadmaps if you have a good process." he writes in the section “[How ZeroMQ lost its roadmap](http://hintjens.com/blog:117#toc52)“.
 
 So this is one area where I think these open source projects differ from open source projects used by governments. Software used in governments implements, supports and executes laws and regulations. We call this ["public code](https://standard.publiccode.net/introduction.html)”. A certain amount of oversight and agreement is needed to ensure that the software remains compliant with policy as much as possible (see: [bundle policy and code ](https://standard.publiccode.net/criteria/bundle-policy-and-code.html)in the Standard for Public Code).
 
