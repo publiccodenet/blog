@@ -99,7 +99,7 @@ If that shared need is not there (yet), it can still be very valuable to make an
 
 ## Further reading
 
-* Let's Talk Public Code: Interview with Amy van Someren, product owner at the municipality of 's-Hertogenbosch: [video](https://www.youtube.com/watch?v=zPF_3DpNA0A&t=2s) or [listen to the podcast](https://podcast.publiccode.net/)
+* Let's Talk About Public Code: Interview with Amy van Someren, product owner at the municipality of 's-Hertogenbosch: [video](https://www.youtube.com/watch?v=zPF_3DpNA0A&t=2s) or [listen to the podcast](https://podcast.publiccode.net/)
 * [Standard for Public Code](https://standard.publiccode.net/)
 * [Building Online Communities](http://hintjens.com/blog:117)by Pieter Hintjens
 * [Product Management related resources and tools](https://github.com/ProductHired/open-product-management)
