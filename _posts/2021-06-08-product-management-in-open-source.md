@@ -9,13 +9,14 @@ excerpt: How is product management done in open source projects and how does it 
 
 # Product management in open source: you are responsible!
 
-Felix is a [Codebase Steward ](https://publiccode.net/codebase-stewardship/)at the Foundation for Public Code with a focus on the product development aspect of the codebase. Over the past two decades, Felix has worked for a number of technology companies where he was responsible for engineering and product development.
+> This is an English translation of an [article Felix wrote for the national Dutch open source forum Pleio] (add link!).
+[Felix](https://publiccode.net/who-we-are/team/felix-faassen.html) is a [Codebase Steward](https://publiccode.net/codebase-stewardship/) at the Foundation for Public Code, with a focus on the product development aspect of the codebase. Over the past two decades, Felix has worked for a number of technology companies where he was responsible for engineering and product development.
 
 In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/), he experiences (and empathizes!) with the challenges communities face when starting with open source and working step by step from a project to a product.
 
 ## Introduction
 
-[Open unless](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) is the policy line that the Dutch Ministry of the Interior is promoting. Within the [Common Ground movement](https://commonground.nl/), local governments are working hard to put open source products into practice within government. [Signalen](https://signalen.org), [OpenStad ](https://openstad.org)and the [Virtual Municipal Assistant ](https://virtuele-gemeente-assistent.nl/)are some examples.
+[Open unless](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) is the policy line that the Dutch Ministry of the Interior is promoting. Within the [Common Ground movement](https://commonground.nl/), local governments are working hard to put open source products into practice within government. [Signalen](https://signalen.org), [OpenStad ](https://openstad.org)and the [Virtual Municipal Assistant](https://virtuele-gemeente-assistent.nl/) are some examples.
 
 [Open source offers many benefits](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/section-one-an-overview-of-open-source/#why-use-open-source). But reaping those benefits takes more than making your code public and putting a pretty website online. The old saying "Great power brings great responsibility" applies here. Freedom is a verb and it doesn't come for free. Taking advantage of the benefits and power of open source requires responsibility and commitment. This means the responsibility to make a long-term, shared commitment to the open source product and its users. With the goal to develop and manage the product to make it valuable to as many people as possible. But how do you do that and where do you start?
 
@@ -23,9 +24,9 @@ In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/),
 
 An archetypal open source project begins with the development of an initial solution and its deployment by the originators. The solution is created to solve a specific problem within the organization. But as we know, many problems are not unique to a particular organization.
 
-The code is made public and the project is completed. A few months later, another organization learns about the solution and would like to use it. But the solution is tailored for use within a specific organization. For example, the house style may not be adaptable, the business logic may be different or not configurable, and authentication and authorization may be handled differently. User documentation is also sometimes missing. You want to use it but wonder "Who is actually responsible for this product? And how do I ensure that my requirements and wishes find their way into the software solution?"
+The code is made public and the project is completed. A few months later, another organization learns about the solution and would like to use it. But the solution is tailored for use within a specific organization. For example, the house style may not be adaptable, the business logic may be different or not configurable, and authentication and authorization may be handled differently. User documentation is also sometimes missing. You want to use it but wonder "Who is actually responsible for this product? How do I ensure that my requirements and wishes find their way into the software solution?"
 
-When you buy a commercial product, this product responsibility is paid off. You trade control and freedom for convenience.
+When you buy a commercial product, you've bought your way out of product responsibility. You trade control and freedom for convenience.
 
 At a products company, there are people working every day to ensure that a software solution can be used by the largest possible group of users. Research is conducted into the needs, requirements and desires of users. These requirements and desires are identified, prioritized and finally developed. A lot of attention is also paid to usability, documentation and training. Information is made available in different languages and user research is carried out regularly. This type of work is also called 'product management'.
 
@@ -67,11 +68,11 @@ Here, having an open and shared roadmap does matter.
 
 ## The value of an open and shared roadmap
 
-A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals ](https://standard.publiccode.net/criteria/document-objectives.html)and functional requirements over time.
+A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals ](https://standard.publiccode.net/criteria/document-objectives.html) and functional requirements over time.
 
 A roadmap helps future users to make a decision whether an open source product is interesting to use and what the possibilities are. In addition, it helps existing users to prioritize their development and define the scope.
 
-In addition to having a roadmap, perhaps the most valuable thing is the process of arriving at that roadmap. In the process you learn to understand the product, each other's needs and challenges. You learn which issues you can collaborate on and which issues you may need to pick up on your own. The process also helps to make use of each other's knowledge and skills. For example, one can help with developers and the other with improving documentation.
+In addition to having a roadmap, perhaps the most valuable thing is the process of arriving at that roadmap. In the process you learn to understand the product, each other's needs and challenges. You learn which issues you can collaborate on and which issues you may need to pick up on your own. The process also helps to make use of each other's knowledge and skills. For example, the one can help with developers and the other with improving documentation.
 
 ## Public code in practice: From centralized to decentralized shared product ownership within Signalen
 
@@ -83,9 +84,9 @@ Building a community does not happen by itself, nor does a product. To make it s
 
 Within the Signalen community, we have been exploring this with each other for the past few months.
 
-The Signalen community has two consultative bodies: a technical steering committee and a product steering committee. On a monthly basis, the product steering committee discusses the Signalen product and tries to identify and prioritize the users’ needs.
+The Signalen community has two consultative bodies: a technical steering committee and a product steering committee. On a monthly basis, the product steering committee discusses the Signalen product and tries to identify and prioritize users’ needs.
 
-In the beginning, the product steering group was mostly busy talking about governance, how to organize and define processes. Also, there were more interested parties in the group than users who actually use Signalen. Governance and process is important, especially as the group grows. But in the beginning, working with a process that emerges is more important. The product group therefore decided to focus on the topic of how to make it easier for future users to start using Signalen, and to gain insight and overview of the requirements and wishes of existing users. Municipal product owners from Amsterdam, 's-Hertogenbosch, Almere and Utrecht supported by VNG Realisatie and Foundation for Public Code are currently preparing a first draft of the roadmap. Each municipality has its own product owner who will work together to find the common denominator.
+In the beginning, the product steering group was mostly busy talking about governance, how to organize and define processes. Also, there were more interested parties in the group than actual Signalen users. Governance and process are important, especially as the group grows. But in the beginning, working with a process that emerges is more important. The product group therefore decided to focus on the topic of how to make it easier for future users to start using Signalen, and to gain insight and overview of the requirements and wishes of existing users. Municipal product owners from Amsterdam, 's Hertogenbosch, Almere and Utrecht supported by VNG Realisatie and Foundation for Public Code are currently preparing a first draft of the roadmap. Each municipality has its own product owner who will work together to find the common denominator.
 
 Amy van Someren is the 's-Hertogenbosch Signalen product owner and therefore actively involved within the Signalen product steering committee.
 
@@ -97,9 +98,9 @@ One of the advantages of open source is that even in a community you don't have 
 
 If that shared need is not there (yet), it can still be very valuable to make and develop that investment yourself and communicate about it. By investing in the product you, as an individual and an organization, also learn more about the product and it also becomes easier to collaborate with other parties. In this way you take responsibility for the product. If everyone does that, we can all make use of the advantages and strengths that open source offers. Think big, start small but start!
 
-## Continue reading
+## Further reading
 
-*   Let's Talk Public Code: Interview with Amy van Someren, product owner at the municipality of 's-Hertogenbosch: [https://www.youtube.com/watch?v=zPF_3DpNA0A&t=2s](https://www.youtube.com/watch?v=zPF_3DpNA0A&t=2s) or listen to the podcast at [https://podcast.publiccode.net/ ](https://podcast.publiccode.net/)
-*   Standard for Public Code: [https://standard.publiccode.net/ ](https://standard.publiccode.net/)
-*   [Building Online Communities ](http://hintjens.com/blog:117)by Pieter Hintjens
-*   Product Management related resources and tools: [https://github.com/ProductHired/open-product-management ](https://github.com/ProductHired/open-product-management)
+* Let's Talk Public Code: Interview with Amy van Someren, product owner at the municipality of 's-Hertogenbosch: [video](https://www.youtube.com/watch?v=zPF_3DpNA0A&t=2s) or [listen to the podcast](https://podcast.publiccode.net/)
+* [Standard for Public Code](https://standard.publiccode.net/)
+* [Building Online Communities](http://hintjens.com/blog:117)by Pieter Hintjens
+* [Product Management related resources and tools](https://github.com/ProductHired/open-product-management)
