@@ -12,7 +12,7 @@ categories:
 
 In the latest episode of Let's talk about public code we talk to Leonardo Favario from the [Department for Digital Transformation](https://innovazione.gov.it/dipartimento/en/history-and-principles/) in Italy. We discuss the state of open source software in Italian public organizations.
 
-The Department for Digital Transformation - was born to build the “operating system” of Italy, a series of fundamental components on top of which both simpler and more efficient services for citizens, public administration and businesses, and innovative digital products could be built.
+The Department for Digital Transformation was established to build the “operating system” of Italy, a series of fundamental components on top of which both simpler and more efficient services for citizens, public administration and businesses, and innovative digital products could be built.
 
 In the podcast we also discussed [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml), [Designers Italia](https://designers.italia.it/), [Developers Italia](https://developers.italia.it/) and their [software catalogue](https://developers.italia.it/en/software).
 
