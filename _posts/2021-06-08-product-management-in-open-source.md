@@ -6,14 +6,15 @@ type: blogpost
 excerpt: How is product management done in open source projects and how does it differ from product management in public code
 ---
 
-![](https://illustrations.publiccode.net/illustrations/eco-system.svg)
-
 # Product management in open source: you are responsible!
 
-> This is an English translation of an [article Felix wrote for the national Dutch open source forum Pleio](https://opensource.pleio.nl/blog/view/253b9ea5-07e8-46d5-ab88-9d0a7f68c4cc/productbeheer-in-open-source-jij-bent-verantwoordelijk).
-[Felix](https://publiccode.net/who-we-are/team/felix-faassen.html) is a [Codebase Steward](https://publiccode.net/codebase-stewardship/) at the Foundation for Public Code, with a focus on the product development aspect of the codebase. Over the past two decades, Felix has worked for a number of technology companies where he was responsible for engineering and product development.
+> This is an English translation of an [article published on the national Dutch open source forum Pleio](https://opensource.pleio.nl/blog/view/253b9ea5-07e8-46d5-ab88-9d0a7f68c4cc/productbeheer-in-open-source-jij-bent-verantwoordelijk).
 
-In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/), he experiences (and empathizes!) with the challenges communities face when starting with open source and working step by step from a project to a product.
+>[Felix](https://publiccode.net/who-we-are/team/felix-faassen.html) is a [Codebase Steward](https://publiccode.net/codebase-stewardship/) at the Foundation for Public Code, with a focus on the product development aspect of the codebase. Over the past two decades, Felix has worked for a number of technology companies where he was responsible for engineering and product development.
+
+>In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/), he experiences (and empathizes!) with the challenges communities face when starting with open source and working step by step from a project to a product.
+
+![](https://illustrations.publiccode.net/illustrations/eco-system.svg)
 
 ## Introduction
 
