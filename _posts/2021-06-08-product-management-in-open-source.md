@@ -9,6 +9,7 @@ excerpt: How is product management done in open source projects and how does it 
 
 # Product management in open source: you are responsible!
 
+> This is an English translation of an [article Felix wrote for the national Dutch open source forum Pleio] (add link!).
 [Felix](https://publiccode.net/who-we-are/team/felix-faassen.html) is a [Codebase Steward](https://publiccode.net/codebase-stewardship/) at the Foundation for Public Code, with a focus on the product development aspect of the codebase. Over the past two decades, Felix has worked for a number of technology companies where he was responsible for engineering and product development.
 
 In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/), he experiences (and empathizes!) with the challenges communities face when starting with open source and working step by step from a project to a product.
