@@ -97,7 +97,7 @@ One of the advantages of open source is that even in a community you don't have 
 
 If that shared need is not there (yet), it can still be very valuable to make and develop that investment yourself and communicate about it. By investing in the product you, as an individual and an organization, also learn more about the product and it also becomes easier to collaborate with other parties. In this way you take responsibility for the product. If everyone does that, we can all make use of the advantages and strengths that open source offers. Think big, start small but start!
 
-## Continue reading
+## Further reading
 
 *   Let's Talk Public Code: Interview with Amy van Someren, product owner at the municipality of 's-Hertogenbosch: [video](https://www.youtube.com/watch?v=zPF_3DpNA0A&t=2s) or [listen to the podcast](https://podcast.publiccode.net/)
 *   [Standard for Public Code](https://standard.publiccode.net/)
