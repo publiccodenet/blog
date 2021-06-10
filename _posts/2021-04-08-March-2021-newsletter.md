@@ -13,7 +13,7 @@ category: news
 
 Welcome to our March newsletter. Our 🎉 🎉 highlights this month were:
 
-1. The city of ['s Hertogenbosch is now using Signalen](https://www.vngrealisatie.nl/nieuws/gemeente-s-hertogenbosch-live-met-signalen), making it the 2nd city after Amsterdam to rely on Signalen for core functions. This is only possible due to the community's dedication to making Signalen more easily reusable in the last year.
+1. The city of ['s-Hertogenbosch is now using Signalen](https://www.vngrealisatie.nl/nieuws/gemeente-s-hertogenbosch-live-met-signalen), making it the 2nd city after Amsterdam to rely on Signalen for core functions. This is only possible due to the community's dedication to making Signalen more easily reusable in the last year.
 2. We published our operations handbook! [Explore how we manage](https://about.publiccode.net/activities/) our finances, procurement, office, tools, staff, and staff information.
 3. We released version [0.2.1 of the Standard for Public Code](https://standard.publiccode.net/) - [see what's changed](https://github.com/publiccodenet/standard/releases/tag/0.2.1).
 
