@@ -71,7 +71,7 @@ A publicly available and shared roadmap is an important communication tool. It c
 
 A roadmap helps future users to make a decision whether an open source product is interesting to use and what the possibilities are. In addition, it helps existing users to prioritize their development and define the scope.
 
-In addition to having a roadmap, perhaps the most valuable thing is the process of arriving at that roadmap. In the process you learn to understand the product, each other's needs and challenges. You learn which issues you can collaborate on and which issues you may need to pick up on your own. The process also helps to make use of each other's knowledge and skills. For example, one can help with developers and the other with improving documentation.
+In addition to having a roadmap, perhaps the most valuable thing is the process of arriving at that roadmap. In the process you learn to understand the product, each other's needs and challenges. You learn which issues you can collaborate on and which issues you may need to pick up on your own. The process also helps to make use of each other's knowledge and skills. For example, the one can help with developers and the other with improving documentation.
 
 ## Public code in practice: From centralized to decentralized shared product ownership within Signalen
 
