@@ -1,5 +1,5 @@
 ---
-title:  "Newsletter: May 2021"
+title: "Newsletter: May 2021"
 date: 2021-05-06
 author: Elena Findley-de Regt
 type: blogpost
