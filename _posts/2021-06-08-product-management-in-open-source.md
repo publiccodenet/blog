@@ -4,6 +4,8 @@ date: 2021-06-08
 author: Felix Faassen
 type: blogpost
 excerpt: How is product management done in open source projects and how does it differ from product management in public code
+categories:
+  - news
 ---
 
 # Product management in open source: you are responsible!
