@@ -5,7 +5,7 @@ author: Felix Faassen
 type: blogpost
 excerpt: How is product management done in open source projects and how does it differ from product management in public code
 categories:
-  - news
+  - codebase stewardship
 ---
 
 # Product management in open source: you are responsible!
