@@ -23,7 +23,7 @@ In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/),
 
 An archetypal open source project begins with the development of an initial solution and its deployment by the originators. The solution is created to solve a specific problem within the organization. But as we know, many problems are not unique to a particular organization.
 
-The code is made public and the project is completed. A few months later, another organization learns about the solution and would like to use it. But the solution is tailored for use within a specific organization. For example, the house style may not be adaptable, the business logic may be different or not configurable, and authentication and authorization may be handled differently. User documentation is also sometimes missing. You want to use it but wonder "Who is actually responsible for this product? And how do I ensure that my requirements and wishes find their way into the software solution?"
+The code is made public and the project is completed. A few months later, another organization learns about the solution and would like to use it. But the solution is tailored for use within a specific organization. For example, the house style may not be adaptable, the business logic may be different or not configurable, and authentication and authorization may be handled differently. User documentation is also sometimes missing. You want to use it but wonder "Who is actually responsible for this product? How do I ensure that my requirements and wishes find their way into the software solution?"
 
 When you buy a commercial product, this product responsibility is paid off. You trade control and freedom for convenience.
 
