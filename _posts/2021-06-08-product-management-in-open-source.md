@@ -47,7 +47,7 @@ Not all possible product management activities and roles will be relevant within
 
 ## Roadmaps: yes or no
 
-Eric Herman, in addition to being a codebase steward at the Foundation for Public Code, works as a board chair at [MariaDB Foundation](https://en.wikipedia.org/wiki/MariaDB). Because this community is large, the governance is managed by a separate foundation that handles a number of financial and support issues for the open source project. I asked him how product management is done within MariaDB.
+[Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html), in addition to being a codebase steward at the Foundation for Public Code, works as a board chair at [MariaDB Foundation](https://en.wikipedia.org/wiki/MariaDB). Because this community is large, the governance is managed by a separate foundation that handles a number of financial and support issues for the open source project. I asked him how product management is done within MariaDB.
 
 
 >"Within our community, there is not really a formal product management process or activity. Anyone can propose new requirements and wishes. It is then up to the community itself to arrange resources to implement those requirements. At the time the code is integrated into the project, a number of quality requirements must be met and there is a formal process to integrate the code. Also, during development and integration into the codebase, discussion takes place about how best to implement the functionality."
@@ -58,11 +58,11 @@ But how do you prevent different members of the community from making the same t
 
 >"In some cases, the MariaDB Corporation (the largest contributor) may also share updates. But you can’t speak of a structured central process and an official roadmap. The roadmap actually lives in the minds of the people who contribute to it on a daily basis. So there is an informal process but no central roadmap within the open source community. MariaDB Corporation does have a roadmap that is used for the commercial version of the MariaDB product."
 
-Pieter Hintjens also describes such a process in his article ["Building Online Communities"](http://hintjens.com/blog:117), where he also writes about the downside of having a roadmap in open source communities.
+Pieter Hintjens also describes such a process in his article "[Building Online Communities](http://hintjens.com/blog:117)", where he also writes about the downside of having a roadmap in open source communities.
 
 "You don't need roadmaps if you have a good process." he writes in the section “[How ZeroMQ lost its roadmap](http://hintjens.com/blog:117#toc52)“.
 
-So this is one area where I think these open source projects differ from open source projects used by governments. Software used in governments implements, supports and executes laws and regulations. We call this ["public code"](https://standard.publiccode.net/introduction.html). A certain amount of oversight and agreement is needed to ensure that the software remains compliant with policy as much as possible (see: [bundle policy and code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html) in the Standard for Public Code).
+So this is one area where I think these open source projects differ from open source projects used by governments. Software used in governments implements, supports and executes laws and regulations. We call this '[public code](https://standard.publiccode.net/introduction.html)'. A certain amount of oversight and agreement is needed to ensure that the software remains compliant with policy as much as possible (see [bundle policy and code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html) in the Standard for Public Code).
 
 Here, having an open and shared roadmap does matter.
 
