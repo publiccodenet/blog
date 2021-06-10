@@ -14,7 +14,7 @@ excerpt: How is product management done in open source projects and how does it 
 
 >In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/), he experiences (and empathizes!) with the challenges communities face when starting with open source and working step by step from a project to a product.
 
-![](https://illustrations.publiccode.net/illustrations/eco-system.svg)
+![illustration of purple hands holding concentric pink and yellow circles, orbited by speech bubbles, against a peach background](https://illustrations.publiccode.net/illustrations/eco-system.svg)
 
 ## Introduction
 
