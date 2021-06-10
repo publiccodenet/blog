@@ -25,7 +25,7 @@ An archetypal open source project begins with the development of an initial solu
 
 The code is made public and the project is completed. A few months later, another organization learns about the solution and would like to use it. But the solution is tailored for use within a specific organization. For example, the house style may not be adaptable, the business logic may be different or not configurable, and authentication and authorization may be handled differently. User documentation is also sometimes missing. You want to use it but wonder "Who is actually responsible for this product? How do I ensure that my requirements and wishes find their way into the software solution?"
 
-When you buy a commercial product, this product responsibility is paid off. You trade control and freedom for convenience.
+When you buy a commercial product, you've bought your way out of product responsibility. You trade control and freedom for convenience.
 
 At a products company, there are people working every day to ensure that a software solution can be used by the largest possible group of users. Research is conducted into the needs, requirements and desires of users. These requirements and desires are identified, prioritized and finally developed. A lot of attention is also paid to usability, documentation and training. Information is made available in different languages and user research is carried out regularly. This type of work is also called 'product management'.
 
