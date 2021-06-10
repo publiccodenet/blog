@@ -67,7 +67,7 @@ Here, having an open and shared roadmap does matter.
 
 ## The value of an open and shared roadmap
 
-A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals ](https://standard.publiccode.net/criteria/document-objectives.html)and functional requirements over time.
+A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals ](https://standard.publiccode.net/criteria/document-objectives.html) and functional requirements over time.
 
 A roadmap helps future users to make a decision whether an open source product is interesting to use and what the possibilities are. In addition, it helps existing users to prioritize their development and define the scope.
 
