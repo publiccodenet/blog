@@ -6,7 +6,6 @@ type: blogpost
 excerpt: How is product management done in open source projects and how does it differ from product management in public code
 ---
 
-
 # Product management in open source: you are responsible!
 
 > This is an English translation of an [article Felix wrote for the national Dutch open source forum Pleio] (add link!).
@@ -44,18 +43,15 @@ In open source communities there is not one single person or organization respon
 
 Not all possible product management activities and roles will be relevant within an open source community. Also, these activities are performed differently within various open source communities. What they have in common is that these activities are largely decentralized and the goal is to identify where there is shared interest and need - in other words, the greatest common denominator. Thus changing coalitions are formed of people who have different requirements and wishes for the product. The coalitions then organize themselves to get the resources to meet their needs.
 
-
 ## Roadmaps: yes or no
 
 [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html), in addition to being a codebase steward at the Foundation for Public Code, works as a board chair at [MariaDB Foundation](https://en.wikipedia.org/wiki/MariaDB). Because this community is large, the governance is managed by a separate foundation that handles a number of financial and support issues for the open source project. I asked him how product management is done within MariaDB.
-
 
 >"Within our community, there is not really a formal product management process or activity. Anyone can propose new requirements and wishes. It is then up to the community itself to arrange resources to implement those requirements. At the time the code is integrated into the project, a number of quality requirements must be met and there is a formal process to integrate the code. Also, during development and integration into the codebase, discussion takes place about how best to implement the functionality."
 
 But how do you prevent different members of the community from making the same things or ensure that functionality has a logical connection to other parts within the product?
 
 >"These issues are discussed continuously. Once a year at the MariaDB conference, the future of MariaDB is discussed. At this conference, users and developers come together and talk about each other's needs and wants. They reflect on what’s been created and what’s needed in the future. From this discussion, no itemized document follows but many new epics are recorded in Jira. Usually the MariaDB Foundation will provide some highlights and summary in a blog post of these discussions."
-
 >"In some cases, the MariaDB Corporation (the largest contributor) may also share updates. But you can’t speak of a structured central process and an official roadmap. The roadmap actually lives in the minds of the people who contribute to it on a daily basis. So there is an informal process but no central roadmap within the open source community. MariaDB Corporation does have a roadmap that is used for the commercial version of the MariaDB product."
 
 Pieter Hintjens also describes such a process in his article "[Building Online Communities](http://hintjens.com/blog:117)", where he also writes about the downside of having a roadmap in open source communities.
@@ -92,7 +88,7 @@ Amy van Someren is the 's-Hertogenbosch Signalen product owner and therefore act
 
 > "There are still many things we need to learn and try out. Slowly but surely it’s becoming clear what everyone is working on, what the greatest common denominator is and where the parties can work together on further development. This model works extremely well but also has its challenges. Each product owner has several responsibilities within her own municipality. It is sometimes difficult to free up time. There is also a difference in knowledge between the different product owners. The decentralized nature also has its challenges. We all share the responsibility but sometimes there is still a need for someone to facilitate the process and help it along."
 
-## Together where possible, alone if necessary.
+## Together where possible, alone if necessary
 
 One of the advantages of open source is that even in a community you don't have to wait for each other to get things done. Suppose you need a dashboard functionality or a special integration with existing software. Nothing prevents you from implementing that functionality. The goal of an open community working together on an open roadmap is not to reach complete consensus but to inform each other and discover where there is shared value and need so that you can distribute the necessary resources and investment among multiple members of the community.
 
