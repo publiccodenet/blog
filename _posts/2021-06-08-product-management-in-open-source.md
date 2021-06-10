@@ -16,7 +16,7 @@ In his role as [Codebase Steward](https://publiccode.net/codebase-stewardship/),
 
 ## Introduction
 
-[Open unless](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) is the policy line that the Dutch Ministry of the Interior is promoting. Within the [Common Ground movement](https://commonground.nl/), local governments are working hard to put open source products into practice within government. [Signalen](https://signalen.org), [OpenStad ](https://openstad.org)and the [Virtual Municipal Assistant](https://virtuele-gemeente-assistent.nl/) are some examples.
+[Open unless](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/04/17/kamerbrief-inzake-vrijgeven-broncode-overheidssoftware) is the policy line that the Dutch Ministry of the Interior is promoting. Within the [Common Ground movement](https://commonground.nl/), local governments are working hard to put open source products into practice within government. [Signalen](https://signalen.org), [OpenStad](https://openstad.org)and the [Virtual Municipal Assistant](https://virtuele-gemeente-assistent.nl/) are some examples.
 
 [Open source offers many benefits](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/section-one-an-overview-of-open-source/#why-use-open-source). But reaping those benefits takes more than making your code public and putting a pretty website online. The old saying "Great power brings great responsibility" applies here. Freedom is a verb and it doesn't come for free. Taking advantage of the benefits and power of open source requires responsibility and commitment. This means the responsibility to make a long-term, shared commitment to the open source product and its users. With the goal to develop and manage the product to make it valuable to as many people as possible. But how do you do that and where do you start?
 
@@ -68,7 +68,7 @@ Here, having an open and shared roadmap does matter.
 
 ## The value of an open and shared roadmap
 
-A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals ](https://standard.publiccode.net/criteria/document-objectives.html) and functional requirements over time.
+A publicly available and shared roadmap is an important communication tool. It communicates the [mission and goals](https://standard.publiccode.net/criteria/document-objectives.html) and functional requirements over time.
 
 A roadmap helps future users to make a decision whether an open source product is interesting to use and what the possibilities are. In addition, it helps existing users to prioritize their development and define the scope.
 
