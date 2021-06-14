@@ -20,7 +20,7 @@ categories:
 
 Following [our new process](/news/2021/06/14/pruning-our-backlog.md) we continued reviewing our oldest Standard for Public Code issues. These were the ones we got through this time:
 
-- [Bundle policy and code: invite policy makers to contribute their own work in their own formats](https://github.com/publiccodenet/standard/issues/62) - session to work on this was calendered on June 14
+- [Bundle policy and code: invite policy makers to contribute their own work in their own formats](https://github.com/publiccodenet/standard/issues/62) - session to work on this was scheduled for June 14
 - [Template: Reference back to Foundations' core value propositions](https://github.com/publiccodenet/standard/issues/167) - closed after no new comments recieved since last session
 - [Add section on relation to coreinfrastrcture best-practice-badge](https://github.com/publiccodenet/standard/issues/200) - follow up in a future session
 - [Template: reorder the headers](https://github.com/publiccodenet/standard/issues/135) - closed after no new comments recieved since last session
