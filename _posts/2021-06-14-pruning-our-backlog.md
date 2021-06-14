@@ -12,7 +12,7 @@ categories:
 
 Two months ago in one of our regular community calls for the [Standard for Public Code](https://standard.publiccode.net), our lead codebase steward for quality, [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html), took the lead in tackling some of our oldest issues in the backlog.
 Even though it's a quite hard task, doing issue and git archeology, we felt that it was absolutely worth taking the time for it.
-During just an one hour long session we managed to close two issues as outdated/obsolote, mark two as a [good first issue](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), identify two topics for future community calls and give a deadline for another two to close if no reponse was given.
+During just an one hour long session we managed to close two issues as outdated or obsolote, mark two as a [good first issue](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), identify two topics for future community calls and give a deadline for another two to close if no reponse was given.
 
 That is why we decided to [do it again last month](https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html).
 We made similar progress and felt that we were on to something.
