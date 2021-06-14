@@ -16,7 +16,7 @@ During just an one hour long session we managed to close two issues as outdated 
 
 That is why we decided to [do it again last month](https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html).
 We made similar progress and felt that we were on to something.
-Besides actually doing the work, we also felt that reviewing them openly, with the possibility for anyone interested to join was a good step for us to do even more work in the open.
+Besides actually doing the work, we also felt that reviewing them openly, with the possibility for anyone interested to join, was a good step for us to do even more work in the open.
 
 Based on this, we'll continue our journey to include our community as much as possible in our work, so we recently [added this process to our documentation](https://github.com/publiccodenet/about/pull/932).
 We hope to see you soon in our future backlog pruning sessions!
