@@ -10,7 +10,7 @@ categories:
 
 # Pruning the Standard for Public Code backlog - one issue at the time
 
-Two months ago in one of our regular community calls for the [Standard for Public Code](https://standard.publiccode.net), our lead codebase steward for quality, [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html), took the lead in tackling some of our oldest issues in the backlog.
+Two months ago in one of our regular community calls for the [Standard for Public Code](https://standard.publiccode.net), our lead codebase steward for quality, [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html), initiated a review of some of our oldest issues in the backlog.
 Even though it's a quite hard task, doing issue and git archeology, we felt that it was absolutely worth taking the time for it.
 During just an one hour long session we managed to close two issues as outdated or obsolote, mark two as a [good first issue](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), identify two topics for future community calls and give a deadline for another two to close if no reponse was given.
 
