@@ -18,5 +18,5 @@ That is why we decided to [do it again last month](https://blog.publiccode.net/c
 We made similar progress and felt that we were on to something.
 Besides actually doing the work, we also felt that reviewing them openly, with the possibility for anyone interested to join was a good step for us to do even more work in the open.
 
-Based on that we continue our journey to include our community as much as possible in our work and recently [added this process to our documentation](https://github.com/publiccodenet/about/pull/932).
+Based on this, we'll continue our journey to include our community as much as possible in our work, so we recently [added this process to our documentation](https://github.com/publiccodenet/about/pull/932).
 We hope to see you soon in our future backlog pruning sessions!
