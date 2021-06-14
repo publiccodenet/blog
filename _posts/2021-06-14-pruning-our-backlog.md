@@ -3,7 +3,7 @@ title: "Pruning our backlog - one issue at the time"
 date: 2021-06-14
 author: Jan Ainali
 type: blogpost
-excerpt: We have a new open process for tackling long standing issues
+excerpt: We have a new open process for tackling longstanding issues
 categories:
   - news
 ---
