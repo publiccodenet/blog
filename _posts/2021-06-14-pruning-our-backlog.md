@@ -8,7 +8,7 @@ categories:
   - news
 ---
 
-# Pruning our backlog - one issue at the time
+# Pruning the Standard for Public Code backlog - one issue at the time
 
 Two months ago in one of our regular community calls for the [Standard for Public Code](https://standard.publiccode.net), our lead codebase steward for quality, [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html), took the lead in tackling some of our oldest issues in the backlog.
 Even though it's a quite hard task, doing issue and git archeology, we felt that it was absolutely worth taking the time for it.
