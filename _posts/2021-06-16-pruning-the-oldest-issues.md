@@ -18,7 +18,7 @@ categories:
 
 ## Log
 
-Following [our new process](/news/2021/06/14/pruning-our-backlog.md) we continued reviewing our oldest Standard for Public Code issues. These were the ones we got through this time:
+Following [our new process](/news/2021/06/14/pruning-our-backlog.html) we continued reviewing our oldest Standard for Public Code issues. These were the ones we got through this time:
 
 - [Bundle policy and code: invite policy makers to contribute their own work in their own formats](https://github.com/publiccodenet/standard/issues/62) - session to work on this was scheduled for June 14
 - [Template: Reference back to Foundations' core value propositions](https://github.com/publiccodenet/standard/issues/167) - closed after no new comments received since last session
