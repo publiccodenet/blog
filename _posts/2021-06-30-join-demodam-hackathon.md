@@ -16,7 +16,7 @@ Demodam is a new concept that brings together a community of developers, compani
 
 During the hackathon of July 5-9 Demodam will take shape - hopefully supported by a grant from the Dutch Ministry of the Interior. Would you like to contribute to this interesting project? Here's what you need to know.
 
-In [this collaborative document](https://docs.google.com/presentation/d/1ueLpnCIA06f05uuSTop8DU9olLb0M34iR_HrjsebRfI/edit#slide=id.p) you can find all the information about it - including goals, scope and the schedule. As in other [Common Ground](https://commonground.nl/cms/view/77953921-4161-462c-af24-6ac3cd7d61a7/common-ground-wat-hoe-en-waarom) hackathons, you just have to go to slide 17 and add your team name.
+In [this collaborative document](https://docs.google.com/presentation/d/1ueLpnCIA06f05uuSTop8DU9olLb0M34iR_HrjsebRfI/edit#slide=id.p) you can find all the information about it - including goals, scope and the schedule. As in other Dutch GovTech hackathons, you just have to go to slide 17 and add your team name.
 
 Once you select your favorite time slot for your pitch on the last day you'll just have to duplicate slide number 27 and edit it with your own characteristics. Some other competing teams have already added their proposals to the slide deck, we are waiting for yours!
 
