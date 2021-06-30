@@ -5,7 +5,7 @@ author: Alba Roza
 type: blogpost
 excerpt: Information on how to join the following Demodam hackathon
 categories:
-  - Demodam
+  - News
 ---
 
 # Join the Demodam hackathon
