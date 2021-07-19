@@ -13,7 +13,7 @@ In June, we broadened our horizons 🌍, with participation in a number of inter
 
 ## Highlights
 
-- the [OSPO Alliance launched](https://newsroom.eclipse.org/news/announcements/leading-european-open-source-non-profit-organizations-announce-ospo-alliance)! We're proud to be a founding member of this new coalition to help organizations discover and understand open source. 
+- the [OSPO Alliance launched](https://newsroom.eclipse.org/news/announcements/leading-european-open-source-non-profit-organizations-announce-ospo-alliance)! We're proud to be a founding member of this new coalition to help organizations discover and understand open source.
 - Leonardo Favario joined us for the 6th episode of our [Let's Talk About Public Code podcast](https://podcast.publiccode.net/) to talk about Italy's unique national approach to supporting public code
 - we published [our first annual report](https://about.publiccode.net/organization/annual-reports/) - read about our achievements so far and plans for the year ahead
 
@@ -26,7 +26,7 @@ We have no confirmed external events coming up - instead, we're looking forward 
 
 ## Codebase stewardship news
 
-There are currently [4 codebases in stewardship with the Foundation for Public Code](https://publiccode.net/codebases/): Demodam, Digital Omgevingsbeleid, Openzaak and Signalen. 
+There are currently [4 codebases in stewardship with the Foundation for Public Code](https://publiccode.net/codebases/): Demodam, Digital Omgevingsbeleid, Openzaak and Signalen.
 
 Updates this month include:
 
