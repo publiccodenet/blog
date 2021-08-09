@@ -28,6 +28,6 @@ We're proud the Standard for Public Code has passed the review of the Digital Pu
 
 For more information on the Digital Public Goods Alliance, please reach out to hello@digitalpublicgoods.net.
 
-The Digital Public Goods Alliance is a multi-stakeholder initiative endorsed by the United Nations Secretary-General, working to accelerate the attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
+The Digital Public Goods Alliance is a multi-stakeholder initiative endorsed by the United Nations Secretary-General’s [Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/), working to accelerate the attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
 
 All digital public goods are required to meet the [Digital Public Goods Standard](http://digitalpublicgoods.net/standard/) to ensure that projects truly encapsulate open source principles.
