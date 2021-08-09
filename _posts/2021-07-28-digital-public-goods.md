@@ -1,5 +1,5 @@
 ---
-title: "The Standard for Public Code recognized as aa Digital Public Good"
+title: "The Standard for Public Code recognized as a Digital Public Good"
 date: 2021-07-28
 author: Jan Ainali
 type: blogpost
