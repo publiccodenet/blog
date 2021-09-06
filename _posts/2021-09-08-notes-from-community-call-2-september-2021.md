@@ -54,5 +54,5 @@ Even so, this seems to be the avenue to start exploring.
 We also noted that the requirement is not about English - it's about **plain** English.
 That is, it is not because of something inherently better about English, but to enable as much communication as possible.
 
-Sightly related, we also noted that it would be good practice with more references in general.
+Sightly related, we also noted that it would be good practice to have more references to source material in general.
 Not only in code and comments but perhaps even more important in policy - what is the research the policy is based on.
