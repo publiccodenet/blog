@@ -34,7 +34,7 @@ The issues we have noted this in are:
 
 We believe this to be important since public policy is core to what we do, it is what makes public code public.
 Likewise the purpose of these requirements -  making codebases reusable - is also core to what we do.
-So it is essential that we find a way to enable collaboration of policy that has been implemented somewhere since it is likely that other pubic organizations will have similar policies.
+So it is essential that we find a way to enable collaboration around already-implemented policy since it is likely that other pubic organizations will have similar policies.
 
 In cases where the policy is executed as code (and must do so) it might not be reasonable to imagine the codebase being reused as-is in another country (and language) even if it were translated.
 Thus it does not make sense to try to translate it.
