@@ -51,7 +51,7 @@ Another idea, which is a quite common approach, is to have a "comply or explain"
 The hard part would then be where to draw the line for which explanations make the cut and which would not.
 Even so, this seems to be the avenue to start exploring.
 
-We also noted that the requirements are not about English - it's about **plain** English.
+We also noted that the requirement is not about English - it's about **plain** English.
 That is, it is not because of something inheritly good in English, but to enable as much communicability as possible.
 
 Sightly related, we also noted that it would be good practice with more references in general.
