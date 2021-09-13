@@ -3,7 +3,7 @@ title: "Launching our strategic council"
 date: 2021-09-13
 author: Elena Findley-de Regt
 type: blogpost
-excerpt: We're honored and delighted to work with these experts!
+excerpt: We're honored we get to work with these experts!
 categories:
   - News
 ---
@@ -20,5 +20,7 @@ The strategic council's initial members are:
 - Gabriella Gómez-Mont (Principal at Experimentalista, former Chief Creative Officer of Mexico City)
 
 There are additional appointments underway.
+
+## Further reading
 
 [Read more about the strategic council](about.publiccode.net/organization/strategic-council.html) and the appointment process.
