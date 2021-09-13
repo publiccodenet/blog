@@ -23,7 +23,7 @@ We reviewed [the notes from the last session](https://blog.publiccode.net/commun
 - [SPDX headers for licenses #212](https://github.com/publiccodenet/standard/issues/212) - solved in [#418](https://github.com/publiccodenet/standard/pull/418), closed
 - [improving categories for recipients of the standard #213](https://github.com/publiccodenet/standard/issues/213) - there is a point, let's bring this up in a community call to talk about all categories
 - [Expand 'further reading' sections with references to diverse gov't resources #214](https://github.com/publiccodenet/standard/issues/214) - retitled and moved to publiccode.net repository
-- [introduction/why public code: first paragraph improvement #216](https://github.com/publiccodenet/standard/issues/216) - superseeded by [#425](https://github.com/publiccodenet/standard/issues/425), closed
+- [introduction/why public code: first paragraph improvement #216](https://github.com/publiccodenet/standard/issues/216) - superseded by [#425](https://github.com/publiccodenet/standard/issues/425), closed
 - [No navigation in web version #217](https://github.com/publiccodenet/standard/issues/217) - connected to [#512](https://github.com/publiccodenet/standard/issues/512), work session planned for September 22
 - [introduction/certifying an entire codebase: unclear paragraph #218](https://github.com/publiccodenet/standard/issues/218) - relates to the refactoring of the introduction, review [#521](https://github.com/publiccodenet/standard/pull/521) in light of this
 - [Document limitations of a codebase #219](https://github.com/publiccodenet/standard/issues/219) - revisit by next meeting, close if no new suggestions
