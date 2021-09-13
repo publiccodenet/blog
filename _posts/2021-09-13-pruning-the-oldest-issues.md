@@ -17,7 +17,7 @@ categories:
 
 ## Log
 
-We reviewed [the notes from the last session](https://blog.publiccode.net/community%20call/2021/06/16/pruning-the-oldest-issues.html). No further action needed on those for now.
+We reviewed [the notes from the last session](https://blog.publiccode.net/community%20call/2021/06/16/pruning-the-oldest-issues.html). No further action is needed on those for now.
 
 - [CLAs and holding copyrights #211](https://github.com/publiccodenet/standard/issues/211) - solved in [#313](https://github.com/publiccodenet/standard/pull/313), closed
 - [SPDX headers for licenses #212](https://github.com/publiccodenet/standard/issues/212) - solved in [#418](https://github.com/publiccodenet/standard/pull/418), closed
