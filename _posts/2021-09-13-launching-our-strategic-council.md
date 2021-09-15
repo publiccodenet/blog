@@ -23,4 +23,4 @@ There are additional appointments underway.
 
 ## Further reading
 
-[Read more about the strategic council](about.publiccode.net/organization/strategic-council.html) and the appointment process.
+[Read more about the strategic council](https://about.publiccode.net/organization/strategic-council.html) and the appointment process.
