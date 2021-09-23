@@ -20,10 +20,10 @@ In June, we broadened our horizons 🌍, with participation in a number of inter
 
 ## Upcoming events
 
-We have no confirmed external events coming up - instead, we're looking forward to summer breaks and recharging.
+We have no confirmed external events coming up - instead, we're looking forward to summer breaks.
 
-- The July Foundation for Public Code community call will take place on Thurs, 15 July at 15.00 CEST. We're still deciding the topic - let us know if there's anything you'd like to talk about!
-- We'll be hosting 2 half-day reviews of our  oldest documentation on 22 July and 26 August. You're welcome to join us - check our Twitter account the week before for more joining details.
+- The July Foundation for Public Code community call will take place on Thurs, 15 July at 15.00 CEST. We're still deciding the topic - let us know if there's anything you'd like to talk about.
+- We'll be hosting 2 half-day reviews of our  oldest documentation on 22 July and 26 August. You're welcome to join us - check our Twitter account the week before for more details.
 
 ## Codebase stewardship news
 
