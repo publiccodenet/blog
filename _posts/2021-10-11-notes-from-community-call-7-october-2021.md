@@ -18,7 +18,7 @@ categories:
 
 ## Updates from the Foundation
 
-* We have a new colleague: Kehinde Bademosi - communications
+* We have a new colleague: Kehinde Bademosi - storytelling
 
 ## Notes
 
