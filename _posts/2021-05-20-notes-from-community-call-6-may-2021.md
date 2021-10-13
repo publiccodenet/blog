@@ -16,7 +16,7 @@ categories:
 * [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html)
 * [Alba Roza](https://publiccode.net/who-we-are/team/alba-roza.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
-* [Deborah Meibergen](https://publiccode.net/who-we-are/team/deborah-meibergen.html)
+* [Deborah Meibergen](http://web.archive.org/web/20210124162946/https://publiccode.net/team/deborah-meibergen.html)
 
 ## Updates from the Foundation
 
