@@ -28,7 +28,7 @@ We're all quite excited about these:
 - 17 June: Join our regular Foundation for Public Code community call. Please [help us pick the topic](https://github.com/publiccodenet/blog/issues/198) - what would you most like to talk about with us?
 - 17-18 June: Our president Ben Cerveny will be speaking at [Open Source Lisbon](https://www.opensourcelisbon.com/agenda) (Portugal)
 - June 23-30: Our codebase steward Jan Ainali ([@Jan_Ainali](https://twitter.com/jan_ainali)) will host the rotation curated Twitter account [@imakefoss](https://twitter.com/imakefoss)
-- 28 June-2 July: Jan will also be speaking at the [Open Source Summit, 2021](https://oss2021.saintgits.org/#oss21), hosted by the Open Source Club of Saintgits College of Engineering (India)
+- 28 June-2 July: Jan will also be speaking at the [Open Source Summit, 2021](https://web.archive.org/web/20210630211728/https://oss2021.saintgits.org/), hosted by the Open Source Club of Saintgits College of Engineering (India)
 
 ## Codebase stewardship news
 
