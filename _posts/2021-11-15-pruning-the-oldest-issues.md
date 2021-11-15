@@ -1,6 +1,6 @@
 ---
 title: "Pruning the oldest issues - November 2021"
-date: 2021-09-13
+date: 2021-11-15
 author: Jan Ainali
 type: blogpost
 excerpt: Making progress on the navigation
