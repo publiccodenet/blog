@@ -3,7 +3,7 @@ title: "Notes from the Foundation for Public Code community call - 18 November 2
 date: 2021-11-24
 author: Jan Ainali
 type: blogpost
-excerpt: Glossary and more about non-English terms
+excerpt: Ambitions of the codebases we steward
 categories:
   - Community call
 ---
