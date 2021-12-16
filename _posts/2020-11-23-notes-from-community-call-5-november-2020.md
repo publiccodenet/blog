@@ -19,7 +19,7 @@ categories:
 ## Attendees
 
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html)
-* [Alba Roza](https://publiccode.net/team/alba-roza.html)
+* [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
 * [Charlotte Heikendorf](https://os2.eu/bruger/charlotte-heikendorf), OS2
 
 ## Notes

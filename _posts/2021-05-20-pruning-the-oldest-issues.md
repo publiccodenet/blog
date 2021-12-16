@@ -14,8 +14,8 @@ categories:
 
 * [Jan Ainali](https://publiccode.net/who-we-are/team/jan-ainali.html)
 * [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html)
-* [Felix Faassen](https://publiccode.net/who-we-are/team/felix-faassen.html)
-* [Alba Roza](https://publiccode.net/who-we-are/team/alba-roza.html)
+* [Felix Faassen](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html)
+* [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
 
 ## Log
 

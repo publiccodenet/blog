@@ -12,7 +12,7 @@ categories:
 
 ## Update from the Foundation
 
-* [Felix Faassen](https://publiccode.net/team/felix-faassen.html) joined us as Codebase Steward
+* [Felix Faassen](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) joined us as Codebase Steward
 * The first phase of the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation) was completed
 * [OpenZaak is now in incubation](https://github.com/open-zaak/open-zaak/pull/565)
 
