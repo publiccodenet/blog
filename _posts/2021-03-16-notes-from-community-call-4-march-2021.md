@@ -18,7 +18,7 @@ categories:
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 * [Laura Scheske](https://publiccode.net/who-we-are/team/laura-scheske.html)
 * [Claus Mullie](https://publiccode.net/who-we-are/team/claus-mullie.html)
-* [Alba Roza](https://publiccode.net/who-we-are/team/alba-roza.html)
+* [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
 * [Johan Groenen](https://www.jgroenen.nl/)
 * Martin Dias d’Ullois
 * Rasmus Frey

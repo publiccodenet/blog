@@ -13,7 +13,7 @@ categories:
 ## Attendees
 
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html) (chair)
-* [Alba Roza](https://publiccode.net/team/alba-roza.html) (notes)
+* [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html) (notes)
 * [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)

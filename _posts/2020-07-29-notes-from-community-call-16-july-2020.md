@@ -14,7 +14,7 @@ categories:
 
 - [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html) (chair)
 - [Joeri Bekker](https://github.com/joeribekker)
-- [Alba Roza](https://publiccode.net/team/alba-roza.html)
+- [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
 - [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 - [Eric Herman](https://publiccode.net/team/eric-herman.html)
 - [Jan Ainali](https://publiccode.net/team/jan-ainali.html)

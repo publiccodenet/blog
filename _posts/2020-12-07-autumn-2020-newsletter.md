@@ -83,7 +83,7 @@ In October, Ben spoke on a panel about "Visions for the Future Internet: what if
 
 We also ran 2 sessions at the Creative Commons Global Summit and made a [short video](https://www.youtube.com/watch?v=QWt6vB-cipE) explaining the Standard for Public Code as a common good.
 
-In November, [Alba](https://publiccode.net/team/alba-roza.html) gave a presentation at [EsLibre](https://www.youtube.com/watch?v=iBi551I2E2c) (in Spanish) and was on a panel at DecidimFest on [Sustainability and scalability in free software projects](https://www.youtube.com/watch?v=v4rXEjJlm8Q&feature=youtu.be).
+In November, [Alba](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html) gave a presentation at [EsLibre](https://www.youtube.com/watch?v=iBi551I2E2c) (in Spanish) and was on a panel at DecidimFest on [Sustainability and scalability in free software projects](https://www.youtube.com/watch?v=v4rXEjJlm8Q&feature=youtu.be).
 
 [Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) wrote [an article about how government and market parties are jointly building the OpenZaak community](https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) for the Dutch national open source forum ([opensource.pleio.nl](https://opensource.pleio.nl/)).
 
