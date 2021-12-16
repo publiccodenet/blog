@@ -12,7 +12,7 @@ categories:
 
 ## Attendees
 * [Jan](https://publiccode.net/team/jan-ainali.html) (chair)
-* [Laura](https://publiccode.net/team/laura-scheske.html) (notes)
+* [Laura](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html) (notes)
 * [Boris](https://publiccode.net/team/boris-van-hoytema.html)
 * [Eric](https://publiccode.net/team/eric-herman.html)
 

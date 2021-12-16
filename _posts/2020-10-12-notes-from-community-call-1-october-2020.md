@@ -23,7 +23,7 @@ categories:
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html) (Chair)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
-* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
+* [Laura Scheske](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html)
 
 ## Notes
 

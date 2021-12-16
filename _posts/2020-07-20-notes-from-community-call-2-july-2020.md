@@ -20,9 +20,9 @@ categories:
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html) (chair)
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
-* [Alba Roza](https://publiccode.net/team/alba-roza.html)
+* [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
-* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
+* [Laura Scheske](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html)
 * [Jonathan Pichot](https://twitter.com/_pichot)
 * [Peter Kuhn](https://twitter.com/nhuKreteP)
 
