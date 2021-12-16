@@ -21,7 +21,7 @@ categories:
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
-* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
+* [Laura Scheske](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html)
 * Behnam
 
 ## Notes

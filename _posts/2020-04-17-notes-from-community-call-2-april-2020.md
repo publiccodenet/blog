@@ -14,14 +14,14 @@ categories:
 
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html) (chair)
 * [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html) (notes)
-* [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
+* [Laura Scheske](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
 
 ## Update from the Foundation
 
 * We have launched a website for Signalen at <https://signalen.org>
-* [Laura](https://publiccode.net/team/laura-scheske.html) has joined the Foundation for Public Code as Membership developer
+* [Laura](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html) has joined the Foundation for Public Code as Membership developer
 
 ## Notes
 

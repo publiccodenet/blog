@@ -18,7 +18,7 @@ categories:
 - [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 - [Eric Herman](https://publiccode.net/team/eric-herman.html)
 - [Jan Ainali](https://publiccode.net/team/jan-ainali.html)
-- [Laura Scheske](https://publiccode.net/team/laura-scheske.html)
+- [Laura Scheske](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html)
 
 ## Update from the Foundation for Public Code
 

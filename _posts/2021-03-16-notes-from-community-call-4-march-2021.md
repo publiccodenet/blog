@@ -16,7 +16,7 @@ categories:
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
-* [Laura Scheske](https://publiccode.net/who-we-are/team/laura-scheske.html)
+* [Laura Scheske](https://web.archive.org/web/20210225183245/https://publiccode.net/who-we-are/team/laura-scheske.html)
 * [Claus Mullie](https://publiccode.net/who-we-are/team/claus-mullie.html)
 * [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
 * [Johan Groenen](https://www.jgroenen.nl/)
