@@ -14,7 +14,7 @@ categories:
 
 * [Jan Ainali](https://publiccode.net/who-we-are/team/jan-ainali.html)
 * [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html)
-* [Boris van Hoytema](https://publiccode.net/who-we-are/team/boris-van-hoytmea.html)
+* [Boris van Hoytema](https://publiccode.net/who-we-are/team/boris-van-hoytema.html)
 * [Kehinde Bademosi](https://publiccode.net/who-we-are/team/kehinde-bademosi.html)
 
 ## Updates from the Foundation
