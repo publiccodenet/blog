@@ -26,8 +26,8 @@ categories:
     * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/)
     * A FOSDEM talk on [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/)
     * Lightning talks at FOSS Backstage:
-        * [How the Standard for Public Code can help you collaborate over time and space](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space)
-        * [The Governance Game - a conversation starter tool](https://foss-backstage.de/session/governance-game-conversation-starter-tool)
+        * [How the Standard for Public Code can help you collaborate over time and space](https://www.youtube.com/watch?v=SKl3BX9kAbY&list=PLq-odUc2x7i-A0sOgr-5JJUs5wkgdiXuR&index=36)
+        * [The Governance Game - a conversation starter tool](https://www.youtube.com/watch?v=-iAusIEx-_c&list=PLq-odUc2x7i-A0sOgr-5JJUs5wkgdiXuR&index=35)
 
 ## Proposed for this call
 
