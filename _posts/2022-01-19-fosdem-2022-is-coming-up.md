@@ -13,7 +13,7 @@ categories:
 The first weekend of February traditionally is the time for FOSDEM and this year we proposed a track, or devroom as FOSDEM calls it, for public code.
 
 Why did we do that?
-The short answer is that we felt there was no other place for people working on [public code](https://publiccode.net/background/) to come together and share their knowledge.
+The short answer is that we felt there was no better place for people working on [public code](https://publiccode.net/background/) to come together and share their knowledge.
 And such a place is needed since there are so many public organizations around the world working on this.
 For the first time, the community can get together in a fully dedicated track for and by public coders. 
 
