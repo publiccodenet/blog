@@ -78,8 +78,8 @@ Ben's been in California, meeting with lots of interesting people. He's even con
 
 We've talked a lot this winter! Starting with the most recent, we've been at:
 
-- [The Governance Game - a conversation starter tool](https://foss-backstage.de/session/governance-game-conversation-starter-tool), lightning talk by Jan Ainali at FOSS Backstage conference (February 2021)
-- [How the Standard for Public Code can help you collaborate over space and time](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space), lightning talk by Eric Herman at FOSS Backstage conference (February 2021)
+- [The Governance Game - a conversation starter tool](https://www.youtube.com/watch?v=-iAusIEx-_c&list=PLq-odUc2x7i-A0sOgr-5JJUs5wkgdiXuR&index=35),lightning talk by Jan Ainali at FOSS Backstage conference (February 2021)
+- [How the Standard for Public Code can help you collaborate over space and time](https://www.youtube.com/watch?v=SKl3BX9kAbY&list=PLq-odUc2x7i-A0sOgr-5JJUs5wkgdiXuR&index=36), lightning talk by Eric Herman at FOSS Backstage conference (February 2021)
 - Open source wordt verplicht, wat nu?, panel discussion with Boris van Hoytema at the [Conferentie Nederland Digitaal](https://www.nederlanddigitaal.nl/conferentie-nederland-digitaal) (February 2021) (in Dutch)
 - [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/), by Boris van Hoytema at [FOSDEM 2021](https://fosdem.org/2021/) (February 2021)
 - [OSPOs Everywhere: Universities, Governments and Businesses](https://youtu.be/nRohU4LxO-E), panel discussion with Boris van Hoytema at the [EU Open Source Policy Summit 2021](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/) (February 2021)
