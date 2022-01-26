@@ -8,9 +8,9 @@ categories:
   - News
 ---
 
-# 
+# Goals for the first quarter 2022
 
-Last fall, we first tried to create [quarterly goals for the codebase stewards](https://blog.publiccode.net/news/2021/11/03/stewards-end-of-year-goals.html) based on our [roadmap document](https://about.publiccode.net/organization/roadmap.html).
+Last fall, we created [quarterly goals for the codebase stewards](https://blog.publiccode.net/news/2021/11/03/stewards-end-of-year-goals.html) based on our [roadmap document](https://about.publiccode.net/organization/roadmap.html).
 It turned out to be a useful way for us to work, so now we are extending it to the whole organization and the entire roadmap.
 
 The sections and tables below are based on the roadmap, but we also made a few additions.
