@@ -52,7 +52,7 @@ A central theme emerging from [the first Goals Q1 2022 session](https://blog.pub
 
 ## Tending to stewardship
 
-## Activities & Processes
+### Activities & Processes
 
 | One year ambition | Q4 2021 goal | Q1 2022 goal
 |-|-|-|
@@ -60,7 +60,7 @@ A central theme emerging from [the first Goals Q1 2022 session](https://blog.pub
 | Help a codebase that is spun off from the host organization become its own external non-profit stewardship foundation | | (No Q1 goal set)
 | Include on our website a visual and short explanation of what we do | 1. Create a communication plan (including social media plan) about stewardship 2. Create explainer on importance of international ambition for a codebase | Create a brief and get a quote for a visual explainer of codebase stewardship / revisit and freshen up the explainer texts we have on [About](https://about.publiccode.net/activities/codebase-stewardship/)/[Case for support](https://files.publiccode.net/nextcloud/index.php/s/Cb2BN2mn9jzggRz#pdfviewer) |
 
-## Codebases
+### Codebases
 
 | One year ambition | Q4 2021 goal | Q1 2022 goal
 |-|-|-|
@@ -70,7 +70,7 @@ A central theme emerging from [the first Goals Q1 2022 session](https://blog.pub
 | Directly steward an international collaboration | 1. Suggest stewardship to OpenFisca 2. Create prioritized shortlist of codebases with international potential that we would like to steward, including USA/CA codebases | Advance OpenFisca |
 | Positively impact the codebases under our stewardship | Collect and list areas of impact per codebase (feed into storytelling plan) | Get Omgevingsbeleid impact story |
 
-## Community of practice
+### Community of practice
 
 | One year ambition | Q4 2021 goal | Q1 2022 goal
 |-|-|-|
