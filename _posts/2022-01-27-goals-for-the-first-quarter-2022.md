@@ -82,9 +82,37 @@ A central theme emerging from [the first Goals Q1 2022 session](https://blog.pub
 | Launch an online open source learning platform where we can host course material based on the stewardship framework | Select platform and get it up and running, with the Standard for Public Code course from the City by City Academy platform ported to it | (No Q1 goal set)
 | Create guidance modules for codebase lifecycles, governance, and finance | Table of Contents (and a shared understanding of the topic) | (No Q1 goal set) |
 
+## Achieving sustainability
 
+### Philanthropy and grants
 
+| One year ambition | Q1 2022 goal |
+|-|-|
+| A third > €1 million individual grantor | Open conversations with at least 3 potential €1m+ donors |
+| Participation in multiple fundraising networking events | Identify one or more events |
+| Respond to calls for proposal from at least 3 granting philanthropic organizations | (No Q1 goal set) |
+| Produce visual content for potential investors | Get feedback on, update and produce new batch of Case for Support/partnership/donors. Draft script for introduction video to the Foundation ([inspiration](https://www.youtube.com/watch?v=bbtQcW4E_RU)) |
 
+### Structural funding
 
+| One year ambition | Q1 2022 goal |
+|-|-|
+| Secure structural funding of > €250K from at least one regional or state public administration | (No Q1 goal set) |
 
+### Operational excellence
 
+Professionalize an exemplary open public organization
+
+| One year ambition | Q1 2022 goal |
+|-|-|
+| A well administered institution with open and strong processes | Ensuring that our processes are documented well enough that we can onboard a new administrative assistant |
+| An open organization | Update [About](https://about.publiccode.net/) so that it reflects current status and practices |
+| (housekeeping) | Do an inventory of our video files and make accessible for content repurposing |
+| | **ASAP**: Create a policy plan |
+| | **ASAP**: Renew contract with Multiple Ventures |
+| | **ASAP**: Refine process with bookkeepers |
+| | **ASAP**: Review gift paperwork |
+| | **ASAP**: Get general assembly to validate policy plan |
+| | **ASAP**: Follow-up with members |
+| | Before 1 July: Create annual report |
+| | Establish publishing process for [Standard community translations](https://github.com/publiccodenet/community-translations-standard) |
