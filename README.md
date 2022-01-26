@@ -2,6 +2,10 @@
 
 This is the Blog for Public Code by the [Foundation for Public Code](https://publiccode.net).
 
+## How to write a blog post
+
+Follow [this guide](https://about.publiccode.net/activities/communication/blogging.html) that explains both what we are looking for in a blog post and how to contribute.
+
 ## Building the site
 
 This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitHub pages](https://pages.github.com/) and uses the [Foundation for Public Code Jekyll Theme](https://github.com/publiccodenet/jekyll-theme).
