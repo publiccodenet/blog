@@ -20,7 +20,7 @@ The Digital Public Goods Alliance aims to promote digital public goods - defined
 
 This aligns well with [our mission](https://about.publiccode.net/organization/mission.html) to enable public-purpose software and policy that is open and collaborative, and [our values](https://about.publiccode.net/organization/cultural-values.html). The Standard for Public Code is a core tool in [our codebase stewardship practice](https://publiccode.net/codebase-stewardship/).
 
-The Standard for Public Code's recognition as a digital public good contributes to [our support for the Sustainable Development Goals](https://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html).
+The Standard for Public Code's recognition as a digital public good contributes to [our support for the Sustainable Development Goals](https://about.publiccode.net/organization/sustainable-development-goals.html).
 
 We're proud the Standard for Public Code has passed the review of the Digital Public Goods Alliance and look forward to meeting the new codebases that find us through the registry.
 

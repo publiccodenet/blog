@@ -11,7 +11,7 @@ category: policy
 
 Two weeks ago marked five years since the inception of the Sustainable Development Goals (SDGs). During [Global Goals Week](https://globalgoalsweek.org/), our president Ben Cerveny participated in a panel *[Open Sourcing our Way to the SDGs](https://www.youtube.com/watch?v=FkeQzL5q5t4&)*, discussing just how open source, especially in the public sector, will help us achieve the goals.
 
-This prompted us to act on something that we'd planned to do for a long time: updating our Values and Impact with [a dedicated section for the SDGs](https://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html). This blog post aims to explain how our tools and activities contribute to reaching the SDG targets.
+This prompted us to act on something that we'd planned to do for a long time: updating our Values and Impact with [a dedicated section for the SDGs](https://about.publiccode.net/organization/sustainable-development-goals.html). This blog post aims to explain how our tools and activities contribute to reaching the SDG targets.
 
 ## How public code supports the SDGs
 
