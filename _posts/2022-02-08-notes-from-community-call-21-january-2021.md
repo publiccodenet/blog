@@ -26,9 +26,9 @@ This built on our October 2020 community call, which focused on building better 
 
 We explored these questions:
 
-- What do we want from responding to new input and new contributions? 
-- How can we build a great professionalism around that? 
-- What can we do more openly?
+* What do we want from responding to new input and new contributions?
+* How can we build a great professionalism around that?
+* What can we do more openly?
 
 We hoped this would also be useful priming before [FOSDEM 2021](https://fosdem.org/2021/).
 
