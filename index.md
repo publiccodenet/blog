@@ -9,8 +9,7 @@
     </li>
   {% endfor %}
  </ul>
- 
- 
+
 ## About this blog
 
 ![Our frontdoor](/assets/frontdoor-2019-05-07-small.jpg)

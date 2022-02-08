@@ -12,10 +12,10 @@ categories:
 
 ## Attendees
 
-- [Elena](https://github.com/ElenaFdR) (chair)
-- [Jan](https://github.com/Ainali) (notes)
-- [Alba](https://github.com/AlbaRoza)
-- [Eric](https://github.com/ericherman)
+* [Elena](https://github.com/ElenaFdR) (chair)
+* [Jan](https://github.com/Ainali) (notes)
+* [Alba](https://github.com/AlbaRoza)
+* [Eric](https://github.com/ericherman)
 
 ## Foundation updates since December 2019
 
