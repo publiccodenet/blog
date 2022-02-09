@@ -60,7 +60,7 @@ We also held discussions throughout the autumn with 3 national governments and 2
 
 We've received two new philanthropic gifts, which means we have more breathing space as we expand our offering.
 
-During the global week for the Sustainable Development Goals (September 2020) we made an addition to our [value and impact page](https://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html) and [blogged about how we support the goals](https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html).
+During the global week for the Sustainable Development Goals (September 2020) we made an addition to our [value and impact page](https://about.publiccode.net/organization/sustainable-development-goals.html) and [blogged about how we support the goals](https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html).
 
 We're happy to be able to stay at our curent premises on the Keizersgracht in Amsterdam until spring 2021.
 
