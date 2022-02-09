@@ -1,19 +1,19 @@
 # Contributing
 
 Thanks for being interested in contributing to the Foundation for Public Code blog.
-Below we hope to have instructions that make it clear how to do so successfully.
-We will focus on how to submit a blog post, but you are of course welcome to proofread and comment on issues and pull requests as well.
+The instructions below will help you do so successfully.
+We will focus on how to submit a blog post, but you are of course welcome to proofread and comment on issues or pull requests as well.
 
 ## Submitting a blog post
 
 If you would like to propose a new idea for a blog post, please [create an issue](https://github.com/publiccodenet/blog/issues/new/choose) and pitch your idea first.
-This can save you time if it turns out that your idea doesn't fit this blog.
+This can save you time if it turns out that your idea doesn't quite fit this blog.
 
 If you have already been in contact with Foundation for Public Code staff about a blog topic and/or been invited to write a blog post, feel free to to [make a pull request](#making-a-pull-request).
 
 ### Topics we are looking for
 
-We are looking for blog posts that are about public code, meaning is software with a public purpose, developed by and for public organizations.
+We are looking for blog posts that are about public code - meaning is software with a public purpose, developed by and for public organizations.
 We are specifically interested in stories, case studies or learnings from hands-on collaborations around the development and/or reuse of codebases across different contexts.
 We might reject ideas that are only tangentially interesting to our audience, such as topics related to "pure" civic tech, where the codebase might have a public purpose, but did not involve public organizations collaborating.
 
