@@ -33,4 +33,4 @@ The server will rebuild the site every time a file changes, with the exception o
 
 ## License
 
-© 2020 Foundation for Public Code
+© 2020 Foundation for Public Code. All content licensed under [Creative Commons Zero v1.0 Universal, unless otherwise noted](LICENSE.md).
