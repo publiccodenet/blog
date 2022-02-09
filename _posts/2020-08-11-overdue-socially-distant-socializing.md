@@ -15,7 +15,7 @@ With this transition to a virtual working reality we were in dire need of some o
 
 ![Strolling through cool Dutch forests]({{site.url}}/assets/team-outing-walking-2020.jpeg)
 
-We spent the day hiking through this very diverse national park (temperate forests, heath, dunes), tried to spot the former Queen Beatrix in her castle, refueled for lunch at restaurant "Buiten in de Kuil", and stopped for ice cream on our way back. Check out the locations on the map below! 
+We spent the day hiking through this very diverse national park (temperate forests, heath, dunes), tried to spot the former Queen Beatrix in her castle, refueled for lunch at restaurant "Buiten in de Kuil", and stopped for ice cream on our way back. Check out the locations on the map below!
 
 <iframe src="https://www.komoot.com/tour/233215987/embed?profile=1&gallery=1" width="100%" height="680" frameborder="0" scrolling="no"></iframe>
 

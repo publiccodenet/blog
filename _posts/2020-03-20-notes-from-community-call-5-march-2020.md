@@ -20,9 +20,9 @@ categories:
 
 On the call:
 
-- [Jan](https://publiccode.net/team/jan-ainali.html) (chair)
-- [Alba](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html) (notes)
-- [Boris](https://publiccode.net/team/boris-van-hoytema.html)
+* [Jan](https://publiccode.net/team/jan-ainali.html) (chair)
+* [Alba](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html) (notes)
+* [Boris](https://publiccode.net/team/boris-van-hoytema.html)
 
 ## Call notes
 
