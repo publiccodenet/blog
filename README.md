@@ -2,9 +2,9 @@
 
 This is the Blog for Public Code by the [Foundation for Public Code](https://publiccode.net).
 
-## How to write a blog post
+## How to contribute to the blog
 
-Follow [this guide](https://about.publiccode.net/activities/communication/blogging.html) that explains both what we are looking for in a blog post and how to contribute.
+Follow our [contributing guide](CONTRIBUTING.md) to learn how you can contribute.
 
 ## Building the site
 
