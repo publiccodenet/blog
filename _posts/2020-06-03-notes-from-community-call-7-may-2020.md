@@ -32,7 +32,7 @@ This call discussed two topics: code coverage and design principles.
 
 ### Code coverage
 
-Boris started by giving a brief introduction to the [Standard for Public Code](https://standard.publiccode.net/). Then Eric gave an introduction to why he wrote [a blog post on code coverage](https://opensource.com/article/20/4/testing-code-coverage) and what he learned from that. The discussion that followed was mostly based around the central questions: "What are we measuring?" and "What do we want to achieve by measuring that?" 
+Boris started by giving a brief introduction to the [Standard for Public Code](https://standard.publiccode.net/). Then Eric gave an introduction to why he wrote [a blog post on code coverage](https://opensource.com/article/20/4/testing-code-coverage) and what he learned from that. The discussion that followed was mostly based around the central questions: "What are we measuring?" and "What do we want to achieve by measuring that?"
 
 There was a consensus that there is a risk that measuring just percentage of lines covered by tests will lead to poorer tests that cover all code rather than good tests that cover the important functionality of the code. Different strategies for mitigating that risk was discussed - for example, stewardship by the Foundation for Public Code could steer codebases from blindly trying to achieve complete coverage. The call did not come up with concrete suggestions to change the Standard but acknowledged that this might be worth further thought and discussion.
 

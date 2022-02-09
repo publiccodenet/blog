@@ -24,7 +24,7 @@ The video is available in a number of places:
 
 ## Where can I find the podcast?
 
-Do you prefer to listen to just the audio? Then you're in for a treat! We've published a polished version of the interview at [podcast.publiccode.net](https://podcast.publiccode.net/). 
+Do you prefer to listen to just the audio? Then you're in for a treat! We've published a polished version of the interview at [podcast.publiccode.net](https://podcast.publiccode.net/).
 It is also available on most podcast players, so take a few secsonds to subscribe and never miss an episode:
 
 - [Spotify](https://open.spotify.com/show/3m7m3AtL0jf67NpQ9B9HRs)

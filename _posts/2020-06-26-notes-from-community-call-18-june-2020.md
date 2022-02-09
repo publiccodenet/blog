@@ -12,8 +12,8 @@ categories:
 
 ## Update from the Foundation
 
-- we're excited to have completed our support for the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation) - this was a big new area of work for the codebase stewardship team, and we're not aware of any other market consultations hosted by public organizations that asked vendors how they'd like an open source codebase community to be structured
-- not a milestone, but it feels like [the team](https://publiccode.net/team/) has really settled into productive new working rhythms after having a new person join each month for the first 4 months of the year 
+* we're excited to have completed our support for the [OpenZaak market consultation](https://github.com/open-zaak/open-zaak-market-consultation) * this was a big new area of work for the codebase stewardship team, and we're not aware of any other market consultations hosted by public organizations that asked vendors how they'd like an open source codebase community to be structured
+* not a milestone, but it feels like [the team](https://publiccode.net/team/) has really settled into productive new working rhythms after having a new person join each month for the first 4 months of the year
 
 ## Attendees
 
@@ -32,7 +32,7 @@ Are there other aims (professionalism, public values?) that could be better achi
 
 ### Background reading
 
-- [Standard for Public Code issue 330: Code of conduct could cater to public organizations better ](https://github.com/publiccodenet/standard/issues/330)
+- [Standard for Public Code issue 330: Code of conduct could cater to public organizations better](https://github.com/publiccodenet/standard/issues/330)
 - [Standard for Public Code issue 331: Code of conduct is licenced CC-BY](https://github.com/publiccodenet/standard/issues/331)
 - [Open source guide on code of conducts](https://opensource.guide/code-of-conduct/)
 
