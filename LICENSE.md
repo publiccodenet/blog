@@ -1,6 +1,6 @@
 # License
 
-All content licensed under Creative Commons Zero v1.0 Universal, unless otherwise noted. This may include media which, if liscensed differently, will be accompanied by an explicit exception.
+All content licensed under Creative Commons Zero v1.0 Universal, unless otherwise noted. This may include media which, if licensed differently, will be accompanied by an explicit exception.
 
 ## CC0 1.0 Universal license
 
