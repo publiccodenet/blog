@@ -8,6 +8,9 @@ plugins:
 
 # Also render the README to HTML even if there is an index.md
 include:
+  - CONTRIBUTING.md
+  - index.md
+  - LICENSE.md
   - README.md
 
 # Exclude the `vendor` folder created by Travis
