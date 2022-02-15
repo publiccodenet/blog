@@ -50,6 +50,6 @@ One possible positive side effect of the translations is that they can be a way 
 
 ## Summary
 
-The community call was clear: there is a need for translations but they do not need to be "official". 
+The community call was clear: there is a need for translations but they do not need to be "official".
 
 The Foundation for Public Code will look into tools that can fit our workflow that will make it possible to provide community translated versions of the Standard for Public Code.

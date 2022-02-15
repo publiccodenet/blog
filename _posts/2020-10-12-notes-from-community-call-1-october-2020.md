@@ -43,7 +43,7 @@ Following this, we talked a little bit about [our definition of public code](htt
 
 The discussion was mostly philosophical, and it became clear that codebases are diverse: for some it is very obvious that a specific policy is being implemented, and for others it is equally obvious that none exist. The interesting parts are all those cases in between where either:
 
- * it is plausible that a codebase implements policy but it is not being stated explicitly
- * a generic codebase is used as a tool to execute policy, but the policy is not implemented in the codebase itself
+* it is plausible that a codebase implements policy but it is not being stated explicitly
+* a generic codebase is used as a tool to execute policy, but the policy is not implemented in the codebase itself
 
 This discussion was enlightening but not conclusive, so we need to continue it in the future.
