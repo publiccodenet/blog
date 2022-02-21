@@ -24,7 +24,7 @@ We now [have a suggestion](https://github.com/publiccodenet/about/pull/1115) for
 
 ### Deletions
 
-We started the discussion with deletions and were in general agreement of the principle.
+We started the discussion with deletions and were in general agreement on the principle.
 We noted that in most cases it would probably be useful to add a link to the commit that deleted the content, to give the reader immediate access to the reason why it was deleted and the file history.
 
 ### Redirects 
