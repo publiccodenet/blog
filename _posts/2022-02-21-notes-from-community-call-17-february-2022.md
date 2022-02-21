@@ -18,7 +18,7 @@ categories:
 As an [open organization](https://about.publiccode.net/organization/cultural-values.html) dedicated to the long term sustainability of the public code ecosystem, our ambition is to reliably serve readers with the information they were looking for. This means we try never to have a URL resolve to a `404:Page not found`.
 
 That being said, our content will evolve over time, and we may need to move, merge and delete pages.
-We now [have a suggestion](https://github.com/publiccodenet/about/pull/1115) for how to use redirects to handle these different situations. How do you do in your organization, and are we missing something?
+We now [have a suggestion](https://github.com/publiccodenet/about/pull/1115) for how to use redirects to handle these different situations. How do you do this in your organization, and are we missing something?
 
 ## Notes
 
