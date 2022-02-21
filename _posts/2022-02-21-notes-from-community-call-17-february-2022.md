@@ -40,5 +40,4 @@ This simplifies the policy and we will update the pull request to reflect it.
 We also talked about genuine 404 errors and discussed both adding automatic search, or initially, instructions on how to use our current search to the 404 page.
 
 We also realized that we could track the 404 errors that are generated in our analytics tool Plausible, and [created an issue](https://github.com/publiccodenet/jekyll-theme/issues/82).
-An [issue for that was created](https://github.com/publiccodenet/jekyll-theme/issues/82).
 Talking about Plausible, we got an idea on how we could improve how we [track our subdomains](https://github.com/publiccodenet/jekyll-theme/pull/83).
