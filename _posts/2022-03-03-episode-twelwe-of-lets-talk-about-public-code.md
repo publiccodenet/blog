@@ -10,7 +10,7 @@ categories:
 
 # Episode twelve of Let's talk about public code!
 
-In this twelfth episode we talked to Stephen Musoke and Johnblack Kabukye, both working with open source in the health sector in Uganda.
+In this twelfth episode we talked to Stephen Musoke and Johnblack Kabukye, who both work with open source in the health sector in Uganda.
 This episode focuses on how open source codebases enable them to address the needs they have with costs and sovereignty being deciding factors.
 The discussion also touches upon some challenges and opportunities specific to the public health sector.
 
