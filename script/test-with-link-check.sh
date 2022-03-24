@@ -28,11 +28,15 @@ bundle exec jekyll build
 # skip ssl certificate checking
 # --http_status_ignore
 # * request rate limit errors (HTTP 429)
+#   * 429 Too Many Requests
 # * server errors (HTTP 5xx)
+#   * 500 Internal Server Error
+#   * 503 Service Unavailable
 # using the files in Jekyll's build folder "./_site"
+# --http_status_ignore "429,500,501,502,503,504" \
 bundle exec htmlproofer \
     --assume-extension \
     --url-ignore "/github.com/(.*)/edit/,/twitter.com/,/listennotes\.com/,/linkedin\.com/" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429,500,501,502,503,504" \
+    --http_status_ignore "429" \
     ./_site
