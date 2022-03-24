@@ -32,9 +32,9 @@ Are there other aims (professionalism, public values?) that could be better achi
 
 ### Background reading
 
-- [Standard for Public Code issue 330: Code of conduct could cater to public organizations better](https://github.com/publiccodenet/standard/issues/330)
-- [Standard for Public Code issue 331: Code of conduct is licenced CC-BY](https://github.com/publiccodenet/standard/issues/331)
-- [Open source guide on code of conducts](https://opensource.guide/code-of-conduct/)
+* [Standard for Public Code issue 330: Code of conduct could cater to public organizations better](https://github.com/publiccodenet/standard/issues/330)
+* [Standard for Public Code issue 331: Code of conduct is licenced CC-BY](https://github.com/publiccodenet/standard/issues/331)
+* [Open source guide on code of conducts](https://opensource.guide/code-of-conduct/)
 
 ## Notes
 
@@ -62,4 +62,3 @@ On the short question of whether we should have the same code of conduct for all
 As a last side conversation, we noted that a strong code of conduct for online behaviour might differ from one for physical events and that we should investigate a need for a separate one for when we [organize events](https://about.publiccode.net/activities/events/organizing-events.html).
 
 Following from this, we concluded that we want to update [our code of conduct](https://github.com/publiccodenet/about/blob/develop/CODE_OF_CONDUCT.md) and should create an issue that referred to this discussion.
-

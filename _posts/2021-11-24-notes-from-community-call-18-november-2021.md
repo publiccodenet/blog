@@ -33,7 +33,7 @@ That was the topic of the community call.
 ### Avoiding the situation
 
 One aspect that we talked quite a lot about was strategies of how we could avoid getting in this place in the first place.
-While we didn't have any concrete answers, we realized that this is connected to the mandate that we have been given by the community. 
+While we didn't have any concrete answers, we realized that this is connected to the mandate that we have been given by the community.
 
 Therefore we talked about some strategies on how we can be clear that this is a mandate that we need in order to provide value for the community.
 Some ideas involved being more proactive and act like we are stakeholder to be recognized as one, another was to be more explicit from the start what role we should have.
@@ -45,7 +45,7 @@ One memorable phrase that come up during this discussion was *public code by des
 What we came up with related to processes we could implement immediately, the following was a process that we liked.
 
 Once, or perhaps even twice, each year we should have a meeting in each codebase community to do a forward look.
-In it we would discuss what their ambitions related to closing the gaps and meeting more requirements in the Standard for Public Code will be the next year. 
+In it we would discuss what their ambitions related to closing the gaps and meeting more requirements in the Standard for Public Code will be the next year.
 
 The reason that we thought of possibly two meetings was the notion of having it timed so that it first can feed into their budget planning.
 Second, it would be good to do a forward look late enough so that the community know their budgets and can give honest answers of what the possibility space is.

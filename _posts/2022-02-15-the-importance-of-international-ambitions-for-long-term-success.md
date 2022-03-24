@@ -11,7 +11,7 @@ categories:
 # The importance of international ambitions for long-term success
 
 As codebase stewards, our most immediate aim is to enable collaboration in, and reuse of, public code.
-The [Standard for Public Code](https://standard.publiccode.net/) is meant as a key to unlock that collaboration on a large scale. 
+The [Standard for Public Code](https://standard.publiccode.net/) is meant as a key to unlock that collaboration on a large scale.
 To do that, it has a criterion called [Use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html).
 Naturally, a codebase community that starts out with a regional focus, are reluctant to take on the extra cost of working in a second language.
 That is why we in this blog post want to explain why we believe that having an international ambition is worth it for the long-term success of a public code codebase.
