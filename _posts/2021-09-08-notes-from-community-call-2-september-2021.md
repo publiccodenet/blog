@@ -29,8 +29,8 @@ Today's discussion was prompted by two issues about the requirement on [using (p
 We have noted that sometimes, especially in cases coming close to policy actually being executed as code, there is a need to use the language that the policy is written in.
 The issues we have noted this in are:
 
-- Add nuance on where non-English is acceptable [#223](https://github.com/publiccodenet/standard/issues/223)
-- Handling non-English terms - [#308](https://github.com/publiccodenet/standard/issues/308)
+* Add nuance on where non-English is acceptable [#223](https://github.com/publiccodenet/standard/issues/223)
+* Handling non-English terms - [#308](https://github.com/publiccodenet/standard/issues/308)
 
 We believe this to be important since public policy is core to what we do, it is what makes public code public.
 Likewise the purpose of these requirements -  making codebases reusable - is also core to what we do.

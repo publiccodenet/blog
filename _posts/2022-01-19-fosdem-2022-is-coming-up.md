@@ -15,7 +15,7 @@ The first weekend of February traditionally is the time for FOSDEM and this year
 Why did we do that?
 The short answer is that we felt there was no better place for people working on [public code](https://publiccode.net/background/) to come together and share their knowledge.
 And such a place is needed since there are so many public organizations around the world working on this.
-For the first time, the community can get together in a fully dedicated track for and by public coders. 
+For the first time, the community can get together in a fully dedicated track for and by public coders.
 
 We were pleased to see a number of great submissions and have put together a day that we believe will make for an interesting mix.
 There will be talks covering policy and collaboration with examples from different contexts.

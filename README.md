@@ -16,7 +16,7 @@ This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitH
 2. Install the dependencies of this repo with
 
 ```bash
-$ bundle install
+bundle install
 ```
 
 ## Serving Locally
@@ -24,10 +24,10 @@ $ bundle install
 1. Run the Jekyll server with
 
 ```bash
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
-2. You can now view the website locally on `http://localhost:4000`
+1. You can now view the website locally on `http://localhost:4000`
 
 The server will rebuild the site every time a file changes, with the exception of `_config.yml`.
 

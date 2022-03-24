@@ -9,9 +9,8 @@ set -e # halt script on error
 # Additionally, we have these violations which should be resolved:
 # MD026 Trailing punctuation in header
 # MD032 Lists should be surrounded by blank lines
-# MD034 Bare URL used
-#
-# bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD032,~MD034 -i -g '.'
+# MD033 Inline HTML
+bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD033 -i -g '.'
 
 # Build the site
 bundle exec jekyll build

@@ -39,20 +39,22 @@ After some discussion, this is our proposal for the glossary:
 
 ## Non-english
 
-### Background
+### Background of non-english
 
 In our [community call in September](https://blog.publiccode.net/community%20call/2021/09/08/notes-from-community-call-2-september-2021.html), we talked about non-English terms.
 We have had a discussion in the ongoing pull requests and would like to make a final check before merging them.
-- [Issue #223: Add nuance on where non-English is acceptable](https://github.com/publiccodenet/standard/pull/527)
-- [Issue #308: Clarify intersection of policy-defined vocabulary and Use Plain English](https://github.com/publiccodenet/standard/pull/528)
 
-### Notes
+* [Issue #223: Add nuance on where non-English is acceptable](https://github.com/publiccodenet/standard/pull/527)
+* [Issue #308: Clarify intersection of policy-defined vocabulary and Use Plain English](https://github.com/publiccodenet/standard/pull/528)
+
+### Notes of non-english
 
 We agreed that it would be good to better define what `plain English` means in the Standard for Public Code.
 We agreed to:
-- make a a glossary definition inline with our requirement today (lower secondary education reading level, as recommended by the Web Content Accessibility Guidelines 2)
-- make sure that all places that needs it, uses this term
-- move [the suggested link](https://www.plainlanguage.gov/about/definitions/) to Further reading as it adds value, but isn't specific as a definition
+
+* make a a glossary definition inline with our requirement today (lower secondary education reading level, as recommended by the Web Content Accessibility Guidelines 2)
+* make sure that all places that needs it, uses this term
+* move [the suggested link](https://www.plainlanguage.gov/about/definitions/) to Further reading as it adds value, but isn't specific as a definition
 
 After discussing the new requirement about policy being executed we agreed that using the term `business domain` would open it too wide.
 We also recognized the need for using non-English terms, but that all the relevant use cases that we could see, would in effect be covered by our suggestions.

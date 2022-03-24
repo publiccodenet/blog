@@ -20,10 +20,10 @@ categories:
 
 ## Updates from the Foundation
 
-- We now have a printed version of the 0.2.1 version of the Standard for Public Code. If you want one, give us a postal address and we'll ship it to you.
-- [Version 1.4.0 of OpenZaak was released](https://open-zaak.readthedocs.io/en/stable/development/changelog.html#id1)
-- [Omgevingsbeleid is now all openly published](https://github.com/Provincie-Zuid-Holland)
-- Based on experiences with Signalen, [we wrote a blog post on collaboration on the OS2 blog](https://os2.eu/blog/blog-samarbete-i-praktiken#english)
+* We now have a printed version of the 0.2.1 version of the Standard for Public Code. If you want one, give us a postal address and we'll ship it to you.
+* [Version 1.4.0 of OpenZaak was released](https://open-zaak.readthedocs.io/en/stable/development/changelog.html#id1)
+* [Omgevingsbeleid is now all openly published](https://github.com/Provincie-Zuid-Holland)
+* Based on experiences with Signalen, [we wrote a blog post on collaboration on the OS2 blog](https://os2.eu/blog/blog-samarbete-i-praktiken#english)
 
 ## Notes
 
@@ -31,7 +31,7 @@ This call we talked about the issue: [Add vendor and platform independence as a 
 
 Background: This was an empty header early in the Standard for Public code.
 Later it was removed without any text ever being added to the section.
-Clearly the issue was in mind from the beginning and the issue remained in the backlog. 
+Clearly the issue was in mind from the beginning and the issue remained in the backlog.
 
 Eric mentioned that the purpose is to make a codebase as reusable as possible, and we have the criteria [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html) to cover it.
 Could a new requirement like below be enough?
