@@ -24,4 +24,4 @@ We reviewed [the notes from the last session](https://blog.publiccode.net/commun
 
 Then we looked at the open pull request:
 
--[Expand Bundle policy and code to clearly include processes #573](https://github.com/publiccodenet/standard/pull/573) and made some improvements of the language (without changing the substance of the pull request)
+-[Expand Bundle policy and code to clearly include processes #573](https://github.com/publiccodenet/standard/pull/573) and made some improvements to the language (without changing the substance of the pull request)
