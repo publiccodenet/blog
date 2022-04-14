@@ -37,9 +37,9 @@ After some discussion, this is our proposal for the glossary:
 
 **Different contexts** - two contexts are different if they are different public organizations or different departments for which there is not one decision maker that could make collaboration happen naturally.
 
-## Non-english
+## Non-English
 
-### Background of non-english
+### Background of non-English
 
 In our [community call in September](https://blog.publiccode.net/community%20call/2021/09/08/notes-from-community-call-2-september-2021.html), we talked about non-English terms.
 We have had a discussion in the ongoing pull requests and would like to make a final check before merging them.
@@ -47,7 +47,7 @@ We have had a discussion in the ongoing pull requests and would like to make a f
 * [Issue #223: Add nuance on where non-English is acceptable](https://github.com/publiccodenet/standard/pull/527)
 * [Issue #308: Clarify intersection of policy-defined vocabulary and Use Plain English](https://github.com/publiccodenet/standard/pull/528)
 
-### Notes of non-english
+### Notes of non-English
 
 We agreed that it would be good to better define what `plain English` means in the Standard for Public Code.
 We agreed to:
