@@ -26,7 +26,7 @@ categories:
 
 This meeting was a really hands-on session where we collectively worked on the goals for the first quarter of 2022.
 We started out with a table with the "one year ambition" that we have set in our [roadmap](https://about.publiccode.net/organization/roadmap.html) in one column of a table and added ideas for shorter term goals in the next column.
-The table contained some seeds of ideas from a previous meeting when we started. 
+The table contained some seeds of ideas from a previous meeting when we started.
 
 The session led us to [these draft goals](https://hackmd.io/xPaKBAx_SSeiJt2G4Dfzxw).
 The collection of these ideas for goals will feed into a workshop in early January where the goals will be set.

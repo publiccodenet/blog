@@ -3,7 +3,7 @@ title: "Notes from the Foundation for Public Code community call - 17 February 2
 date: 2022-02-21
 author: Jan Ainali
 type: blogpost
-excerpt: Making policies for persistent and user friendly websites 
+excerpt: Making policies for persistent and user friendly websites
 categories:
   - Community call
 ---
@@ -27,7 +27,7 @@ We now [have a suggestion](https://github.com/publiccodenet/about/pull/1115) for
 We started the discussion with deletions and were in general agreement on the principle.
 We noted that in most cases it would probably be useful to add a link to the commit that deleted the content, to give the reader immediate access to the reason why it was deleted and the file history.
 
-### Redirects 
+### Redirects
 
 We agreed that we want to redirect consistently, and also want to make it as easy as possible for the staff that will have to do it.
 

@@ -13,9 +13,10 @@ categories:
 For transparency, we’re sharing the notes from this community call even though there were no external attendees at the call.
 
 Foundation attendees were:
-- Eric
-- Boris
-- Elena
+
+* Eric
+* Boris
+* Elena
 
 Inspired by [issue 200](https://github.com/publiccodenet/standard/issues/200), we talked about the fact that some of the points in the [Standard for Public Code](https://standard.publiccode.net) were inspired by existing best practice.
 

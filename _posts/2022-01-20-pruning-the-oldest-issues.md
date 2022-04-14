@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session](https://blog.publiccode.net/community%20call/2021/11/15/pruning-the-oldest-issues.html) and immediately followed up on the one needed action. 
+We started by reviewing [the notes from the last session](https://blog.publiccode.net/community%20call/2021/11/15/pruning-the-oldest-issues.html) and immediately followed up on the one needed action.
 
 * [Recommend responding to issues and pull requests in a timely manner #221](https://github.com/publiccodenet/standard/issues/221) - nothing new added, closed.
 * [Add nuance on where non-English is acceptable #223](https://github.com/publiccodenet/standard/issues/223) stays open, work session planned for January 17.

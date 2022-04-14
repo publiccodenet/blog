@@ -10,7 +10,7 @@ on:
 #             │ │ │ │ │
 #             │ │ │ │ │
 #             * * * * *
-    - cron:  '7 1 * * *' # every day at 01:07 (UTC?)
+    - cron: '23 5 * * *' # every day at 05:23 UTC
 
 defaults:
   run:

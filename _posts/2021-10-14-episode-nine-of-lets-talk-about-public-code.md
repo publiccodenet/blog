@@ -14,7 +14,7 @@ In the ninth episode of Let's talk about public code, we talked to Bastien Guerr
 We discussed why and how Etalab, as a state agency, engages with the French open source ecosystem.
 
 Etalab is a department of the direction interministérielle du numérique (DINUM), which coordinates the design and implementation of the State's strategy in the data domain.
-Read more at: https://www.etalab.gouv.fr/
+Read more at: [etalab.gouv.fr](https://www.etalab.gouv.fr/)
 
 You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/9-bastien-guerry-etalab/) or by searching in your favorite podcast app.
 
@@ -24,10 +24,10 @@ You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.
 
 The video is available in a number of places:
 
-- [Youtube](https://www.youtube.com/watch?v=B_q3li5l5zI)
-- [Twitter](https://twitter.com/i/broadcasts/1zqJVBmbzPZJB)
-- [Facebook](https://www.facebook.com/publiccodenet/videos/566225837927557/)
-- [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:6853582973883699200/)
+* [Youtube](https://www.youtube.com/watch?v=B_q3li5l5zI)
+* [Twitter](https://twitter.com/i/broadcasts/1zqJVBmbzPZJB)
+* [Facebook](https://www.facebook.com/publiccodenet/videos/566225837927557/)
+* [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:6853582973883699200/)
 
 ## What's next?
 
