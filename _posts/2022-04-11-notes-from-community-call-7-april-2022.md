@@ -20,7 +20,7 @@ categories:
 ## Updates from the Foundation
 
 * [Version 0.2.3 of Standard for Public Code is released](https://github.com/publiccodenet/standard/releases/tag/0.2.3)
-* We will be [improving Community translations at FOSS North, April 21](https://foss-north.se/2022/communityday.html)
+* We will be [improving community translations at FOSS North, April 21](https://foss-north.se/2022/communityday.html)
 
 ## Requirements or guidelines for software architecture and modularity of the codebase
 
