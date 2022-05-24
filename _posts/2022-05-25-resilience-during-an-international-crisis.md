@@ -89,7 +89,8 @@ Strong propaganda and misinformation might drive civilians to hack other countri
 Another concern is public organisations in vendor lock-ins where a single malware attack could close down the services from this particular vendor.
 It would cause public services to close down.
 
-Open source plays an important role as an alternative to this.With regard to cyber fire drills, I am not a technician and might not be the right person to ask.
+Open source plays an important role as an alternative to this.
+With regard to cyber fire drills, I am not a technician and might not be the right person to ask.
 
 **Eric:**
 
