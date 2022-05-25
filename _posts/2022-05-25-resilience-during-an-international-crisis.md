@@ -120,3 +120,4 @@ We all understand that a flimsy bridge is not cheaper in the long run, and it pa
 
 **This document is openly sourced and you are welcome to contribute to the conversation at [this link](https://hackmd.io/@OGenJ3Z2QMSntdXk1ayvuA/PublicCodeandCrisis/edit).**
 
+*Note: the images in this blog post are not freely licensed, all rights are reserved.*
