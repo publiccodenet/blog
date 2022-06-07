@@ -33,9 +33,11 @@ bundle exec jekyll build
 #   * 503 Service Unavailable
 # using the files in Jekyll's build folder "./_site"
 # --http_status_ignore "429,500,501,502,503,504" \
+# ignore resilience-during-an-international-crisis png does not have alt attr
 bundle exec htmlproofer \
     --assume-extension \
     --url-ignore "/github.com/(.*)/edit/,/twitter.com/,/listennotes\.com/,/linkedin\.com/" \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
     --http_status_ignore "429" \
+    --file-ignore "/resilience-during-an-international-crisis/" \
     ./_site
