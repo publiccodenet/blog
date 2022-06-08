@@ -25,7 +25,7 @@ categories:
 
 ## Notes
 
-We started of by revisiting [issue 264](https://github.com/publiccodenet/standard/issues/264) from 2019, which started with a question about discoverability.
+We started by revisiting [issue 264](https://github.com/publiccodenet/standard/issues/264) from 2019, which started with a question about discoverability.
 There was agreement that this aspect is essential, but that it extends to more than just the name.
 When someone is searching online, they are most likely not using the product name (unless they just came back from a conference or similar where they heard about the codebase). Instead, they're probably describing the problem they're trying to solve or the problem space.
 This may be expressed differently depending on the role of the person searching.
