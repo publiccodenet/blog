@@ -39,7 +39,7 @@ Many other aspects were discussed, like contact persons, use of metadata standar
 Most of these could be MAY requirements, though we didn't have sharp suggestions of phrasing during the call, whereas others should probably not be requirements at all.
 For example, we think that social media may be a suboptimal strategy for communication for a public code codebase.
 
-The similarities to the development of open data was also noted
+The similarities to the development of open data were also noted.
 It has been shown that only creating good metadata was not enough.
 For it to really be reused, more proactivity is needed and we should be inspired by the open data movement's experiences.
 
