@@ -3,7 +3,7 @@ title: "Notes from the Standard for Public Code community call - 2 June 2022"
 date: 2022-06-08
 author: Jan Ainali
 type: blogpost
-excerpt: Only good metadata is not enough for people to find a codebase, more efforts are needed
+excerpt: Good metadata is not enough for people to find a codebase, more efforts are needed
 categories:
   - Community call
 ---
