@@ -36,12 +36,12 @@ Beyond that, it was unclear if any further MUSTs or SHOULDs are needed.
 MAY requirements could be more encouraging than just guidance since that would give civil servants more justification to do it and also a reward in terms of an additional ticked box.
 
 Many other aspects were discussed, like contact persons, use of metadata standards, software catalogs, social media and domain names.
-Most of these could be MAY requirements, even though we didn't have sharp suggestions of phrasing during the call, whereas others probably not should be requirements at all.
+Most of these could be MAY requirements, though we didn't have sharp suggestions of phrasing during the call, whereas others should probably not be requirements at all.
 For example, we think that social media may be a suboptimal strategy for communication for a public code codebase.
 
 The similarities to the development of open data was also noted
 It has been shown that only creating good metadata was not enough.
-For it to really be reused, more proactivity is needed and we should be inspired by from the experiences in that movement.
+For it to really be reused, more proactivity is needed and we should be inspired by the open data movement's experiences.
 
 Taking all this together, there seems to be a need for a new criterion for marketing, which would also make it easier to write guidance for the requirements compared to slotting these into the existing criteria.
 Having detailed guidance for the different roles (policymakers, managers, developers and designers) was deemed to be essential for success.
