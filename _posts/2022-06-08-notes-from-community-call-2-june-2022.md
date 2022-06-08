@@ -21,7 +21,7 @@ categories:
 ## Updates from the Foundation
 
 * [Version 0.3.0 of Standard for Public Code is released](https://github.com/publiccodenet/standard/releases/tag/0.3.0)
-* We are presenting at the [OW2con](https://www.ow2con.org/view/2022/Abstract_Community_Day#08061125) on Wednesday next week
+* We are presenting at [OW2con](https://www.ow2con.org/view/2022/Abstract_Community_Day#08061125) on Wednesday next week
 
 ## Notes
 
