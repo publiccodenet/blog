@@ -1,42 +1,44 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# Lint markdown using the Markdownlint gem with the default ruleset except for:
-# MD007 Unordered list indentation: we allow sub-lists to also have bullets
-# MD013 Line length: we allow long lines
-# MD029 Ordered list item prefix: we allow lists to be sequentially numbered
-#
-# Additionally, we have these violations which should be resolved:
-# MD026 Trailing punctuation in header
-# MD032 Lists should be surrounded by blank lines
-# MD033 Inline HTML
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD033 -i -g '.'
+# jekyll build defaults to "origin" unless PAGES_REPO_NWO is set
+# if there is no "origin" branch and PAGES_REPO_NWO is not set
+# then default to publiccodenet/blog
+if [ "_$(git remote | grep origin)_" != "_origin_" ] &&
+   [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+export PAGES_REPO_NWO=publiccodenet/blog
+fi
 
 # Build the site
 bundle exec jekyll build
 
+# bundle exec htmlproofer --help | grep url-ignore
+#  --url-ignore link1,[link2,...]  A comma-separated list of
+#    Strings or RegExps containing URLs that are safe to ignore.
+# * github.com/foo/edit/ : may reference yet-to-exist pages
+# * docs.github.com/en : blocked by github DDoS protection
+# * plausible.io/js/plausible.js : does not serve to scripts
+# * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
+# * twitter.com : does not server scripts
+# * linkedin.com : requires login
+URL_IGNORE_REGEXES="\
+/github\.com\/.*\/edit\//\
+,/docs\.github\.com\/en\//\
+,/plausible\.io\/js\/plausible\.js/\
+,/lists\.publiccode\.net\/mailman/\
+,/twitter\.com/\
+,/linkedin\.com/\
+"
+
 # Check for broken links and missing alt tags:
-# --assume-extension: jekyll does not require extentions like HTML
-# --url-ignore:
-# * edit links to GitHub as they might not exist yet
-# * twitter.com - HTTP 200, but content "doesn't exist"
-# * listennotes.com - HTTP 403
-# * linkedin.com - HTTP 999, (really!) gives login page
-# --typhoeus-config:
+# jekyll does not require extentions like HTML
+# ignoring problem urls (see above)
 # set an extra long timout for test-servers with poor connectivity
-# skip ssl certificate checking
-# --http_status_ignore
-# * request rate limit errors (HTTP 429)
-#   * 429 Too Many Requests
-# * server errors (HTTP 5xx)
-#   * 500 Internal Server Error
-#   * 503 Service Unavailable
-# using the files in Jekyll's build folder "./_site"
-# --http_status_ignore "429,500,501,502,503,504" \
-# ignore resilience-during-an-international-crisis png does not have alt attr
+# ignore request rate limit errors (HTTP 429)
+# using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
-    --url-ignore "/github.com/(.*)/edit/,/twitter.com/,/listennotes\.com/,/linkedin\.com/" \
+    --url-ignore $URL_IGNORE_REGEXES \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
     --http_status_ignore "429" \
     --file-ignore "/resilience-during-an-international-crisis/" \
