@@ -43,7 +43,7 @@ We also reviewed what we had liked most about our 2019 open house:
 
 * it was an interactive exploration of public code and the Foundation for Public Code (not just presentations, like the [FOSDEM public code devroom](https://fosdem.org/2022/schedule/track/public_code/))
 * participants found it valuable to meet and work with each other, not just Foundation for Public Code staff
-* it was intimate: it had 2 tracks including workshops, meaning a total size of ≈ 20 people (10 per track, since workshops of more than 10 people become unwieldy)
+* it was intimate: it had 2 tracks including workshops, meaning a total size of ≈20 people (10 per track, since workshops of more than 10 people become unwieldy)
 
 We thought it would be very achievable to plan another event of about this size, or up to ≈30 people with the right hosts for a 3rd track.
 
