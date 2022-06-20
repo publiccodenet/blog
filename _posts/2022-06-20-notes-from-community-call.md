@@ -1,6 +1,6 @@
 ---
 title: "Notes from the Foundation for Public Code community call - 16 June 2022"
-date: 2022-06-08
+date: 2022-16-08
 author: Elena Findley-de Regt
 type: blogpost
 excerpt: Let's have an event focused on codebase community collaboration skills
