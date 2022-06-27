@@ -18,6 +18,9 @@ Audrey says:
 >
 > Taiwan’s experiences in rolling out public code and co-creating digital services warrant sharing worldwide; collaboration strengthens democracies and makes us greater than the sum of our parts."
 
+![Audrey looking into the camera wearing a coat in front of a building.]({{site.url}}/assets/audrey.jpg)
+[Image](https://www.flickr.com/photos/audreyt/51786957606/in/album-72177720295602011/) licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) by 溫浚富
+
 We define ‘public code’ as open source software developed by public organizations, together with the policy and guidance needed for reuse. The Foundation for Public Code works with public organizations to grow collaborative open source software communities that are democratically accountable.
 
 Thank you, Audrey!
