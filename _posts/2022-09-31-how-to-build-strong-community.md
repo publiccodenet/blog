@@ -10,7 +10,7 @@ categories:
 
 # How to build a strong community for developing robust and valuable software
 
-![People sitting in armchairs around a coffee table writing on cards](../assets/Storytelling Workshop Public Code_Amsterdam.jpg)
+![People sitting in armchairs around a coffee table writing on cards]({{site.url}}/assets/Storytelling Workshop Public Code_Amsterdam.jpg)
 
  *Participants at the Foundation for Public Code Storytelling workshop in Amsterdam*
 
@@ -122,7 +122,7 @@ Imagine we start small, are all friends, and know how to help each other get whe
 
 ----------------------------------------------------------------------------------------------------
 
-![Leslie Hawthorn](../assets/leslie-hawthorn.jpg)
+![Leslie Hawthorn]({{site.url}}/assets/leslie-hawthorn.jpg)
 
 _As an internationally known Developer Relations strategist and Community Management expert, Leslie has spent the past decade creating, cultivating, and enabling open source communities. She’s best known for creating Google Code-in, the world’s first global initiative to involve pre-university students in open source software development, and receiving an O’Reilly Open Source Award in 2010 for her work to grow the Google Summer of Code program and her contributions to Humanitarian open source projects. She is currently a Senior Principal Program Manager at Red Hat, focusing on the CentOS project in the Open Source and Standards Department._
 
