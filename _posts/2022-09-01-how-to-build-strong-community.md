@@ -1,6 +1,6 @@
 ---
 title: "How to build a strong community for developing robust and valuable software"
-date: 2022-07-14
+date: 2022-09-01
 author: Kehinde Bademosi
 type: blogpost
 excerpt: Public Code Promising Practices in conversation with Leslie Hawthorn from Red Hat
@@ -11,8 +11,7 @@ categories:
 # How to build a strong community for developing robust and valuable software
 
 ![People sitting in armchairs around a coffee table writing on cards]({{site.url}}/assets/Storytelling Workshop Public Code_Amsterdam.jpg)
-
- *Participants at the Foundation for Public Code Storytelling workshop in Amsterdam*
+*Participants at the Foundation for Public Code Storytelling workshop in Amsterdam*
 
 ## Public Code Promising Practices in conversation with Leslie Hawthorn from Red Hat
 
