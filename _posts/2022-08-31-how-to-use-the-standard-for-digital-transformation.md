@@ -1,4 +1,3 @@
-
 ---
 title: "How to Use the Standard for Public Code for Your Digital Transformation Agenda"
 date: 2022-08-31
@@ -11,11 +10,15 @@ categories:
 
 ---
 
-# How to Use the Standard for Public Code for Your Digital Transformation Agenda
+# How to use the Standard for Public Code for your digital transformation agenda
+
+> This piece was [first published on LinkedIn](https://www.linkedin.com/pulse/how-use-standard-public-code-your-digital-transformation-/?trackingId=V2Nn96A6TMKD1re7aA7mBg%3D%3D) on 22 August 2022.
+
+![Photo of a box of paper Standards for Public Code, close up of icons for different readers' sections](../assets/standard-in-boxes.png)
 
 ## So, what is the Standard for Public Code?
 
-If you're working on open source, public-purpose software, there are minimum functional requirements for your codebase and how others can contribute. The Standard for Public Code provides the minimum requirements to help your codebase succeed.
+If you're working on open source, public-purpose software, there are minimum functional requirements for your codebase and how others can contribute. The [Standard for Public Code](https://standard.publiccode.net/) provides the minimum requirements to help your codebase succeed.
 
 ## And what is public-purpose software?
 
@@ -61,7 +64,7 @@ All criteria in the Standard for Public Code have a set of requirements. And tho
 2. Shoulds
 3. Optional
 
-!["It's hard to imagine the world without Public Code because the world is becoming more digitalized. Public policies are now being executed by machines and software."​ - Jan Ainali](https://media-exp1.licdn.com/dms/image/D4E12AQHv59gcpH4pBg/article-inline_image-shrink_1000_1488/0/1658222829771?e=1667433600&v=beta&t=P0IOaXoeU9D2JxtHyiDLK4s6KVvaRFoIbWEpW8PyJO4)
+!["It's hard to imagine the world without Public Code because the world is becoming more digitalized. Public policies are now being executed by machines and software."​ - Jan Ainali](../assets/hard-to-imagine-the-world-wo-public-code_jan-05.png)
 
 The musts are things that you really must do. They are the base requirements.
 
@@ -93,3 +96,5 @@ We would love your contributions.
 See how to contribute in the link below.
 
   <https://youtu.be/QWt6vB-cipE>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWt6vB-cipE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
