@@ -28,7 +28,7 @@ This call was a questions and answers session, prompted by the upcoming [version
 Q: Do you have a list of every codebase that uses the standard?
 A: No, but it is an interesting idea. We know that the codebases we steward use it. In [Signalen](https://publiccode.net/codebases/signalen.html) and [Openzaak](https://publiccode.net/codebases/openzaak.html) there are Dutch municipalities using it (7 and counting for Signalen, more than 10 through Dimpact for OpenZaak). One Dutch province is using it through [Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html). There are more codebases referring to it if one searches GitHub for "Standard for Public Code". While a field in publiccode.yml has been [discussed](https://github.com/publiccodeyml/publiccode.yml/discussions/136), no formal proposal has been made yet.
 
-Q: What do you think about platform dependencies (like GitHub actions) or unit tests requiring fake data?
+Q: What do you think about platform dependencies (like GitHub Actions) or unit tests requiring fake data?
 A: That is very important to consider in order to ensure collaboration. In general, the standard should cover it through the requirements, and [some extra guidance was added](https://github.com/publiccodenet/standard/commit/a02bfc0bee9b79484164edb6ffef9e7fa3c6543d) in 0.2.3.
 
 Q: When is the last chance to comment on the upcoming release?
