@@ -25,7 +25,7 @@ categories:
 
 This call was a questions and answers session, prompted by the upcoming [version 0.4.0 release](https://github.com/publiccodenet/standard/issues/682), but all questions were welcome.
 
-Q: Do you have a list of every codebase that uses the standard?
+Q: Do you have a list of every codebase that uses the Standard?
 A: No, but it is an interesting idea. We know that the codebases we steward use it. In [Signalen](https://publiccode.net/codebases/signalen.html) and [Openzaak](https://publiccode.net/codebases/openzaak.html) there are Dutch municipalities using it (7 and counting for Signalen, more than 10 through Dimpact for OpenZaak). One Dutch province is using it through [Omgevingsbeleid](https://publiccode.net/codebases/omgevingsbeleid.html). There are more codebases referring to it if one searches GitHub for "Standard for Public Code". While a field in publiccode.yml has been [discussed](https://github.com/publiccodeyml/publiccode.yml/discussions/136), no formal proposal has been made yet.
 
 Q: What do you think about platform dependencies (like GitHub Actions) or unit tests requiring fake data?
