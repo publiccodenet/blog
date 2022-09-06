@@ -3,7 +3,7 @@ title: "Launching a community built implementation guide for the Standard for Pu
 date: 2022-09-13
 author: Jan Ainali
 type: blogpost
-excerpt: Helping you on your way to fully adapting the Standard for Public Code for your codebase.
+excerpt: Helping you on your way to fully adopting the Standard for Public Code for your codebase.
 categories:
 - News
 ---
