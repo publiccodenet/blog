@@ -12,10 +12,10 @@ categories:
 
 ## Background
 
-Almost since the beginning of the Standard for Public Code, we have had discussions about how we can make it easier for people to start applying it to their codebase.
+Almost since the beginning of the [Standard for Public Code](https://standard.publiccode.net/), we have had discussions about how we can make it easier for people to start applying it to their codebase.
 We thought about adding more examples to the standard and talked about links to different implementations.
 It has been discussed in several of our community calls, where a wish for this has been expressed clearly.
-So, we have known for some time that we should address this need, but were not sure what the best solution would be.
+So we have known for some time that we should address this need, but were not sure what the best solution would be.
 
 We felt adding examples and other stories to the Standard for Public Code could be a distraction from the requirements and risk reducing the creativity in how they can be met.
 
