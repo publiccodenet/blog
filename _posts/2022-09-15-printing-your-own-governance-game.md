@@ -1,6 +1,6 @@
 ---
 title:  "Printing your own Governance Game"
-date: 2022-09-08
+date: 2022-09-15
 author: Jan Ainali
 type: blogpost
 category: news
