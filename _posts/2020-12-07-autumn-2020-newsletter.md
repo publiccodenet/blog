@@ -29,7 +29,7 @@ The stewards team spent this autumn on community, tooling and governance support
 
 We helped the Signalen community to collaborate better by setting up a mailing list for them in September. They're now using it to get a shared backlog online, so they're ready to start quarterly roadmaps in 2021.
 
-The [Signalen product website](https://signalen.org/en/) is now also available in English.
+The [Signalen product website](https://web.archive.org/web/20210120093134/https://signalen.org/en/) is now also available in English.
 
 In November, the Signalen community updated the [Standard for Public Code](https://standard.publiccode.net/) gap analysis included in their codebase community. [See the new version.](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md)
 
