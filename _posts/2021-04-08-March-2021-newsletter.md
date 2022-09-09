@@ -25,7 +25,7 @@ The codebase stewards also met with 4 new codebases to explore potential future 
 
 ### Signalen
 
-[Signalen hosted their 2nd community day](https://signalen.org/news/2021-03-29-verslag-community-meetup/) on 22 March, attracting over 55 potential replicators and vendors.
+[Signalen hosted their 2nd community day](https://web.archive.org/web/20210920163404/https://signalen.org/news/2021-03-29-verslag-community-meetup/) on 22 March, attracting over 55 potential replicators and vendors.
 
 There's increasing international interest in Signalen - Ghent (Belgium) joined the community day, and Helsingborg (Sweden) is testing a demo version.
 
