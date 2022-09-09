@@ -21,7 +21,7 @@ categories:
 
 * [Version 0.2.1 of the Standard for Public Code has been released](https://github.com/publiccodenet/standard/releases/tag/0.2.1)
 * [Signalen has been replicated by 's-Hertogenbosch](https://commonground.nl/news/view/418b95d8-b3e3-4bd0-9ece-48984a472b93/gemeente-s-hertogenbosch-live-met-signalen) ([live site](https://meldingen.s-hertogenbosch.nl/incident/beschrijf))
-* [Signalen had a community day](https://signalen.org/en/news/2021-03-29-notes-community-meetup/)
+* [Signalen had a community day](https://web.archive.org/web/20211020122500/https://signalen.org/en/news/2021-03-29-notes-community-meetup/)
 
 ## Notes
 

@@ -12,7 +12,7 @@ categories:
 
 ![Signalen logo]({{site.url}}/assets/signalen_logo.png)
 
-We are delighted to announce that the [Signalen codebase](https://signalen.org/en/) is now in incubation with the [Foundation for Public Code](https://publiccode.net).
+We are delighted to announce that the [Signalen codebase](https://web.archive.org/web/20210120093134/https://signalen.org/en/) is now in incubation with the [Foundation for Public Code](https://publiccode.net).
 
 During [incubation](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html), a codebase community works to make the codebase fully [Standard for Public Code](https://standard.publiccode.net/) compliant (with our support).
 

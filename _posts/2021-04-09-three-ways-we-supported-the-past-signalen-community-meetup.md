@@ -42,4 +42,4 @@ Once someone decides an event is taking place, the immediate following step must
 
 After the event finished, it is time for the follow up actions coordination, a task we're currently supporting.
 
-[We also published all public notes from the meet up](https://signalen.org/en/news/2021-03-29-notes-community-meetup/).
+[We also published all public notes from the meet up](https://web.archive.org/web/20211020122500/https://signalen.org/en/news/2021-03-29-notes-community-meetup/).
