@@ -19,7 +19,7 @@ Hi and welcome to the May 2021 Foundation for Public Code newsletter.
 We're all quite excited about these:
 
 - We've started supporting [Demodam](https://www.meetup.com/Code-For-NL/events/278257660/), a website for a fictional municipality to showcase reusable digital services and components, developed by the [Dutch municipal open source community Common Ground](https://commonground.nl/) - keep an eye out for more Demodam developments!
-- In our [5th Let's Talk About Public Code podcast episode](https://podcast.publiccode.net/), we spoke with Amy van Someren from the municipality 's-Hertogenbosch. We discussed their positive experience as the first reusers of the [Signalen codebase](https://web.archive.org/web/20210120093134/https://signalen.org/en/).
+- In our [5th Let's Talk About Public Code podcast episode](https://podcast.publiccode.net/), we spoke with Amy van Someren from the municipality 's-Hertogenbosch. We discussed their positive experience as the first reusers of the [Signalen codebase](https://signalen.org/).
 - [We're recruiting a storyteller/communications editor](https://publiccode.net/careers/communications-editor.html), to help us better explain why public code matters to a wider range of people. Please share with your networks!
 
 ## Upcoming events
