@@ -20,6 +20,9 @@ exclude:
 # Use the Foundation For Public Code Jekyll theme
 remote_theme: publiccodenet/jekyll-theme
 
+# Enable a feed link for the blog
+feed_link: true
+
 defaults:
   -
     scope:
