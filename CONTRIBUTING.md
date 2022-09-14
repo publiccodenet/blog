@@ -31,6 +31,12 @@ Please state your desired publication date both in the front matter as well as i
 This makes it easier for us to prioritize reviews and ensure it fits into our overall publishing schedule.
 Unless you have communicated with us specifically about the blog post, also note that if your publishing date is in the very near future (in the next two days) we might not be able to accommodate your suggestion due to other assignments.
 
+### Merging
+
+Staff from the Foundation for Public Code will merge your pull request after it has been properly reviewed.
+Note to staff: if the blog post has a date for publishing in the future, the site will need to be rebuilt that day to make it visible.
+This can be done by entering the Actions tab on Github, clicking on the latest deploy to see the details and then clicking the "Re-run all jobs".
+
 ## License
 
 We aim to publish as freely as possible, and that unless stated otherwise, your text will be [licensed CC 0](LICENSE.md).
