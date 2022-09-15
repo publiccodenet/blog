@@ -14,7 +14,7 @@ categories:
 
 > This piece was [first published on LinkedIn](https://www.linkedin.com/pulse/how-use-standard-public-code-your-digital-transformation-/?trackingId=V2Nn96A6TMKD1re7aA7mBg%3D%3D) on 22 August 2022.
 
-![Photo of a box of paper Standards for Public Code, close up of icons for different readers' sections](../assets/standard-in-boxes.png)
+![Photo of a box of paper Standards for Public Code, close up of icons for different readers' sections]({{site.url}}/assets/standard-in-boxes.png)
 
 ## So, what is the Standard for Public Code?
 
@@ -64,7 +64,7 @@ All criteria in the Standard for Public Code have a set of requirements. And tho
 2. Shoulds
 3. Optional
 
-!["It's hard to imagine the world without Public Code because the world is becoming more digitalized. Public policies are now being executed by machines and software."​ - Jan Ainali](../assets/hard-to-imagine-the-world-wo-public-code_jan-05.png)
+!["It's hard to imagine the world without Public Code because the world is becoming more digitalized. Public policies are now being executed by machines and software."​ - Jan Ainali]({{site.url}}/assets/hard-to-imagine-the-world-wo-public-code_jan-05.png)
 
 The musts are things that you really must do. They are the base requirements.
 
