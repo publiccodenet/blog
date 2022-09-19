@@ -46,7 +46,7 @@ Stewards held workshops with two development teams on how to apply the Standard 
 The codebase stewards are also exploring new opportunities:
 
 - meeting with 3 new codebase communities
-- developing an online [training course on how to use the Standard for Public Code](https://github.com/publiccodenet/about/issues/792) for [distribution by OASC](https://web.archive.org/web/20201130114807/https://oasc.learnworlds.com/)
+- developing an online [training course on how to use the Standard for Public Code](https://github.com/publiccodenet/about/issues/792) for [distribution by OASC](https://web.archive.org/web/20220331054335/https://citybycity.academy/)
 
 ### Members
 
