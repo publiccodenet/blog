@@ -94,4 +94,4 @@ You can also [see all our talks and articles](https://projects.publiccode.net/ta
 - [10 Lessons from the Trenches of Digital Government](https://medium.com/@paulbellows/10-lessons-on-digital-government-f8dae9883a5a) by Paul Bellows
 - [Increasing awareness of vendor lock-in in public organizations](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/increasing-awareness-lock-public-sector-organisations) by Astor Nummelin Carlberg
 - [InnerSource patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) by the InnerSource Commons
-- [The New Normal](https://strelkamag.com/en/article/strelka-institute-unveils-the-new-normal-book) - Ben contributed an essay to this book!
+- [The New Normal](https://web.archive.org/web/20220412145653/https://strelkamag.com/en/article/strelka-institute-unveils-the-new-normal-book) - Ben contributed an essay to this book!
