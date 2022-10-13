@@ -1,9 +1,9 @@
 ---
-title: "Episode thirteen of Let's talk about public code! - Ricarrdo Iaconelli"
+title: "Episode thirteen of Let's talk about public code! - Riccardo Iaconelli"
 date: 2022-10-13
 author: Jan Ainali
 type: blogpost
-excerpt: The newest episode of our podcast is available
+excerpt: We talked about publiccode.yml in the newest episode of our podcast
 categories:
   - news
 ---
