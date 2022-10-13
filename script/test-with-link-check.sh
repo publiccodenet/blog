@@ -19,8 +19,11 @@ bundle exec jekyll build
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
-# * twitter.com : does not server scripts
+# * twitter.com : does not serve scripts
 # * linkedin.com : requires login
+# * opensource.org : gives 503 No error when run as GitHub workflow
+# * www.un.org : gives 403 No error when run as GitHub workflow
+#
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
@@ -28,6 +31,8 @@ URL_IGNORE_REGEXES="\
 ,/lists\.publiccode\.net\/mailman/\
 ,/twitter\.com/\
 ,/linkedin\.com/\
+,/opensource\.org/\
+,/www\.un\.org\/en\/content\
 "
 
 # Check for broken links and missing alt tags:
