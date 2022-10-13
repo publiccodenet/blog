@@ -27,7 +27,7 @@ You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.
 
 The video is available in a number of places:
 
-* [Youtube](https://www.youtube.com/watch?v=VSgCnsRGvhs)
+* [YouTube](https://www.youtube.com/watch?v=VSgCnsRGvhs)
 * [Twitter](https://twitter.com/i/broadcasts/1ynJOavrrqnKR)
 * [Facebook](https://www.facebook.com/publiccodenet/videos/1261290037990182)
 * [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:6983050807352950785/)
