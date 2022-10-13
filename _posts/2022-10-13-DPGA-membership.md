@@ -22,7 +22,7 @@ The Foundation for Public Code's work aligns with that of the DPGA in the follow
 * we're ready to provide codebase stewardship for DPG codebases. Expert codebase stewardship strengthens codebase communities, increasing sustainability and trust.
 
 "Promoting digital public goods to create a more equitable world." - Tagline of the DPGA
-  
+
 Being a member of the DPGA allows us to act on our commitment to the SDGs. Together with peer organizations who share our values, our expertise will have the most global impact on the DPGA.
 
 As a non-partisan organization responsible for a technical standard, we don't set any ethical requirements. But we also believe strongly that public purpose codebases must have clear ethics to succeed.
