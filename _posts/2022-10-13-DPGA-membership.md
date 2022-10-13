@@ -10,7 +10,7 @@ categories:
 
 # We've joined the Digital Public Goods Alliance
 
-![DPGA logo](../assets/DPGA.png)
+![DPGA logo]({{site.url}}/assets/DPGA.png)
 
 The Foundation for Public Code is proud to have joined the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) (DPGA) as a new member. The DPGA is a multi-stakeholder initiative with a mission to accelerate the attainment of the [Sustainable Development Goals](https://sdgs.un.org/goals) in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
 
