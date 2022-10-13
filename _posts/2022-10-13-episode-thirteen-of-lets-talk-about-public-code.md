@@ -11,13 +11,13 @@ categories:
 # Episode thirteen of Let's talk about public code!
 
 In this thirteenth episode we talked to Riccardo Iaconelli, working on the publiccode.yml metadata specification.
-This episode focuses on how it has enabled discoverability of public code codebases and the development of an open source specification.
+This episode focuses on how publiccode.yml enables discoverability of public code codebases, and the development of an open source specification.
 
 Links mentioned in the show:
 
 * [publiccodeyml GitHub organization](https://github.com/publiccodeyml)
 * [publiccode.yml Standard](https://yml.publiccode.tools/)
-* [Web editor](https://publiccode-editor.developers.italia.it/)
+* [web editor](https://publiccode-editor.developers.italia.it/)
 
 You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/13-riccardo-iaconelli/) or by searching in your favorite podcast app.
 
