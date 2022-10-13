@@ -16,7 +16,7 @@ The Foundation for Public Code is proud to have joined the [Digital Public Goods
 
 We're thrilled to be participating in this mission and believe that our work to enable open and collaborative public-purpose software for public organizations can play a critical role in helping to achieve the DPGA’s mission and advance the DPG ecosystem overall.
 
-The Foundation for Public Code’s work aligns with that of the DPGA in the following ways, which are included as part of the [DPGA’s Annual Roadmap(https://digitalpublicgoods.net/roadmap/):
+The Foundation for Public Code’s work aligns with that of the DPGA in the following ways, which are included as part of the [DPGA’s Annual Roadmap](https://digitalpublicgoods.net/roadmap/):
 
 * we steward the Standard for Public Code, which is [also a Digital Public Good](https://blog.publiccode.net/news/2021/07/28/digital-public-goods.html). Early standard compliance helps important projects scale and achieve results sooner.
 * we're ready to provide codebase stewardship for DPG codebases. Expert codebase stewardship strengthens codebase communities, increasing sustainability and trust.
