@@ -23,7 +23,7 @@ The Foundation for Public Code’s work aligns with that of the DPGA in the foll
 
 > “Promoting digital public goods to create a more equitable world.” - Tagline of the DPGA
 
-Being a DPGA members lets us act on [our own commitment to the SDGs](https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html) where our expertise will have the most global impact, together with peer organizations who share our values.
+Being a DPGA member lets us act on [our own commitment to the SDGs](https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html) where our expertise will have the most global impact, together with peer organizations who share our values.
 
 As a [non-partisan organization](https://about.publiccode.net/organization/mission.html) responsible for a technical standard, we don't set any ethical requirements. But we also believe strongly that public purpose codebases must have clear ethics to succeed.
 
