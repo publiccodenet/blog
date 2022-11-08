@@ -20,11 +20,11 @@ categories:
 ## Updates from the Foundation
 
 * We were at the [GovTechSummit](https://www.govtechsummit.eu/) last week, the first time since the pandemic we participated at a conference with a booth
-* The Beeck Center has been using the Governance game with joy and excitement
+* The Beeck Center has been [using the Governance game with joy and excitement](https://twitter.com/aaronsnow/status/1587870485144035328)
 
 ## Notes
 
-Eric gave the background to why we have a [new proposal](https://github.com/publiccodenet/standard/pull/729), in summary, that our labels does not perfectly line up with industry consensus.
+Eric gave the background to why we have a [new proposal](https://github.com/publiccodenet/standard/pull/729). In summary, our labels do not perfectly line up with industry consensus.
 We have also not found an authority to refer to, so instead we are inspired by the Wikipedia article on the [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle).
 
 We discussed the pre-alpha phase and concluded that we should add a note that it is rarely used at all.
@@ -32,7 +32,7 @@ We discussed the pre-alpha phase and concluded that we should add a note that it
 The wording in the proposal about formal approval, used on the release candidate, was discussed as it is ambiguous, inviting thinking that approval status could be different per organization or implementation.
 This needs to be clarified, as it is the approval from the maintainers of a release version that is referred to.
 
-It became clear in the discussion that while there might a risk that someone reads these and, knowledgeable about service design, comes to us and say "Have you heard about..?" these occasions are probably far enough apart that we don't need to add an extra acknowledgement that we have considered them already.
+It became clear in the discussion that while there might a risk that someone reads these and, knowledgeable about service design, comes to us and says, "Have you heard about..?" these occasions are probably far enough apart that we don't need to add an extra acknowledgement that we have considered them already.
 
 Also, we remembered that we have a further reading link to a video from the UK GDS.
 With this change, our labels would not match that video perfectly.
