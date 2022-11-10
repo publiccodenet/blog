@@ -44,7 +44,7 @@ As we only have a half day for the entire track, you'll have a better chance of 
 ## Important dates
 
 * 5 December 2022: deadline for submission of proposals
-* December 15th 2022 or before: announcement of final schedule
+* 15 December 2022 or before: announcement of final schedule
 * 5 February 2023: devroom day - You must be available in person to present your talk
 
 ## Recordings
