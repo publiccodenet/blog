@@ -3,32 +3,32 @@ title: "FOSDEM 2022 Public Code and Digital Public Goods devroom Call for Partic
 date: 2022-11-10
 author: Jan Ainali
 type: blogpost
-excerpt: We are co-organizing a track at FOSDEM and we want you to talk there
+excerpt: Come talk at our FOSDEM track!
 categories:
   - News
 ---
 
 # FOSDEM 2023 Public Code and Digital Public Goods devroom Call for Participation
 
-We are happy to announce that the call for participation in the [FOSDEM 2023](https://fosdem.org/2023/) devroom for Public Code and Digital Public Goods has opened.
+We are happy to announce that the call for participation in the [FOSDEM 2023](https://fosdem.org/2023/) devroom for Public Code and [Digital Public Goods](https://digitalpublicgoods.net/registry/) has opened.
 
 It's a devroom dedicated to everyone developing public code - open source code that implements public policy, used for the public good, and by public organizations like governments, public administrations and state corporations.
 
-The devroom will take place on Sunday 5th February 2023 in Brussels.
+The devroom will take place on Sunday, 5 February 2023 in Brussels.
 
-We are looking for contributions that would fit within the main theme of the devroom. Below are some questions that could inspire your proposal:
+We're looking for contributions that would fit within the main theme of the devroom. Here are some questions that could inspire your proposal:
 
 * have you tried to replicate and/or co-develop with another public organization? what did you learn along the way?
-* do you have any procurement and/or governance models (or hacks!) that helped you use, reuse and co-develop public code or digital public goods?
-* are you working on and/or using some awesome public code or digital public good that has the potential for reuse, and the world needs to hear about?
+* do you have any procurement, collaboration or governance models (or hacks!) that helped you use, reuse and co-develop public code or a digital public good?
+* are you working on or using an amazing digital public good or public codebase that the world needs to know about (and has potential for reuse)?
 
-If you have another idea for a talk that you think would fit, please don't hesitate to let us know! We hope that this will be an opportunity for everyone to meet and exchange ideas about public code and digital public goods around the world.
+If you have any other ideas for a talk that would fit, let us know! We hope that this will be an opportunity for everyone to meet and exchange ideas about public code and digital public goods around the world.
 
 We welcome submissions from projects that have never been to FOSDEM before, as well as from 'old timers'.
 
 ## Submission process
 
-Please [submit your proposals](https://penta.fosdem.org/submission/FOSDEM23) before **December 5th 2022**.
+Please [submit your proposals](https://penta.fosdem.org/submission/FOSDEM23) before **5 December 2022**.
 
 If you already have a Pentabarf account (for example as a result of having submitted a proposal in the past), make sure you use it to log in and submit your proposal.
 
@@ -43,9 +43,9 @@ As we only have a half day for the entire track, you'll have a better chance of 
 
 ## Important dates
 
-* December 5th 2022: deadline for submission of proposals
+* 5 December 2022: deadline for submission of proposals
 * December 15th 2022 or before: announcement of final schedule
-* February 5th 2023: devroom day - You must be available in person to present your talk
+* 5 February 2023: devroom day - You must be available in person to present your talk
 
 ## Recordings
 
