@@ -2,6 +2,10 @@
 
 This is the Blog for Public Code by the [Foundation for Public Code](https://publiccode.net).
 
+[![Test](https://github.com/publiccodenet/blog/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/blog/actions/workflows/test.yml)
+[![pages-build-deployment](https://github.com/publiccodenet/blog/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/blog/actions/workflows/pages/pages-build-deployment)
+[![Scheduled link check](https://github.com/publiccodenet/blog/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/blog/actions/workflows/link-check.yml)
+
 ## How to contribute to the blog
 
 Follow our [contributing guide](CONTRIBUTING.md) to learn how you can contribute.
