@@ -18,6 +18,7 @@ bundle exec jekyll build
 # * github.com/foo/edit/ : may reference yet-to-exist pages
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
+# * archive.org : sometimes times out, let's not spam them
 # * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
 # * twitter.com : does not serve scripts
 # * linkedin.com : requires login
@@ -28,6 +29,7 @@ URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
+,/web\.archive\.org\/web/\
 ,/lists\.publiccode\.net\/mailman/\
 ,/twitter\.com/\
 ,/linkedin\.com/\
