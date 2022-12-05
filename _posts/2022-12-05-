@@ -1,0 +1,165 @@
+---
+title: "Africa, Healthcare and Open Source Software Solutions: Public Code Promising Practices in conversation with Dr. Johnblack Kabukye and Stephen Senkomag"
+date: 2022-12-05
+author: Kehinde Bademosi
+type: blogpost
+excerpt: 
+categories:
+  - News
+---
+
+On Mulago Hill, in the Kawempe Division of Kampala, you'll see one of the oldest cancer research centers in East Africa, the Uganda Cancer Institute. That's where Dr. Johnblack Kabukye takes care of his patients. With a head full of hair and probing eyes that squint under the sun, Johnblack wears a smile and the attitude of a doctor who knows what's at stake when delivering healthcare in Africa.
+
+As a doctor with over a decade of clinical experience in oncology, tropical medicine, and clinical research, Johnblack brings something more to the institute than medical practice. He is a new generation of clinicians deploying new software solutions to solve healthcare challenges.
+
+Johnblack's projects include developing and implementing electronic medical records systems, hospital call centers/patient advice telephone lines for cancer awareness and mental health peer support, and a machine learning-powered app/telehealth system to support cervical cancer screening in rural Uganda.
+
+In partnership with Johnblack is a technologist with short braids and a broad smile, Stephen Senkomago Musoke. If you ask Alexa, who is Stephen Senkomago Musoke, here's what she'd say:
+
+Stephen focuses on the health technology space, leading the architecture, design, development, and rollout of a national electronic medical records system (EMRS) for Uganda, UgandaEMR, based on OpenMRS.
+
+> Pencil sketch of Johnblack and Stephen.
+
+> In this picture, there's a sketch of a stethoscope. The headline reads: Africa, Healthcare and Open Source Software Solutions. Public Code Promising Practices in conversation with Dr. Johnblack Kabukye and Stephen Senkomago Musoke
+
+*Pencil sketch of Johnblack and Stephen by Kehinde Bademosi*
+
+OpenMRS is a collaborative open-source project to develop software to support the delivery of health care in developing countries.
+
+Working with the Makerere University School of Public Health Monitoring and Evaluation Technical Support (METS) Program, Stephen is passionate about growing the technology community in Uganda and on the African continent through a "Coded in Africa, for Africans by Africans" approach using open source technologies.  
+
+In our conversation with the duo - taped initially for a live podcast, Let's Talk About Public code, we ask the big question:
+
+## How can software solutions accelerate the delivery of cutting-edge healthcare in Africa and beyond?  
+
+Specifically, we focused on the following:
+
+* How to design and implement software solutions for the healthcare sector
+* How to build a community of practice for a software project in Uganda
+* How to adopt the open source mindset in the healthcare sector
+* How to manage expectations of various stakeholders as a doctor and as a technologist
+* What evolving technology like open source means to an already overworked medical labor force.
+
+## Software Choices for Today's Clinic
+
+Today's clinics increasingly depend on cutting-edge software to deliver daily healthcare to millions of patients. Medical software solutions evolve rapidly, from generating patients' reports to scheduling follow-ups and even helping in disease prevention and surveillance.
+
+The choices are:
+
+* open source solutions
+* proprietary software solutions
+* or some hybrid of both
+
+## Stephen
+
+I'm a big fan of open source. That's where I first started, and I believe democratizing technology is the way for things to be built in Africa for Africans by Africans.  I believe it's a more effective way of sharing our knowledge in Africa.
+
+Take OpenMRS as an example. It is a collaborative open-source project to develop software to support health care delivery in developing countries. OpenMRS is founded on the principles of openness and sharing ideas, software, and strategies for deployment and use.
+
+It was introduced in 2011 with the support of the World Health Organization as a means of collecting medical records and understanding the provision of health care.
+
+So, you'd see it as a large community with many partners. You have Partners in Health network solutions. PEPFAR, the United States President's Emergency Plan for AIDS Relief, is using it in multiple countries across Africa, where you find funded implementers contributing either to the codebase or using it. So you have multiple levels of contribution from clinical to actual development.
+
+Interestingly, a CDC headquarters-funded mechanism called TAP is building an HIV reference implementation named OHRI whose purpose is to make it easier to get started using OpenMRS to run an HIV care provision clinic. This same concept can be extended to maternal and child health, an outpatient clinic or even a malaria clinic.
+
+This simple gesture provides a healthy ecosystem of providers, both the public sector in public health facilities and the private sector in Uganda which has over 6,000 public health facilities, with about 1,300 public health facilities using UgandaEMR.  
+
+Some of these facilities have a point of care with working integrations with lab systems, dispensing and inventory management systems at facility level in addition to data submission to central reference laboratories for EID PCR and Viral Loads, and the national eHMIS reporting system.
+
+Many implementers contribute their code back, which is a good mantra of the open source community of standing on the shoulders of giants and feeding this giant so that it’s stronger.
+
+> I think when we maintain this spirit of giving back to the system, it will keep driving the utility of the system, driving sustainability due to increased adoption and the usage plus a community of practice to support implementation, usage and evolution.
+
+Also, if I were a vendor in that ecosystem, I wouldn't want to maintain my own features, I would share them for the rest of the community to use, maintain and enhance further.
+
+Unfortunately, many implementers end up trying to independently maintain custom forks, usually due to time pressures to deliver value, lack of skills and experience in implementing reusable solutions. This is where the communities of practice and starter kits like OHRI shine, providing a starting point.  
+
+> A proverb says if you want to go fast, go alone; if you want to go far, we go together.
+
+Even if going together is more work, you end up with many more happy people. So rather than going it alone continuously, you must come back for those who are slow and ensure that we are moving together.
+
+I think that's the critical ethos that the prominent vendors sometimes miss and get to pay for. Just build on top, however tricky or complicated it is.
+
+It's good practice to feed the giant on whose shoulders you're standing. We all need to keep the spirit and say if I benefit from this, I should give back so this can keep moving forward.
+
+## Johnblack
+
+As a medical doctor and also a researcher in health informatics, these are a few things I admire about open source software (OSS).
+
+### We do not rely on a single person to maintain open source software
+
+It means that it is being tested, audited and used by many different people in different settings and environments. This is good for ensuring that there are no terrible security things to be found during production deployment. I like that in an open source solution, you have many different eyes and organizations. Some of them are more technologically advanced than your organization, so I feel more comfortable having this, especially in healthcare, where you know you have patient information that has to be protected.
+
+### Security is fundamental in healthcare
+
+Unfortunately, coming from a clinical environment, we do not fully understand when we say open source. What is open about it? So from face value, it sounds like this is not very good because I don't want my medical records to be open. This misunderstanding can be a problem. As a medical doctor and a digital health person, I can appreciate why this is easily misunderstood. Hence, I tell other practitioners what we mean by open source. It's not open to the public, that people will be reading clinical records.
+
+I think people working in the open source community must clarify these things. We know when it comes to security, this is a more attractive solution because it has been audited and checked by many people who have more skills than the hospital that you might be working in.
+
+### Cost saving and customization
+
+From a cost perspective, especially when you talk about Uganda and Africa and other countries that might not have a lot of resources  Many of the non-open source solutions for clinical care are ridiculously expensive, with high upfront cost for licensing plus on-going customization and operational costs which are usually hidden.
+
+> It doesn't make sense to pay for an enterprise solution that costs millions of dollars and offers a whole range of services that I don't even know.
+
+You tell me we're going to do health information exchange, and we're going to do data analytics, and we're going to give you this dashboard. We're going to provide you with these AI features etc. But I don't need those yet because I'm just starting.
+
+Unfortunately, these enterprise solutions can't customize to what I need for a smaller fee. Enter the open source solution advantage.
+
+Here you can pick packages and customize them to your context and say, for my hospital, these are the features I need. The packaged proprietary solution has many things you must pay for - even things you don't need.
+
+So, I think the flexibility in picking the things you need and the fact that open source solutions have been audited and looked at by other people, and they're all using it - are some of the attractive features. These might be attractive to me as a clinician who also understands the technology world, but for the other clinicians, you might have to explain more about what that means and get them happy with the proposed solution.
+
+With OSS, you can pick and choose which pieces you want.
+
+### Community
+
+Also, you can quickly get developers of UgandaEMR within Uganda quite easily because the community is extensive. They have spread all across, and you can quickly get them and say as follows:
+
+"Are you familiar with OpenMRS?"
+
+"Can you add this feature for me?"
+
+I have worked on the customization of OpenMRS for the Uganda Cancer Institute. Traditionally OpenMRS has been used to manage infectious diseases like HIV, Tuberculosis (TB), and malaria. That's where its history is, not so much in non-communicable conditions.
+
+Still, when I needed to do chemotherapy management in OpenMRS, I got a person to sit with the technologists and explain how things work in cancer care. We can add a few extra things in there, and then we push this back to the community and say,
+
+"Hey, can you add in the data dictionary concepts that are to do with cancer care?"
+
+"Can you add in the drug dictionary chemotherapy with chemotherapy drugs?”
+
+Another person who wants to use OpenMRS in cancer care in another place will come later. They will benefit from this interaction, as well as me benefiting from getting these features added with ease.
+
+One of the challenges we have in getting digital health solutions in Uganda and countries like that is that there's no technical support. That's usually a huge issue.
+
+Hence the need to buy a licensed solution from some international company. Sadly, you can't get them on the phone to help you with the things that you need. Time differences can be a problem for you to contact them, but many times, it's about you being such a tiny part of their client base that they say, ‘you know, it's just costing us so much to support you, and we're not going to do that’, and so there's always one issue or another.
+
+So, having access to developers and a community that is close to you and who speaks the same language as you can make a lot of difference.  
+
+### Finally, this is more than the code
+
+It's not just the code. It's the processes and practices, not technology, but of treatment, even of the patient's rights.
+
+* Are your patients getting their care from their phones?
+* Is it self-service?
+* How do you talk to each of them?
+* Are you going to do language translation?
+* Are there some customs like social norms that have to be followed?
+
+These practices and knowledge and information are codified in the code as workflows.
+
+Hence, you can find four different workflows in one health facility for four different kinds of people, and we've seen that even for UgandaEMR, we find four different workflows during implementation. A hybrid of retrospective (where data is captured on paper then entered later) and point of care (where clinicians capture data as they see the patient).
+
+They're different audiences for various diseases because with tuberculosis, you have to keep people isolated and away from each other because it's highly infectious. For HIV, it's okay.
+
+For a mother and child you also have to take special care that they're comfortable because they're delicate and have to be worked on together. They can't wait too long for immunization.
+
+You have lots of babies crying, so essentially, you have to get them out of the clinic as quickly as possible, so each of those puts constraints on the systems you're building, which you can never know if you're not in that health facility.
+
+For instance, I once went to train a doctor who abandoned us during the training session and I understood what was going on perfectly. There was a line of 100 mothers who had brought their children for immunization.
+
+> There is no way a doctor will give you time to discuss EMR when their core training calls them to deal with the line of mothers and babies outside. So I think those are also important because it is not just the technology we look at.
+
+It is just the beginning. Everything else - the practices and so on around it are very important.
+
+That's what I call the spirit and ethos. That's what keeps it going.
