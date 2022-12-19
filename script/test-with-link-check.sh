@@ -23,6 +23,7 @@ bundle exec jekyll build
 # * twitter.com : does not serve scripts
 # * linkedin.com : requires login
 # * opensource.org : gives 503 No error when run as GitHub workflow
+# * belastingdienst.nl/wps/wcm/connect/bldcontenten : regular timeouts
 # * www.un.org : gives 403 No error when run as GitHub workflow
 #
 URL_IGNORE_REGEXES="\
@@ -34,6 +35,7 @@ URL_IGNORE_REGEXES="\
 ,/twitter\.com/\
 ,/linkedin\.com/\
 ,/opensource\.org/\
+,/belastingdienst\.nl\/wps\/wcm\/connect\/bldcontenten/\
 ,/www\.un\.org\/en\/content\
 "
 
