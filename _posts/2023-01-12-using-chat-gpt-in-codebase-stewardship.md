@@ -77,15 +77,15 @@ Developers and designers working on open source software projects can do several
 ## Conclusions
 
 While the suggestions given are solid, they are neither surprising nor revolutionary, which, granted, is expected of a tool that uses (complex) statistical models to generate new text from an existing corpus.
-Given that, the tool seems useful to both assemble larger text chunks based on short input to further edit later as a time saver for someone who already knows the topic at hand and can check that the produced texts are reasonable.
-This experiment turned out fine, but there are plenty of examples on the internet where Chat-GPT seemlingy just makes stuff up.
-It could also serve as a sanity check or a reminder, to compare a self authored text with a prompt to it to see if anything substantial is missing.
-When playing around with the tool before this particular chat, it also became clear to me that generating good prompts is a skill, and that it can be learned, as has already been shown by artists through the image generating models like Stable Diffusion, Midjourney and Dall-E.
+Given that, the tool seems useful to assemble larger text chunks based on short input to further edit later as a time saver for someone who already knows the topic and can check that the produced texts are reasonable.
+This experiment turned out fine, but there are plenty of examples on the internet where Chat-GPT seemingly makes stuff up.
+It could also serve as a sanity check or a reminder to compare a self-authored text with a prompt to see if anything substantial is missing.
+When playing around with the tool before this particular chat, it also became clear to me that generating good prompts is a skill that can be learned. Artists have already shown this through image-generating models like Stable Diffusion, Midjourney, and Dall-E.
 
-All-in-all, I think this was a fun experiment that clearly showed that these tools are here to stay, and that the way we will use them still may evolve significantly, probably co-evolving with the tools themselves.
+All-in-all, this was a fun experiment that clearly showed that these tools are here to stay and that the way we use them still may evolve significantly, probably co-evolving with the tools themselves.
 It will probably not become one of our core [activities](https://about.publiccode.net/activities/), but rather a tool that we may use in any of them.
 
-And as concluding conclusion, this is how Chat-GPT concluded our chat:
+To conclude, this is how Chat-GPT ended our chat:
 
 > In conclusion, collaborating with other municipalities or organizations on the development of open source software can have several benefits, including pooling resources and expertise, ensuring that the software meets the needs of a wider range of users, and fostering a sense of community and cooperation.
 > However, there are also several challenges that must be overcome in order to make collaboration successful.
