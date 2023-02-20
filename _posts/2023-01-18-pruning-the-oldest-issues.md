@@ -8,7 +8,7 @@ categories:
   - Community call
 ---
 
-# Pruning the oldest issues - October 2022
+# Pruning the oldest issues - January 2023
 
 ## Attendees
 
