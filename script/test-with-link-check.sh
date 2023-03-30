@@ -17,6 +17,8 @@ bundle exec jekyll build
 #    Strings or RegExps containing URLs that are safe to ignore.
 # * github.com/foo/edit/ : may reference yet-to-exist pages
 # * docs.github.com/en : blocked by github DDoS protection
+# * (issues|pull) : ignore github issues and pull requests
+# * github.com/publiccodenet : ignore our own links
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * archive.org : sometimes times out, let's not spam them
 # * lists.publiccode.net/mailman/ : gives 500, 503 errors to scripts
@@ -27,9 +29,12 @@ bundle exec jekyll build
 # * www.un.org : gives 403 No error when run as GitHub workflow
 # * chat.openai.com/chat : gives 403 No error when run as GitHub workflow
 #
+#
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
+,/github\.com\/[a-zA-Z0-9_\-]\+\/[a-zA-Z0-9_\-]\+\/(issues|pull)\/[0-9]\+/\
+,/github\.com\/publiccodenet\//\
 ,/plausible\.io\/js\/plausible\.js/\
 ,/web\.archive\.org\/web/\
 ,/lists\.publiccode\.net\/mailman/\
