@@ -8,7 +8,7 @@ categories:
   - Community call
 ---
 
-# 6 April 2022 Standard for Public Code community call - internal notes
+# 6 April 2022 Standard for Public Code community call
 
 ## Attendees
 
