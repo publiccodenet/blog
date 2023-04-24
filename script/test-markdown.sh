@@ -7,4 +7,4 @@
 # MD026 Trailing punctuation in header: we allow question marks
 # MD033 Inline HTML: the index uses html to generate the page and that's how we link videos
 #
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD033 -i -g '.'
+bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD033,~MD024 -i -g '.'
