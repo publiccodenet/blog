@@ -57,7 +57,7 @@ Putting our open source principles into practice, we switched [our newsletter si
 
 ## In case you missed it
 
-- Our codebase steward [Jan blogged about how to improve collaboration](https://os2.eu/blog/blog-samarbete-i-praktiken) in open source codebases based on his experience with Signalen. (Scroll down for the English version!)
+- Our codebase steward [Jan blogged about how to improve collaboration](https://www.os2.eu/blog/nyheder-2/blog-samarbete-i-praktiken-3975) in open source codebases based on his experience with Signalen. (Scroll down for the English version!)
 - [Notes from our May Standard for Public Code community call](/community%20call/2021/05/20/notes-from-community-call-6-may-2021.html) on vendor and platform independence
 - [Notes from our May Standard backlog pruning session](/community%20call/2021/05/20/pruning-the-oldest-issues.html)
 - [Video of our May Foundation for Public Code call](https://youtu.be/Y1FzAMyVs_g) on expanding the impact of our stewardship practice

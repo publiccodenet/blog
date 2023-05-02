@@ -14,7 +14,7 @@ categories:
 
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html)
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
-* [Charlotte Heikendorf](https://os2.eu/bruger/charlotte-heikendorf), OS2
+* [Charlotte Heikendorf](https://www.os2.eu/om-os2), OS2
 
 ## Updates from the Foundation
 

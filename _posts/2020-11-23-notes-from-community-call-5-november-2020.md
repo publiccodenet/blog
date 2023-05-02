@@ -20,7 +20,7 @@ categories:
 
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html)
 * [Alba Roza](https://web.archive.org/web/20210225190155/https://publiccode.net/who-we-are/team/alba-roza.html)
-* [Charlotte Heikendorf](https://os2.eu/bruger/charlotte-heikendorf), OS2
+* [Charlotte Heikendorf](https://www.os2.eu/om-os2), OS2
 
 ## Notes
 
@@ -28,4 +28,4 @@ During the call, we discussed why implementing the Standard for Public Code can 
 
 No direct solutions were discovered during the call, but being aware of them could lead to the questions being addressed earlier and more appropriately.
 
-Special thanks to Charlotte Heikendorf for taking the time to write about our new Standard for Public Code release [in English](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code) and in the [Danish OS2 codebase website](https://os2.eu/blog/ny-release-af-standard-public-code).
+Special thanks to Charlotte Heikendorf for taking the time to write about our new Standard for Public Code release [in English](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code) and in the [Danish OS2 codebase website](https://www.os2.eu/blog/nyheder-2/ny-release-af-standard-for-public-code-4025).
