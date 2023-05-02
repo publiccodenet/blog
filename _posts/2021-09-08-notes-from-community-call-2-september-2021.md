@@ -15,7 +15,7 @@ categories:
 * [Jan Ainali](https://publiccode.net/team/jan-ainali.html)
 * [Eric Herman](https://publiccode.net/team/eric-herman.html)
 * [Elena Findley-de Regt](https://publiccode.net/team/elena-findley-de-regt.html)
-* [Rasmus Frey](https://os2.eu/bruger/rasmus-frey)
+* [Rasmus Frey](https://www.os2.eu/om-os2)
 * [Boris van Hoytema](https://publiccode.net/team/boris-van-hoytema.html)
 
 ## Updates from the Foundation

@@ -37,4 +37,4 @@ It is also available on most podcast players, so take a few secsonds to subscrib
 
 ## What's next?
 
-The next episode will be livestreamed on October 13, and we will be talking to [Rasmus Frey](https://os2.eu/bruger/rasmus-frey), business manager of [OS2](https://os2.eu/node/332). OS2 is a Danish public community that specifies, develops and governs digital solutions by municipalities and for municipalities. Make sure to tune in on October 13th or subscribe to our podcast to catch this interview!
+The next episode will be livestreamed on October 13, and we will be talking to [Rasmus Frey](https://www.os2.eu/om-os2), business manager of [OS2](https://www.os2.eu/in-english). OS2 is a Danish public community that specifies, develops and governs digital solutions by municipalities and for municipalities. Make sure to tune in on October 13th or subscribe to our podcast to catch this interview!
