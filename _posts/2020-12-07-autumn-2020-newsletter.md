@@ -87,7 +87,7 @@ In November, [Alba](https://web.archive.org/web/20210225190155/https://publiccod
 
 [Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) wrote [an article about how government and market parties are jointly building the OpenZaak community](https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) for the Dutch national open source forum ([opensource.pleio.nl](https://opensource.pleio.nl/)).
 
-Last week, [Jan](https://publiccode.net/team/jan-ainali.html) ran a workshop on how to effectively do "Open Source in the Public Sector" at the [Swedish GovTechDay](https://govtechsweden.se/govtech-day) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
+Last week, [Jan](https://publiccode.net/team/jan-ainali.html) ran a workshop on how to effectively do "Open Source in the Public Sector" at the [Swedish GovTechDay](https://web.archive.org/web/20200611122646/https://www.govtechday.se/om-govtech-day) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
 
 ## Reading list
 

@@ -14,7 +14,7 @@ categories:
 
 * The Signalen community updated the Standard for Public Code gap analysis included in their codebase community. [See the new version.](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md)
 * Alba was in a panel at DecidimFest on [Sustainability and scalability in free software projects](https://www.youtube.com/watch?v=7veHik0LLVk).
-* Jan ran a workshop on how to effectively do 'Open Source in the Public Sector' at the [Swedish GovTechDay](https://govtechsweden.se/govtech-day) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
+* Jan ran a workshop on how to effectively do 'Open Source in the Public Sector' at the [Swedish GovTechDay](https://web.archive.org/web/20200611122646/https://www.govtechday.se/om-govtech-day) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
 
 ## Attendees
 
