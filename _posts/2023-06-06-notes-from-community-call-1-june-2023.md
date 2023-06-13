@@ -3,7 +3,7 @@ title: "Notes from the Standard for Public Code community call - 1 June 2023"
 date: 2023-06-06
 author: Jan Ainali
 type: blogpost
-excerpt:
+excerpt: General discussion about the Standard for Public Code
 categories:
   - Community call
 ---
