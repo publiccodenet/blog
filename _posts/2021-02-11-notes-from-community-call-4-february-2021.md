@@ -20,7 +20,7 @@ categories:
 ## Updates from the Foundation
 
 * Signalen is incubation for the Standard for Pubic Code
-* Signalen and OpenZaak's assessments are both updated to the [v.0.2.1 of the template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md)
+* Signalen and OpenZaak's assessments are both updated to the v.0.2.1 of [the template](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html)
 * Our podcast is back! Check out [Let's talk about public code #3 - Sergei Maertens and Tjerk Vaags, OpenZaak](https://podcast.publiccode.net/e/3-sergei-maertens-and-tjerk-vaags-openzaak/)
 * We'll be at a lot of upcoming events:
     * A panel discussion on OSPOs at Open Forum Europe's [Open Source Policy Summit](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/)

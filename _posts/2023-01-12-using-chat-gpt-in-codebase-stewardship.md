@@ -10,7 +10,7 @@ categories:
 
 # Using Chat-GPT in codebase stewardship
 
-We have seen a lot of hype around the latest release from Open AI, [Chat-GPT](https://chat.openai.com/chat), ever since it was made public in December.
+We have seen a lot of hype around the latest release from Open AI, [Chat-GPT](https://chat.openai.com), ever since it was made public in December.
 Even though this codebase is not open source software, we thought it would be interesting to test it to see how it could be useful in generating texts in our field of work.
 
 The following is a verbatim conversation (only formatted for Markdown) I had with Chat-GPT on January 4, 2023.
