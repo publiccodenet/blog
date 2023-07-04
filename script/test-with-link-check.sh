@@ -27,7 +27,8 @@ bundle exec jekyll build
 # * opensource.org : gives 503 No error when run as GitHub workflow
 # * belastingdienst.nl/wps/wcm/connect/bldcontenten : regular timeouts
 # * www.un.org : gives 403 No error when run as GitHub workflow
-# * chat.openai.com/chat : gives 403 No error when run as GitHub workflow
+# * listennotes.com : gives 403 No error when run as GitHub workflow
+# * chat.openai.com : gives 403 No error when run as GitHub workflow
 #
 #
 URL_IGNORE_REGEXES="\
@@ -42,8 +43,9 @@ URL_IGNORE_REGEXES="\
 ,/linkedin\.com/\
 ,/opensource\.org/\
 ,/belastingdienst\.nl\/wps\/wcm\/connect\/bldcontenten/\
-,/www\.un\.org\/en\/content\
-,/chat\.openai\.com\/chat/\
+,/www\.un\.org\/en\/content/\
+,/listennotes\.com/\
+,/chat\.openai\.com/\
 "
 
 # Check for broken links and missing alt tags:
