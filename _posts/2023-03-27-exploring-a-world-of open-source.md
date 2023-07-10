@@ -10,7 +10,7 @@ categories:
 
 # Exploring a world of only open source at MozFest 2023
 
-At the Mozilla Virtual Festival last week, we organized a session: "In 2030, governments only use open source: a thought experiment". We wanted to explore a future where all public organizations in the world have joined us in our mission. The full recording is currently available on the [session page](https://schedule.mozillafestival.org/session/BRR3GV-1) for people with MozFest tickets; this blog post is a summary of the discussion.
+At the Mozilla Virtual Festival last week, we organized a session: "In 2030, governments only use open source: a thought experiment". We wanted to explore a future where all public organizations in the world have joined us in our mission. Watch the [full recording](https://files.publiccode.net/nextcloud/index.php/s/L8KJwk6GE2bF7rC) or read the description on the [archived session page](https://web.archive.org/web/20230328082818/https://schedule.mozillafestival.org/session/BRR3GV-1); this blog post is a summary of the discussion.
 
 Participants thought one of the most significant changes would be the impact on public organizations that interact most with regular citizens, such as social services, county councils, public water, and electricity providers. They would have the most practical reasons to switch to open source. This would also apply to smaller outfits with limited funding as they could capitalize on shared codebases. More open source would also provide more modern, user-friendly digital services and solve more challenging problems because the basics would be solved collectively. Additionally, digital services would be more easily customized than white label proprietary software, meeting citizens' needs better.
 
