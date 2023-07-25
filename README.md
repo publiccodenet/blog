@@ -35,6 +35,10 @@ bundle exec jekyll serve
 
 The server will rebuild the site every time a file changes, with the exception of `_config.yml`.
 
+## Statistics
+
+We use [Plausible](https://about.publiccode.net/activities/tool-management/plausible-analytics.html) for statistics, and they can be viewed at [plausible.io/blog.publiccode.net](https://plausible.io/blog.publiccode.net).
+
 ## License
 
 © 2020 Foundation for Public Code. All content licensed under [Creative Commons Zero v1.0 Universal, unless otherwise noted](LICENSE.md).
