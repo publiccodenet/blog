@@ -29,7 +29,7 @@ Things are ticking along in the [codebases we steward](https://publiccode.net/co
 OpenZaak had a busy month:
 
 * the codebase now [meets the Standard for Public Code criterion 'Document maturity'](https://github.com/open-zaak/open-zaak/pull/924). Overall, [OpenZaak meets 11 of the 15 Standard criteria](https://github.com/open-zaak/open-zaak/pull/924)
-* the [Association of Netherlands Municipalities (VNG) has strengthened their guidance](https://www.vngrealisatie.nl/nieuws/api-standaarden-zaakgericht-werken-vanaf-1-april) that Dutch municipalities use the open data standards (APIs) underpinning OpenZaak, ahead of the APIs becoming mandatory in 2022
+* the [Association of Netherlands Municipalities (VNG) has strengthened their guidance](https://web.archive.org/web/20210518193530/https://www.vngrealisatie.nl/nieuws/api-standaarden-zaakgericht-werken-vanaf-1-april) that Dutch municipalities use the open data standards (APIs) underpinning OpenZaak, ahead of the APIs becoming mandatory in 2022
 
 The Signalen community has been hard at work - we'll have more to share next month. In the meantime, [read an update on what's next for Signalen](https://commonground.nl/news/view/2a13308d-872e-4b98-8dff-d4d3bcb36586/steeds-meer-gemeenten-maken-gebruik-van-signalen?utm_medium) from a Signalen community member (in Dutch).
 
