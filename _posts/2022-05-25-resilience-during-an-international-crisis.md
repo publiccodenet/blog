@@ -72,7 +72,7 @@ I expect we shall see investments similar to this for all public code.
 
 **Jan:**
 
-Here is an example where three Swedish agencies collaborate in inviting people to a [Capture the Flag competition](https://undutmaning.se/).
+Here is an example where three Swedish agencies collaborate in inviting people to a [Capture the Flag competition](https://web.archive.org/web/20220523114615/https://undutmaning.se/).
 
 > Are our countries and cities ready for cyber war? What does a cyber fire drill look like for a 21st century governance?
 
