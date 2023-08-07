@@ -21,7 +21,7 @@ categories:
 
 * We have released [version 0.7.1](https://github.com/publiccodenet/standard/releases/tag/0.7.1) of the standard.
 * There is now [a badge](https://github.com/publiccodenet/standard#standard-for-public-code) to show that a codebase has committed to meet the criteria of the standard.
-* We have launched a site where compliant codebases will be listed: [standard-compliant.publiccode.net](http://standard-compliant.publiccode.net/).
+* We have launched a site where codebases that meet the standard will be listed: [standard-compliant.publiccode.net](http://standard-compliant.publiccode.net/).
 * We will be giving [a presentation about the Standard for Public Code](https://programm.froscon.org/2023/events/2960.html) at [FrOsCon](https://froscon.org/en/) on Sunday.
 
 ## Notes
@@ -34,9 +34,9 @@ There are two primary scenarios where we imagine archiving is of use.
 1. A project gets abandoned for some reason and later someones want to pick it up again.
 2. A disaster of some sort happens where the code needs to be restored by an existing and active community.
 
-For the disaster retrieval, it is important that the retrieval can be proven to work or it is hard to have any confidence for the process.
+For the disaster retrieval, it is important that the retrieval can be proven to work or it will be hard to have any confidence in the process.
 That makes it really hard to do for services one does not self-host, like GitHub.
-Therefore, creating requirements for this would probably be innovative rather than describing common established practices, which is usually not the aim with the Standard for Public Code.
+Therefore, creating requirements for this would probably be innovative rather than describing common established practices, which is usually not the aim of the Standard for Public Code.
 (That is, any requirements beyond archiving at places like [Software Heritage](https://www.softwareheritage.org/ would be innovative).
 
 When it comes to long-term archiving, we haven't learned from any codebases exactly how they go about it, but it is likely that released versions of code developed by public organizations in many jurisdictions must legally be archived.
