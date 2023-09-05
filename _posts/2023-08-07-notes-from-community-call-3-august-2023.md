@@ -37,7 +37,7 @@ There are two primary scenarios where we imagine archiving is of use.
 For the disaster retrieval, it is important that the retrieval can be proven to work or it will be hard to have any confidence in the process.
 That makes it really hard to do for services one does not self-host, like GitHub.
 Therefore, creating requirements for this would probably be innovative rather than describing common established practices, which is usually not the aim of the Standard for Public Code.
-(That is, any requirements beyond archiving at places like [Software Heritage](https://www.softwareheritage.org/ would be innovative).
+(That is, any requirements beyond archiving at places like [Software Heritage](https://www.softwareheritage.org/) would be innovative).
 
 When it comes to long-term archiving, we haven't learned from any codebases exactly how they go about it, but it is likely that released versions of code developed by public organizations in many jurisdictions must legally be archived.
 Therefore, we should try to reach out to them and learn about what they do.
