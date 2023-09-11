@@ -56,4 +56,4 @@ That is, when testing this, the codebase stewards would check the review times, 
 
 The idea is therefore to add to the How to test section how this would be done by the codebase stewards in order to provide transparency.
 
-We briefly discussed the existence of tools that could help surface contributions needing closer inspection and realized that even if no ready one exists, it should be possible to develop a simple tool that can filter good enough to reduce the manual inspection to a manageable size.
+We briefly discussed the existence of tools that could help surface contributions needing closer inspection and realized that even if no ready one exists, it should be possible to develop a simple tool that can filter well enough to reduce the manual inspection to a manageable size.
