@@ -18,7 +18,7 @@ categories:
 * [Ben Cerveny](https://publiccode.net/who-we-are/team/ben-cerveny.html)
 * [Harish Pillay](https://floss.social/@harishpillay), JTC1
 * Ian Forrester, BBC R&D
-* Bastien Guerry
+* [Bastien Guerry](https://fosstodon.org/@bzg)
 * Matti Schneider
 * Sidney Richards
 * [Jan Maack Kjerbye](https://www.os2.eu/om-os2), OS2
