@@ -23,7 +23,6 @@ You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.
 The video is available in a number of places:
 
 - [Youtube](https://www.youtube.com/watch?v=5iq1Mqwah7g)
-- [Periscope](https://www.pscp.tv/w/1DXxyRyyWnZKM)
 - [Facebook](https://www.facebook.com/publiccodenet/videos/430134378050506/)
 
 ## What's next?
