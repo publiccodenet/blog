@@ -25,7 +25,6 @@ You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.
 The video is available in a number of places:
 
 - [Youtube](https://www.youtube.com/watch?v=61UgINAba6k)
-- [Periscope](https://www.pscp.tv/w/1ZkJzeZoPWXGv)
 - [Facebook](https://www.facebook.com/publiccodenet/videos/580954046286169)
 
 ## What's next?

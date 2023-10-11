@@ -19,7 +19,7 @@ categories:
 ## Updates from the Foundation
 
 * Two new codebases published their assessments towards the Standard for Public Code:
-  * [The open source repository template from the Swedish Agency for Digital Government]( https://github.com/diggsweden/open-source-project-template/blob/main/docs/standard-for-public-code-assessment.html)
+  * [The open source repository template from the Swedish Agency for Digital Government](https://github.com/diggsweden/open-source-project-template/blob/main/docs/public_code/standard-for-public-code-assessment.html)
   * [Circulaw - a knowledge platform that encourages positive circular economy regulation](https://github.com/Dark-Matter-Labs/circulaw/blob/main/docs/circulaw-standard-for-public-code.html)
 
 ## Background
