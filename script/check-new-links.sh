@@ -12,7 +12,7 @@ SKIP_PATTERNS=(
 
 if [ "_${VERBOSE}_" == "__" ]; then VERBOSE=0; fi
 
-for URL in $(git diff develop |
+for URL in $(git diff main |
 		grep '^+' |
 		grep -Eo '(http|https)://[^ )"><]+'); do
 	SKIP_URL=0
