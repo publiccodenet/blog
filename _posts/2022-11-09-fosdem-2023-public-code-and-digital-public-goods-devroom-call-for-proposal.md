@@ -28,7 +28,7 @@ We welcome submissions from projects that have never been to FOSDEM before, as w
 
 ## Submission process
 
-Please [submit your proposals](https://penta.fosdem.org/submission/FOSDEM23) before **5 December 2022**.
+Please [submit your proposals](https://web.archive.org/web/20221130053748/https://penta.fosdem.org/submission/FOSDEM23) before **5 December 2022**.
 
 If you already have a Pentabarf account (for example as a result of having submitted a proposal in the past), make sure you use it to log in and submit your proposal.
 
