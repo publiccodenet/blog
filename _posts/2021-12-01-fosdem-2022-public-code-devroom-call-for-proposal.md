@@ -29,7 +29,7 @@ We hope that this will be an opportunity for everyone to meet and exchange ideas
 
 ## Submission process
 
-Please [submit your proposals](https://penta.fosdem.org/submission/FOSDEM22) before **December 26th 2021**.
+Please [submit your proposals](https://web.archive.org/web/20211218124917/https://penta.fosdem.org/submission/FOSDEM22) before **December 26th 2021**.
 
 If you already have a Pentabarf account (for example as a result of having submitted a proposal in the past), make sure you use it to log in and submit your proposal.
 Do not create a new account if you already have one.
