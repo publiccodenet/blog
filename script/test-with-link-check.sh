@@ -29,6 +29,7 @@ bundle exec jekyll build
 # * www.un.org : gives 403 No error when run as GitHub workflow
 # * listennotes.com : gives 403 No error when run as GitHub workflow
 # * chat.openai.com : gives 403 No error when run as GitHub workflow
+# * iso.org/drafting-standards.html : regular timeouts
 #
 #
 URL_IGNORE_REGEXES="\
@@ -46,6 +47,7 @@ URL_IGNORE_REGEXES="\
 ,/www\.un\.org\/en\/content/\
 ,/listennotes\.com/\
 ,/chat\.openai\.com/\
+,/iso.org/drafting-standards.html/\
 "
 
 # Check for broken links and missing alt tags:
