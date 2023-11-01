@@ -1,6 +1,6 @@
 ---
 title: "Newsletter, autumn 2020"
-date: 2020-12-02
+date: 2020-12-07
 author: Elena Findley-de Regt, Laura Scheske
 type: blogpost
 excerpt: Our focuses and flowstates for the autumn
