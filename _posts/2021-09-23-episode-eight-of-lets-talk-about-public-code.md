@@ -14,7 +14,7 @@ In the eighth episode of Let's talk about public code, and our first anniversary
 
 With a background as Chief Creative Officer for Mexico City and founder of Laboratorio para la Ciudad, the award-wining experimental arm and creative think tank of the Mexico City government, alongside engagements in the Netherlands, UK, USA, South Korea and Canada, Gabriella have global perspective on public code.
 
-We also revealed a [new strategic council](https://blog.publiccode.net/news/2021/09/13/launching-our-strategic-council.html) for the Foundation for Public Code, and Gabriella is our first person on it.
+We also revealed a [new strategic council]({% 2021-09-13-launching-our-strategic-council %}) for the Foundation for Public Code, and Gabriella is our first person on it.
 
 You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/8-gabriella-gomez-mont-experimentalista/) or by searching in your favorite podcast app.
 

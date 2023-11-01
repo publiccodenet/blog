@@ -20,7 +20,7 @@ categories:
 
 ## Updates from the Foundation
 
-* [The Standard for Public Code has been approved as a Digital Public Good](https://blog.publiccode.net/news/2021/07/28/digital-public-goods.html)
+* [The Standard for Public Code has been approved as a Digital Public Good]({% post_url 2021-07-28-digital-public-goods %})
 * [We have started refactoring the introduction](https://github.com/publiccodenet/standard/pull/521)
 
 ## Notes

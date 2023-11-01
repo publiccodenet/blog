@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session](https://blog.publiccode.net/community%20call/2021/09/13/pruning-the-oldest-issues.html) and immediately followed up on the ones needed action.
+We started by reviewing [the notes from the last session]({% 2021-09-13-pruning-the-oldest-issues %}) and immediately followed up on the ones needed action.
 
 * [No navigation in web version #217](https://github.com/publiccodenet/standard/issues/217) - we merged [the jekyll-theme pull request for this](https://github.com/publiccodenet/jekyll-theme/pull/74).
 * [Introduction/certifying an entire codebase: unclear paragraph #218](https://github.com/publiccodenet/standard/issues/218) - we talked about this in [the October community call](https://blog.publiccode.net/community%20call/2021/10/11/notes-from-community-call-7-october-2021.html). We will investigate modularity so the refactoring is on hold for now.
