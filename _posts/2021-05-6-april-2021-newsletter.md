@@ -58,7 +58,7 @@ We've had ongoing conversations this month with 4 cities, plus conversations abo
 Catch up with:
 
 * Sivan Pätsch's article [Open enables public sector digital transformation in the Netherlands](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/we-liberated-our-own-data-silos-market) - an overview of OpenZaak's development on the [Open Source Observatory and Repository](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR)
-* our codebase steward Alba's blogpost about how we supported the [Signalen community day](https://blog.publiccode.net/signalen/2021/04/09/three-ways-we-supported-the-past-signalen-community-meetup.html) in March
+* our codebase steward Alba's blogpost about how we supported the [Signalen community day]({% post_url 2021-04-09-three-ways-we-supported-the-past-signalen-community-meetup %}) in March
 * the notes from our [April Standard for Public Code community call](https://blog.publiccode.net/community%20call/2021/04/12/notes-from-community-call-1-april-2021.html) on backlog pruning
 * our April Foundation for Public Code community call was about our search for new board members - [watch the recording](https://youtu.be/igmbZDuv8rg)
 

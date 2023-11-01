@@ -11,7 +11,7 @@ category: news
 
 Hello!
 
-It's again time to share what we've done since [November 2020](https://blog.publiccode.net/news/2020/12/02/autumn-2020-newsletter.html).
+It's again time to share what we've done since [November 2020]({% post_url 2020-12-02-autumn-2020-newsletter %}).
 
 We have 3 highlights:
 

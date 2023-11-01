@@ -34,7 +34,7 @@ Jonathan and Peter were given an introduction to the Foundation for Public Code 
 
 ### Splitting the Standard for Public Code's [Welcome contributions](https://standard.publiccode.net/criteria/open-to-contributions.html) criterion
 
-Eric explained the background which is mostly captured in the [notes from our last community call](https://blog.publiccode.net/community%20call/2020/06/22/notes-from-community-call-3-june-2020.html). Then [the draft](https://hackmd.io/R0Q4PeDoSSqaUPYt1uDaMA) was shown to everybody and a few minutes were given to just read it through. As a quick improvment the name for the new criterion *Supporting easy contributions* was changed to *Make contributing easy*.
+Eric explained the background which is mostly captured in the [notes from our last community call]({% post_url 2020-06-22-notes-from-community-call-3-june-2020 %}). Then [the draft](https://hackmd.io/R0Q4PeDoSSqaUPYt1uDaMA) was shown to everybody and a few minutes were given to just read it through. As a quick improvment the name for the new criterion *Supporting easy contributions* was changed to *Make contributing easy*.
 
 We discussed the way the draft had split up the criterion and how governance played in with that. Jan and Elena explained that the thinking behind it was that Welcome Contributions is what you need to build trust, pique interest, provide legibility of leadership and the community goals. In contrast, Make contributing easy is supposed to cover the tools and processes that allows for contributors to find a way into the codebase.
 

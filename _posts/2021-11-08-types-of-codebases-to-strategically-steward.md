@@ -10,7 +10,7 @@ categories:
 
 # Types of codebases to strategically steward
 
-Last week we published the [end-of-year goals for the codebase stewards](https://blog.publiccode.net/news/2021/11/03/stewards-end-of-year-goals.html) as a result of our new [roadmap](https://about.publiccode.net/organization/roadmap.html).
+Last week we published the [end-of-year goals for the codebase stewards]({% post_url 2021-11-03-stewards-end-of-year-goals %}) as a result of our new [roadmap](https://about.publiccode.net/organization/roadmap.html).
 One of the goals was "Make a wish list of types of codebases we desire for direct stewardship" and comes from our notion that we instead if directly stewarding all the thousands of public codebases there is we should use a distributed model.
 Whilst doing that we still want to directly steward some key codebases.
 These would be the ones that become the standards in their respective public domains and that have the potential to be key global infrastructure.

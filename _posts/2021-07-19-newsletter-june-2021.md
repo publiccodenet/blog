@@ -34,7 +34,7 @@ Updates this month include:
 - Alphen aan de Rijn has decided to use Signalen!
 - Demodam drafted their first governance document, and created a project board with great issues
 - Read an [interview with Erik Veerman](https://web.archive.org/web/20210920171119/https://signalen.org/en/news/2021-06-21-interview-with-erik-veerman-first-replicator-signalen/), project lead from 'S-Hertogenbosch, about replicating Signalen
-- Our [codebase steward Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) blogged about his views on [product management in open source](https://blog.publiccode.net/codebase%20stewardship/2021/06/08/product-management-in-open-source.html) - spoiler: you are responsible!
+- Our [codebase steward Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) blogged about his views on [product management in open source]({% post_url 2021-06-08-product-management-in-open-source %}) - spoiler: you are responsible!
 - Codebase stewards supported a [Climate Watch](https://en.wikipedia.org/wiki/Climate_Watch) presentation to Danish municipalities
 
 Stewards now do their [weekly planning on a public kanban board](https://github.com/orgs/publiccodenet/projects/12) - follow along with their work.

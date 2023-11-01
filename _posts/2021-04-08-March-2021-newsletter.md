@@ -33,7 +33,7 @@ Signalen moved closer to Standard for Public Code compliance by fully meeting th
 
 ### OpenZaak
 
-The OpenZaak community is consolidating healthy community practices. This month they set up a mailing list for upcoming early release notices, and started planning a retro on the [market consultation held last year](https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html). The technical steering team also pruned the backlog; based on this, the product steering team will now decide what to prioritize for procurement and development.
+The OpenZaak community is consolidating healthy community practices. This month they set up a mailing list for upcoming early release notices, and started planning a retro on the [market consultation held last year]({% post_url 2020-07-01-openzaak-market-consultation-workshops %}). The technical steering team also pruned the backlog; based on this, the product steering team will now decide what to prioritize for procurement and development.
 
 ### Omgevingsbeleid
 

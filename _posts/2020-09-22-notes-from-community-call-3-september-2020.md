@@ -14,7 +14,7 @@ categories:
 
 * We finally sent out our first newsletter! You can also [sign up](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842).
 * 2 weeks ago, we presented on codebase stewardship at [Barcamp: Verwaltung. Digital. Gestalten](https://www.fokus.fraunhofer.de/de/dps/barcamp_200820), hosted by the Fraunhofer Institute for Open Communication Systems and NextNetz - this was our first presentation on codebase stewardship to a German audience.
-* Next week we will start our live stream / podcast [Let's talk about public code](https://blog.publiccode.net/news/2020/09/01/on-air-next-our-podcast.html).
+* Next week we will start our live stream / podcast [Let's talk about public code]({% post_url 2020-09-01-on-air-next-our-podcast %}).
 * Boris will present on why 'open source in gov't is different' at State of the Source on 9 September ([video](https://www.youtube.com/watch?v=mvhFF_7lVV4&list=PL_5ziu2gADmDcp_ER8x2rcT1HOBaIe5cl&index=3)).
 
 And for more news, you can always head to our [blog](https://blog.publiccode.net/).
@@ -39,7 +39,7 @@ This solution seemed particularly interesting and the Foundation for Public Code
 As a short term solution the Standard for Public Code could also be modularized further.
 Of particular interest would be an executive summary that also would be quicker to translate and at the same time might be the most important part to localize.
 
-Foundation for Public code staff gave a summary of the [previous community call about translations](https://blog.publiccode.net/community%20call/2020/08/24/notes-from-community-call-6-august-2020.html) and how we've been thinking about translations.
+Foundation for Public code staff gave a summary of the [previous community call about translations]({% post_url 2020-08-24-notes-from-community-call-6-august-2020 %}) and how we've been thinking about translations.
 Jan described how it would be a lot easier for people just doing translations if platforms designed for this are used (with features like translation memory or documentation about what's being translated) and how those can be automated to commit to a git repository.
 
 Boris described another system with forks with version numbers.
