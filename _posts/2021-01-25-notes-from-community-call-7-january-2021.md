@@ -12,8 +12,8 @@ categories:
 
 ## Update from the Foundation
 
-* Blog post: [How to start a Standard compliant GitHub repository](https://blog.publiccode.net/news/2020/12/09/how-to-start-a-standard-compliant-repository.html)
-* [Our newsletter for the autumn was published]({% post_url 2020-12-02-autumn-2020-newsletter %}) (you can also [sign up here](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842))
+* Blog post: [How to start a Standard compliant GitHub repository]({% 2020-12-09-how-to-start-a-standard-compliant-repository %})
+* [Our newsletter for the autumn was published]({% post_url 2020-12-07-autumn-2020-newsletter %}) (you can also [sign up here](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842))
 
 ## Attendees
 
