@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session](https://blog.publiccode.net/community%20call/2022/07/14/pruning-the-oldest-issues.html):
+We started by reviewing [the notes from the last session]({% 2022-07-14-pruning-the-oldest-issues %}):
 
 * [define your product design principles #315](https://github.com/publiccodenet/standard/issues/315) - transferred to the implementation guide repository
 * [Providing a definition what transparent, accountable, understandable means in the context of public software #317](https://github.com/publiccodenet/standard/issues/317) - closed with comment

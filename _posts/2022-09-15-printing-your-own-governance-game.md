@@ -9,7 +9,7 @@ excerpt: A new workflow to easily create a deck of cards yourself
 
 # Printing your own Governance Game
 
-In our last [blog post about the Governance Game](https://blog.publiccode.net/news/2020/03/17/a-look-at-our-codebase-governance-game.html), we hinted that we were thinking about new workflows for anyone to easily print their own deck of cards.
+In our last [blog post about the Governance Game]({% 2020-03-17-a-look-at-our-codebase-governance-game %}), we hinted that we were thinking about new workflows for anyone to easily print their own deck of cards.
 With the pandemic and fewer physical meetings, we chose to instead focus on how to apply it in an online setting.
 But with restrictions getting removed we thought it was about time to prioritize this again.
 
