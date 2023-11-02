@@ -15,7 +15,7 @@ Hello,
 
 Welcome to our newsletter, bumper summer edition. Like last summer, many of the people we work with went on holiday, but that hasn't slowed us down.
 
-🏅 Perfectly timed to get us pumped for summer, we got an Encouragement Award from the Netherlands Internet Society (as part of their annual Innovation Award) in June. [Read more on our blog]({& post_url 2020-06-17-isoc-encouragement-award-consider-us-encouraged %}).
+🏅 Perfectly timed to get us pumped for summer, we got an Encouragement Award from the Netherlands Internet Society (as part of their annual Innovation Award) in June. [Read more on our blog]({% post_url 2020-06-17-isoc-encouragement-award-consider-us-encouraged %}).
 
 ## What we've been up to 👩‍💻 🧑🏻‍🤝‍🧑🏽 🤙
 
