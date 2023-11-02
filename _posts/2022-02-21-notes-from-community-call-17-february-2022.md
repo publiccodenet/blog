@@ -11,7 +11,7 @@ categories:
 # Notes from the Foundation for Public Code community call - 17 February 2022
 
 * We are experimenting with [Open House on Twitter spaces](https://twitter.com/i/spaces/1OwxWzqWbRQJQ)
-* We published the [goals for our first quarter](https://blog.publiccode.net/news/2022/01/27/goals-for-the-first-quarter-2022.html)
+* We published the [goals for our first quarter]({% post_url 2022-01-27-goals-for-the-first-quarter-2022 %})
 
 ## Background
 

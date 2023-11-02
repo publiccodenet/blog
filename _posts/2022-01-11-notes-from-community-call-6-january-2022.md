@@ -20,7 +20,7 @@ categories:
 ## Updates from the Foundation
 
 * [The schedule of the FOSDEM public code devroom](https://fosdem.org/2022/schedule/room/dpublic_code/) have been published
-* We have released [episode 10 of Let's talk about public code](https://blog.publiccode.net/news/2021/12/15/episode-ten-of-lets-talk-about-public-code.html)
+* We have released [episode 10 of Let's talk about public code]({% post_url 2021-12-15-episode-ten-of-lets-talk-about-public-code %})
 
 ## Notes
 

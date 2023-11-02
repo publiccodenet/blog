@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We reviewed [the notes from the last session](https://blog.publiccode.net/community%20call/2022/01/20/pruning-the-oldest-issues.html) and had one outstanding issue:
+We reviewed [the notes from the last session]({% post_url 2022-01-20-pruning-the-oldest-issues %}) and had one outstanding issue:
 
 * [Require machine readable API specifications #237](https://github.com/publiccodenet/standard/issues/237)
     * We made a [pull request](https://github.com/publiccodenet/standard/pull/583) that adds further reading

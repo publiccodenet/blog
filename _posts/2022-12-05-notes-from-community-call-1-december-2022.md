@@ -19,7 +19,7 @@ categories:
 ## Updates from the Foundation
 
 * [Release version 0.4.1 on the way](https://github.com/publiccodenet/standard/issues/771)
-* Last day to [submit to FOSDEM!](https://blog.publiccode.net/news/2022/11/10/fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal.html)
+* Last day to [submit to FOSDEM!]({% post_url 2022-11-10-fosdem-2023-public-code-and-digital-public-goods-devroom-call-for-proposal %})
 
 ## Notes
 
