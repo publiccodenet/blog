@@ -55,7 +55,7 @@ Related to this, but also different in the approach, one could imagine a very ge
 
 ### Guides
 
-More guides like the one on [how to start a Standard compliant GitHub repository](https://blog.publiccode.net/news/2020/12/09/how-to-start-a-standard-compliant-repository.html) were also requested. This would make it easier for public organizations and vendors to use the standard right from the start.
+More guides like the one on [how to start a Standard compliant GitHub repository]({% post_url 2020-12-09-how-to-start-a-standard-compliant-repository %}) were also requested. This would make it easier for public organizations and vendors to use the standard right from the start.
 
 ### Vendors checking compliance
 
