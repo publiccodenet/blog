@@ -24,7 +24,7 @@ categories:
 
 ### Background
 
-In [January](https://blog.publiccode.net/community%20call/2021/01/25/notes-from-community-call-7-january-2021.html), we discussed the introduction of the Standard for Public Code in the community call and came to the conclusion that we wanted to do some changes.
+In [January]({% post_url 2021-01-25-notes-from-community-call-7-january-2021 %}), we discussed the introduction of the Standard for Public Code in the community call and came to the conclusion that we wanted to do some changes.
 In this community call, we discussed [a bold proposal](https://github.com/publiccodenet/standard/pull/521) for some things to be moved around or removed.
 
 ### Discussion

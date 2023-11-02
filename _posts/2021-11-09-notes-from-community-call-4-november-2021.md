@@ -18,7 +18,7 @@ categories:
 
 ## Updates from the Foundation
 
-* We have [launched a strategic council](https://blog.publiccode.net/news/2021/09/13/launching-our-strategic-council.html)
+* We have [launched a strategic council]({% post_url 2021-09-13-launching-our-strategic-council %})
 * Dan Hill is [joining us in our strategic council](https://about.publiccode.net/organization/strategic-council.html)
 * Signalen is [live in a third municipality](https://meldingen.alphenaandenrijn.nl/)
 * We will start hosting (unofficial) [community translations](https://github.com/publiccodenet/community-translations-standard) of the Standard for Public Code
@@ -41,7 +41,7 @@ After some discussion, this is our proposal for the glossary:
 
 ### Background of non-English
 
-In our [community call in September](https://blog.publiccode.net/community%20call/2021/09/08/notes-from-community-call-2-september-2021.html), we talked about non-English terms.
+In our [community call in September]({% post_url 2021-09-08-notes-from-community-call-2-september-2021 %}), we talked about non-English terms.
 We have had a discussion in the ongoing pull requests and would like to make a final check before merging them.
 
 * [Issue #223: Add nuance on where non-English is acceptable](https://github.com/publiccodenet/standard/pull/527)
