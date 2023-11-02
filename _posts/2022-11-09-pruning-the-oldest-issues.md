@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session]({% 2022-10-17-pruning-the-oldest-issues %}):
+We started by reviewing [the notes from the last session]({% post_url 2022-10-17-pruning-the-oldest-issues %}):
 
 * We scheduled a work session for [Glossary items are not uniform #369](https://github.com/publiccodenet/standard/issues/369) on 15 November
 

@@ -18,7 +18,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session]({% 2022-06-21-pruning-the-oldest-issues %}).
+We started by reviewing [the notes from the last session]({% post_url 2022-06-21-pruning-the-oldest-issues %}).
 
 Then we continued with:
 

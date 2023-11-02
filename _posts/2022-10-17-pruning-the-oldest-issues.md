@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session]({% 2022-09-08-pruning-the-oldest-issues %}):
+We started by reviewing [the notes from the last session]({% post_url 2022-09-08-pruning-the-oldest-issues %}):
 
 * [Add how the Standard supports the SDGs to the intro #358](https://github.com/publiccodenet/standard/issues/358) - transferred to publiccode.net repository
 
