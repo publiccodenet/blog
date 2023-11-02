@@ -14,7 +14,7 @@ Two months ago during one of our regular community calls for the [Standard for P
 Even though it's a quite hard task, doing issue and git archeology, we felt that it was absolutely worth taking the time for it.
 During just an one hour long session we managed to close two issues as outdated or obsolete, mark two as a [good first issue](https://github.com/publiccodenet/standard/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), identify two topics for future community calls and give a deadline for another two to close if no reponse was given.
 
-That is why we decided to [do it again last month](https://blog.publiccode.net/community%20call/2021/05/20/pruning-the-oldest-issues.html).
+That is why we decided to [do it again last month]({% post_url 2021-05-20-pruning-the-oldest-issues%}).
 We made similar progress and felt that we were on to something.
 Besides actually doing the work, we also felt that reviewing them openly, with the possibility for anyone interested to join, was a good step for us to do even more work in the open.
 

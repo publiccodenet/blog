@@ -43,7 +43,7 @@ Stewards now do their [weekly planning on a public kanban board](https://github.
 
 - Our [community Jitsi tool](https://github.com/publiccodenet/jitsi-community) is ready for use
 - [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html) has accepted a 1 year appointment as an interim board member. We look forward to learning from Eric's 6 years on the board of the MariaDB Foundation
-- We've adopted a new approach to keeping the Standard fresh: we're doing an [open monthly backlog review](https://blog.publiccode.net/news/2021/06/14/pruning-our-backlog.html)
+- We've adopted a new approach to keeping the Standard fresh: we're doing an [open monthly backlog review]({% post_url 2021-06-14-pruning-our-backlog %})
 
 ## In case you missed it
 
