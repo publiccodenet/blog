@@ -18,7 +18,7 @@ We're thrilled to be participating in this mission. We believe our work to enabl
 
 The Foundation for Public Code’s work aligns with that of the DPGA in the following ways, which are included as part of the [DPGA’s Annual Roadmap](https://digitalpublicgoods.net/roadmap/):
 
-* we steward the Standard for Public Code, which is [also a Digital Public Good]({% post_url 21-07-28-digital-public-goods %}). Early standard compliance helps important projects scale and achieve results sooner.
+* we steward the Standard for Public Code, which is [also a Digital Public Good]({% post_url 2021-07-28-digital-public-goods %}). Early standard compliance helps important projects scale and achieve results sooner.
 * we're ready to provide codebase stewardship for DPG codebases. Expert codebase stewardship strengthens codebase communities, increasing sustainability and trust.
 
 > “Promoting digital public goods to create a more equitable world.” - Tagline of the DPGA
