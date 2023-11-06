@@ -37,18 +37,18 @@ When talking about applying to become an ISO standard in [last month's community
 ### Notes
 
 First we talked a bit about what maturity might mean for a standard and when it could be too early to call it production ready.
-As mentioned in the background, we aimed for it to be used by at few codebases first, and formalizing that in an ambition might radiate proper intent for others.
-It was also suggested that, ideally, one would even leave some time after the codebases fully comply without requirements being changed or repealed to ensure that they were well enough formulated.
+As mentioned in the background, we aimed for it to be used by at few codebases first, and formalizing that in an ambition might radiate proper intent to others.
+It was also suggested that, ideally, one would even leave some time after the codebases fully comply without requirements being changed or revoked to ensure that they were formulated well enough .
 
 Secondly, we came in to a meta question of why even aim for a version 1.0 release.
-While the number is not critical per se, it is a strong signal, especially when adhering to semantic versioning, that it is a product ready to be used.
+While the number is not critical per se, it is a strong signal, especially when adhering to semantic versioning, that a product is ready to be used.
 So there is no external pressure, but more of a wish from the community to be clear about what stage the Standard for Public Code is at.
 This also led into a subdiscussion about how to apply semantic versioning for a standard in terms of defining what its public API is.
-We think this aspect is already addressed, but may follow up with more documentation on our thoughts about that, and if it seems to have some general value, also publish a blog post on that topic.
+We think this aspect is already addressed, but may follow up with more documentation on our thoughts about that, and if it seems to have some general value, also publish a blog post.
 
 Another aspect we discussed was more technical thresholds for moving it into 1.0.
 For example, it might be useful to look at a 1.0 release in terms of what we *don't* want in there.
-By that we meant listing criteria as; the standard should have no critical issues, or, there should be no requirements conflicting with each other etc.
+By that we meant listing criteria like 'the standard should have no critical issues', or 'there should be no requirements conflicting with each other', etc.
 That way, we can almost get a "countdown" to a release that is objective rather than subjective.
 However, we feel quite confident that our last year's issue pruning sessions, and the four years of development of the standard, to the best of our knowledge, have already addressed the examples that we could come up with.
 
@@ -58,6 +58,6 @@ These are the two things that we would like to add.
 1. The ability to "deep link" directly to a requirement. We work on that in [issue 327](https://github.com/publiccodenet/standard/issues/327) but also got a tip to look at legislative linking standards like the [European Legislation Identifier](https://en.wikipedia.org/wiki/European_Legislation_Identifier) (ELI) and the blog post [A love letter to the Parliamentary Counsel of the world]( https://hamish.dev/a-love-letter-to-the-parliamentary-counsel-of-the-world) which has some extensive writing on the topic. Our aim for now is that deep links like these should be stable over time so that we can avoid breaking links even if requirements are reordered or deleted.
 2. The ability to find older versions on the website. Currently, older versions are available on GitHub, but they are not easy to read or to link to. Later, when we have several versions after 1.0 and especially if some of them are ISO standards, it will be more important to be able to refer to a criterion of a specific version of the standard.
 
-Finally, we had a brief discussion if the benefits of getting the standard to become an ISO standard outweigh the added overhead.
+Finally, we briefly discussed if the benefits of getting the standard to become an ISO standard outweigh the added overhead.
 Obviously, we don't really know the answer to that question, but as we have been working with a standard for more than four years now, we have seen what weight the ISO label has and gives to the standards under their umbrella.
 We are also confident just becoming an ISO standard will turn a big spotlight on it.
