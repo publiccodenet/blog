@@ -17,7 +17,7 @@ categories:
 
 ## Notes
 
-We started by reviewing [the notes from the last session](https://blog.publiccode.net/community%20call/2022/11/09/pruning-the-oldest-issues.html).
+We started by reviewing [the notes from the last session]({% post_url 2022-11-09-pruning-the-oldest-issues %}).
 
 Then we continued with:
 

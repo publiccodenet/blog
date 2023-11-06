@@ -15,7 +15,7 @@ Hello,
 
 Welcome to our newsletter, bumper summer edition. Like last summer, many of the people we work with went on holiday, but that hasn't slowed us down.
 
-🏅 Perfectly timed to get us pumped for summer, we got an Encouragement Award from the Netherlands Internet Society (as part of their annual Innovation Award) in June. [Read more on our blog](https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html).
+🏅 Perfectly timed to get us pumped for summer, we got an Encouragement Award from the Netherlands Internet Society (as part of their annual Innovation Award) in June. [Read more on our blog]({% post_url 2020-06-17-isoc-encouragement-award-consider-us-encouraged %}).
 
 ## What we've been up to 👩‍💻 🧑🏻‍🤝‍🧑🏽 🤙
 
@@ -23,7 +23,7 @@ Welcome to our newsletter, bumper summer edition. Like last summer, many of the 
 
 * We currently have 2 codebases under stewardship: [Signalen](https://publiccode.net/codebases/signalen.html) and [OpenZaak](https://publiccode.net/codebases/openzaak.html). Both codebases are focused on growing their open source communities in 2020.
 * In June, we built a prototype product marketing website for OpenZaak: [openzaak.org](https://openzaak.org/).
-* In July, [Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) blogged about his experiences with the OpenZaak market consultation. [Read his blogpost](https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html).
+* In July, [Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) blogged about his experiences with the OpenZaak market consultation. [Read his blogpost]({% post_url 2020-07-01-openzaak-market-consultation-workshops %}).
 * Also in July, [Alba](https://twitter.com/Alba_Roza) developed a communications plan for Signalen, finished a 🎥 [video introducing Signalen](https://www.youtube.com/watch?v=I2Z-mRFt3pg), and launched the Signalen communications steering group.
 * Throughout July and August, [Eric](https://publiccode.net/team/eric-herman.html) and [Jan](https://publiccode.net/team/jan-ainali.html) worked with the Signalen and OpenZaak codebase communities to bring the codebases closer to Standard compliance (for example [adding a licence header to each source code file in OpenZaak](https://github.com/open-zaak/open-zaak/pull/672)).
 * In August, we hosted the Signalen Community Day Online with the VNG (Dutch Association of Municipalities), attended by current Signalen users and contributors plus cities interested in using it in the future 🏙️🏙️. The workshop had 2 focuses:  strengthening Signalen's product management and integrating Signalen into existing IT infrastructure. The output was the creation of product steering group and a prioritized feature backlog.
@@ -44,7 +44,7 @@ Welcome to our newsletter, bumper summer edition. Like last summer, many of the 
 ## Community and public recognition (spreading the word!) 🗣️💃🙌
 
 * We've been included in the Swedish [open data knowledge sharing wiki](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Standard-for-Public-Code) and the EU's Open Source Observatory's [resource catalog](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/specific-resources#section-32).
-* Our August [Standard for Public Code community call](https://blog.publiccode.net/community%20call/2020/08/24/notes-from-community-call-6-august-2020.html) on internationalization had the most participants we've had yet at a community call - 11 participants from 5 countries! We host [monthly community calls](https://about.publiccode.net/activities/community-calls/) for both the Standard and the Foundation for Public Code.
+* Our August [Standard for Public Code community call]({% post_url 2020-08-24-notes-from-community-call-6-august-2020 %}) on internationalization had the most participants we've had yet at a community call - 11 participants from 5 countries! We host [monthly community calls](https://about.publiccode.net/activities/community-calls/) for both the Standard and the Foundation for Public Code.
 * Laura presented on codebase stewardship at [Barcamp: Verwaltung. Digital. Gestalten](https://www.fokus.fraunhofer.de/de/dps/barcamp_200820), hosted by the Fraunhofer Institute for Open Communication Systems and NextNetz.
 * 👩‍🎤👨‍🎤 We're launching our podcast [Let's talk public code](https://twitter.com/publiccodenet/status/1300406171334062080) on September 8 - we're very excited for our first guest, and think you'll be too.
 * Boris is giving a talk at State of the Source on why open source is different in government on 10 September - [you can still sign up](https://opensource.org/StateOfTheSource)

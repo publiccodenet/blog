@@ -10,7 +10,7 @@ categories:
 
 # Types of codebases to strategically steward
 
-A month ago [we asked for feedback on types of codebases for stewardship](https://blog.publiccode.net/news/2021/11/08/types-of-codebases-to-strategically-steward.html). This is one of our [end-of-year goals for the codebase stewards](https://blog.publiccode.net/news/2021/11/03/stewards-end-of-year-goals.html) which connects to our [roadmap](https://about.publiccode.net/organization/roadmap.html).
+A month ago [we asked for feedback on types of codebases for stewardship]({% post_url 2021-11-08-types-of-codebases-to-strategically-steward %}). This is one of our [end-of-year goals for the codebase stewards]({% post_url 2021-11-03-stewards-end-of-year-goals %}) which connects to our [roadmap](https://about.publiccode.net/organization/roadmap.html).
 
 We got some feedback, and have been doing some more thinking of our own as well.
 This is why we now can publish a first version of out wish list of types of codebases we desire for direct stewardship.

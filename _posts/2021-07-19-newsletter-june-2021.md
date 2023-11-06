@@ -34,7 +34,7 @@ Updates this month include:
 - Alphen aan de Rijn has decided to use Signalen!
 - Demodam drafted their first governance document, and created a project board with great issues
 - Read an [interview with Erik Veerman](https://web.archive.org/web/20210920171119/https://signalen.org/en/news/2021-06-21-interview-with-erik-veerman-first-replicator-signalen/), project lead from 'S-Hertogenbosch, about replicating Signalen
-- Our [codebase steward Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) blogged about his views on [product management in open source](https://blog.publiccode.net/codebase%20stewardship/2021/06/08/product-management-in-open-source.html) - spoiler: you are responsible!
+- Our [codebase steward Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) blogged about his views on [product management in open source]({% post_url 2021-06-08-product-management-in-open-source %}) - spoiler: you are responsible!
 - Codebase stewards supported a [Climate Watch](https://en.wikipedia.org/wiki/Climate_Watch) presentation to Danish municipalities
 
 Stewards now do their [weekly planning on a public kanban board](https://github.com/orgs/publiccodenet/projects/12) - follow along with their work.
@@ -43,7 +43,7 @@ Stewards now do their [weekly planning on a public kanban board](https://github.
 
 - Our [community Jitsi tool](https://github.com/publiccodenet/jitsi-community) is ready for use
 - [Eric Herman](https://publiccode.net/who-we-are/team/eric-herman.html) has accepted a 1 year appointment as an interim board member. We look forward to learning from Eric's 6 years on the board of the MariaDB Foundation
-- We've adopted a new approach to keeping the Standard fresh: we're doing an [open monthly backlog review](https://blog.publiccode.net/news/2021/06/14/pruning-our-backlog.html)
+- We've adopted a new approach to keeping the Standard fresh: we're doing an [open monthly backlog review]({% post_url 2021-06-14-pruning-our-backlog %})
 
 ## In case you missed it
 

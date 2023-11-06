@@ -33,7 +33,7 @@ Signalen moved closer to Standard for Public Code compliance by fully meeting th
 
 ### OpenZaak
 
-The OpenZaak community is consolidating healthy community practices. This month they set up a mailing list for upcoming early release notices, and started planning a retro on the [market consultation held last year](https://blog.publiccode.net/codebase%20stewardship/2020/07/01/openzaak-market-consultation-workshops.html). The technical steering team also pruned the backlog; based on this, the product steering team will now decide what to prioritize for procurement and development.
+The OpenZaak community is consolidating healthy community practices. This month they set up a mailing list for upcoming early release notices, and started planning a retro on the [market consultation held last year]({% post_url 2020-07-01-openzaak-market-consultation-workshops %}). The technical steering team also pruned the backlog; based on this, the product steering team will now decide what to prioritize for procurement and development.
 
 ### Omgevingsbeleid
 
@@ -62,7 +62,7 @@ We're hard at work on our annual report and community tools that will be ready i
 We had lots of interesting discussions in March. Check out:
 
 * our podcast [Let's talk about public code, episode 4](https://www.youtube.com/watch?v=5iq1Mqwah7g) with Lea Hemetsberger from Open & Agile Smart Cities, on how they collaborate with cities worldwide to support their digital transformation journey
-* the notes from our [March Standard for Public Code Community call](https://blog.publiccode.net/community%20call/2021/03/16/notes-from-community-call-4-march-2021.html) on how to help people be more confident in using the Standard
+* the notes from our [March Standard for Public Code Community call]({% post_url 2021-03-16-notes-from-community-call-4-march-2021 %}) on how to help people be more confident in using the Standard
 * our co-founder Boris van Hoytema's panel discussion on [smarter, more ethical procurement of open source software in the education, medical, press and government sectors](https://publicspaces.net/timetable/event/aanbod-en-vraag-op-elkaar-afstemmen/) (in Dutch)
 * a [short video about the Governance Game](https://www.youtube.com/watch?v=Dt0WFla4eeM) our codebase steward Jan Ainali created for Mozilla Festival
 

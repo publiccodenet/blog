@@ -10,7 +10,7 @@ categories:
 
 # Episode one of Let's talk about public code!
 
-Recently we [shared the news](https://blog.publiccode.net/news/2020/09/01/on-air-next-our-podcast.html) about our new podcast *Let's talk about public code*. Now that the  premier is over, we would like to share all the streaming and listening links in case you missed the livestream. We also want to thank Dr. Arnau Monterde, coordinator of the popular project [Decidim](https://decidim.org/), who honored us with a lovely chat in this first episode.
+Recently we [shared the news]({% post_url 2020-09-01-on-air-next-our-podcast %}) about our new podcast *Let's talk about public code*. Now that the  premier is over, we would like to share all the streaming and listening links in case you missed the livestream. We also want to thank Dr. Arnau Monterde, coordinator of the popular project [Decidim](https://decidim.org/), who honored us with a lovely chat in this first episode.
 
 ## Where can I find the video?
 

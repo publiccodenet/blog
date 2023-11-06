@@ -29,7 +29,7 @@ In this community call, we talked through our thinking about [publiccode.net](ht
 
 ## Short update from the Foundation for Public Code
 
-* [Signalen is in incubation](https://blog.publiccode.net/news/2021/02/04/signalen-is-in-incubation.html) to fully meet the Standard for Public Code 🎉🎉
+* [Signalen is in incubation]({% post_url 2021-02-04-signalen-is-in-incubation %}) to fully meet the Standard for Public Code 🎉🎉
 * Watch out for a new release of the [Standard for Public Code](https://standard.publiccode.net/) next week
 * We've given lots of conference talks recently, so we've finally [pulled them together on one page](https://projects.publiccode.net/talks-and-articles.html). We'll update this as more as videos are shared (and also tweet!)
 

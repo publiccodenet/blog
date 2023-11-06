@@ -10,7 +10,7 @@ categories:
 
 # Goals for the first quarter 2022
 
-Last fall, we created [quarterly goals for the codebase stewards](https://blog.publiccode.net/news/2021/11/03/stewards-end-of-year-goals.html) based on our [roadmap document](https://about.publiccode.net/organization/roadmap.html).
+Last fall, we created [quarterly goals for the codebase stewards]({% post_url 2021-11-03-stewards-end-of-year-goals %}) based on our [roadmap document](https://about.publiccode.net/organization/roadmap.html).
 It turned out to be a useful way for us to work, so now we are extending it to the whole organization and the entire roadmap.
 
 The sections and tables below are based on the roadmap, but we also made a few additions.
@@ -21,7 +21,7 @@ During the winter, our own awareness was raised about gaps in our own sustainabi
 A new section "Operational excellence" has therefore been added.
 This partly arises from us realizing that onboarding remote administrative staff will be extra burdensome with gaps in the documentation of our own processes.
 
-A central theme emerging from [the first Goals Q1 2022 session](https://blog.publiccode.net/community%20call/2022/01/04/notes-from-community-call-16-december-2021.html) is to consider how to use the non-co-located time in the first quarter to strengthen our organization's process/workflows, creating a more solid base from which to work in the second quarter and beyond.
+A central theme emerging from [the first Goals Q1 2022 session]({% post_url 2022-01-04-notes-from-community-call-16-december-2021 %}) is to consider how to use the non-co-located time in the first quarter to strengthen our organization's process/workflows, creating a more solid base from which to work in the second quarter and beyond.
 
 ## Growing the public code ecosystem
 

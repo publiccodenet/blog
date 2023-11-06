@@ -20,7 +20,7 @@ categories:
 ## Update from the Foundation
 
 * We published our first [standard gap analysis of a codebase](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md) in its repository.
-* We published a [blog post on the Codebase Governance Game](https://blog.publiccode.net/news/2020/03/17/a-look-at-our-codebase-governance-game.html).
+* We published a [blog post on the Codebase Governance Game]({% post_url 2020-03-17-a-look-at-our-codebase-governance-game %}).
 * Due to the current COVID-19 situation we have had several cancelled events (workshops in Denmark, Belgium and Germany). We are working hard to remote-ify the workshops we usually give.
 * Our General Assembly, planned for April 2 has also been postponed; we will get back with a new date as soon as possible.
 

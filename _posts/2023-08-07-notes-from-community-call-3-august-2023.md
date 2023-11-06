@@ -26,7 +26,7 @@ categories:
 
 ## Notes
 
-Four years ago, we discussed archiving of codebases in our [community call]( https://blog.publiccode.net/community%20call/2019/12/11/notes-from-community-call-26-september-2019.html) and had [a proposal for a new criterion](https://github.com/publiccodenet/standard/pull/263) that didn't quite make it.
+Four years ago, we discussed archiving of codebases in our [community call]({% post_url 2019-12-11-notes-from-community-call-26-september-2019 %}) and had [a proposal for a new criterion](https://github.com/publiccodenet/standard/pull/263) that didn't quite make it.
 However we have continued to think about archiving.
 
 There are two primary scenarios where we imagine archiving is of use.

@@ -22,7 +22,7 @@ categories:
 
 ## Update from the Foundation for Public Code
 
-- The Internet Society Netherlands gave us an encouragment award, as part of their [2020 innovation award](https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html)
+- The Internet Society Netherlands gave us an encouragment award, as part of their [2020 innovation award]({% post_url 2020-06-17-isoc-encouragement-award-consider-us-encouraged %})
 - We are currently following up after the OpenZaak market consultation
 
 ## Notes

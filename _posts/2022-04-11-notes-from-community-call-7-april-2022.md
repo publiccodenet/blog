@@ -28,7 +28,7 @@ categories:
 
 The underlying question that we want to discuss is if we can add requirements or guidelines for software architecture and codebase modularity that are helpful within a specific organization, but also generic enough to be useful around the world.
 
-This touches upon topics in previous community calls about implementation guides and strategies (see [March 2021](https://blog.publiccode.net/community%20call/2021/03/16/notes-from-community-call-4-march-2021.html) and [May 2020](https://blog.publiccode.net/community%20call/2020/06/03/notes-from-community-call-7-may-2020.html)).
+This touches upon topics in previous community calls about implementation guides and strategies (see [March 2021]({% post_url 2021-03-16-notes-from-community-call-4-march-2021 %}) and [May 2020]({% post_url 2020-06-03-notes-from-community-call-7-may-2020 %})).
 
 There is also some related recent Github activity:
 

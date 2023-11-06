@@ -24,7 +24,7 @@ categories:
 
 ### Background
 
-Continuing on [our last community call](https://blog.publiccode.net/community%20call/2022/01/11/notes-from-community-call-6-january-2022.html) we want to dig further into how existing policies, laws, regulations and strategies, applicable to and made by a public organization, make demands on codebases developed by them.
+Continuing on [our last community call]({% post_url 2022-01-11-notes-from-community-call-6-january-2022 %}) we want to dig further into how existing policies, laws, regulations and strategies, applicable to and made by a public organization, make demands on codebases developed by them.
 
 This discussion has a long history and several related issues:
 
