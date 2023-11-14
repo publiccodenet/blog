@@ -56,7 +56,7 @@ We're recently enjoyed reading:
 * Nadia Eghbal's [Working in Public: The Making and Maintenance of Open Source Software](https://nayafia.substack.com/p/22-working-in-public)
 * Christina Dunbar-Hester's [Hacking Diversity: The Politics of Inclusion in Open Technology Cultures](https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity)
 * The New America Foundation's [Building and Reusing Open Source Tools for Government](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/)
-* the [Ethical Explorer](https://ethicalexplorer.org/) - a toolkit for identifying the downsides of your new technology
+* the [Ethical Explorer](http://web.archive.org/web/20231025103827/https://ethicalexplorer.org/) - a toolkit for identifying the downsides of your new technology
 
 We hope you've found some way to have a break this summer, and are entering the autumn recharged.
 
