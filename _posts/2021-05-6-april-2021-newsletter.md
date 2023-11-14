@@ -43,7 +43,7 @@ We've been focused on:
 
 * Our first annual report, including establishing templates for appropriate annual financial reporting. The report will be published shortly
 * Creating a salary framework and implementing performance management; including meeting with experts for advice
-* We've built a community Jitsi instance for which [anyone can sign up to create an account](https://meet.community.publiccode.net/accountmanager/register/). It includes a user interface we've built using the open source software we started out with. The repository to fork the software will be available soon
+* We've built a community Jitsi instance for which [anyone can sign up to create an account](https://web.archive.org/web/20230606101943/https://meet.community.publiccode.net/accountmanager/register/). It includes a user interface we've built using the open source software we started out with. The repository to fork the software will be available soon
 * Migrating from Travis to Github Actions for our own repos
 * Opening up our [Nextcloud](https://collaboration.publiccode.net/) instance for our community. They can use ONLYOFFICE to collaborate on office documents in real-time, or use it for secure file sharing
 

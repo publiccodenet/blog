@@ -30,7 +30,7 @@ Spending the day together outside the confinement of our homes was a privilege w
 * Ben: our resident boat captain also works well on land and brings with him an air of urban cool
 * Claus: extends his mental powers of balance, focus, and determination to slacklining
 * Laura: the best at spotting reptiles yet totally unaware of the power of IoT gadgets
-* Alba: was curious about everyone’s favorite Amsterdam swimming spots (to survive the heatwave), which led Jan to create [this open-source map](https://getethermap.org/m/amsterdamswim)
+* Alba: was curious about everyone’s favorite Amsterdam swimming spots (to survive the heatwave), which led Jan to create [this open-source map](https://web.archive.org/web/20230330135716/https://getethermap.org/m/amsterdamswim)
 
 We realized that spending time together in the same physical space doesn't only add value to our interactions, but is a lot of fun! We are already thinking about how we can make our upcoming strategy session happen in person (maybe we can rent [one of these](https://en.wikipedia.org/wiki/Open_air_school)?). Now all that remains is hoping for an Indian summer!
 
