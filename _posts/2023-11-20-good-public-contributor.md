@@ -42,7 +42,7 @@ However, for a contributor representing a public organization, it's even more im
 * The goals and aspirations of your organization. Do you plan further contributions already, and if so, of what kind? How are you using the codebase, and what is your scale of deployment/implementation?
 
 These points may not really fit in to a pull request, so you might want to consider starting a separate discussion in a place where the community is having their discussions (which might be something like a forum, chat or mailing list).
-Naturally, the importance of being clear about these points increases with the size of your contribution - if you just fix a small bug, there is not really a need to declare all these things.
+Naturally, the importance of being clear about these points increases with the size of your contribution - if you just fix a small bug, then of course this would be excessive.
 
 Healthy open source codebases have a great diversity in their communities and public organizations are likely to be seen as valuable contributors by maintainers, especially as they are uniquely positioned to engage on very long time scales.
 
