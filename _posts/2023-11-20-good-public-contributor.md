@@ -1,11 +1,11 @@
 ---
 title: How to be a good codebase contributor as a public organization
 date: 2023-11-20
-author: Eric Herman and Jan Ainali
+author: Eric Herman, Jan Ainali
 type: blogpost
-excerpt:  For a contributor representing a public organization, it's even more important to give maintainers the right expectations
+excerpt:  For contributors representing public organizations, it's even more important to give maintainers the right expectations
 categories:
-  - News
+  - Codebase stewardship
 ---
 
 # How to be a good codebase contributor as a public organization
