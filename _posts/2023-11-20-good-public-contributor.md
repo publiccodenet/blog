@@ -36,10 +36,11 @@ However, for a contributor representing a public organization, it's even more im
 * Your organization's current scale of commitment. What is your headcount or budget?
 * What is your organization's ability to participate in the future maintenance of the contribution?
 * How formalized is your involvement? Is there specific support from policy and or management? Or are you in a situation such that if the role of one engaged contributor changes, the involvement may dry up?
-* What is the expected duration of your contributors? Are the contributors from your org short term temps or experts with long term contracts?
-* Will your contributors be paid to gain depth to become reviewers over time?
+* What is the expected duration of your contributors? Are the contributors from your organization short term contractors or embedded experts with long term contracts?
+* Will your contributors be paid to gain depth and become reviewers over time?
 * What policy objectives, if any, are being addressed by your participation or contributions, for example adding GDPR compliance, or accessibility requirements, or a feature that was a political campaign promise?
 * The goals and aspirations of your organization. Do you plan further contributions already, and if so, of what kind? How are you using the codebase, and what is your scale of deployment/implementation?
+* How is your orgainzation able to contribute? Code and documentation contributions are great, but many open source communities can also benefit from other forms of support, including community management, financing, help with governance, marketing, endorsements, and so on.
 
 These points may not really fit in to a pull request, so you might want to consider starting a separate discussion in a place where the community is having their discussions (which might be something like a forum, chat or mailing list).
 Naturally, the importance of being clear about these points increases with the size of your contribution - if you just fix a small bug, then of course this would be excessive.
