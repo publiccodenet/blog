@@ -1,6 +1,6 @@
 ---
 title: How to be a good codebase contributor as a public organization
-date: 2023-??-??
+date: 2023-11-20
 author: Eric Herman and Jan Ainali
 type: blogpost
 excerpt:  For a contributor representing a public organization, it's even more important to give maintainers the right expectations
@@ -21,7 +21,7 @@ That made us think that there might be a knowledge gap to fill.
 ![illustration of a purple hand holding holding a heart with containing HTML code symbols, against a peach background](https://illustrations.publiccode.net/illustrations/service-3.svg)
 
 There are many contribution guides out there, and the [FreeCodeCamp has collected a fairly comprehensive list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) of them.
-It is a good start for anyone that wants to be a helpful contributor. 
+It is a good start for anyone that wants to be a helpful contributor.
 While there are too many for most to review them all, the one-line descriptions will help select the ones of interest.
 
 Additionally, we find these to be particularly useful if you are contributing on behalf of a larger organization:
@@ -35,8 +35,8 @@ However, for a contributor representing a public organization, it's even more im
 
 * Your organization's current scale of commitment. What is your headcount or budget?
 * What is your organization's ability to participate in the future maintenance of the contribution?
-* How formalized is your involvement? Is there specific support from policy and or management? Or are you in a situation such that if the role of one "firesoul" changes, the involvement may dry up?
-* What is the expected duration of your contributors? Are the contributors from your org short term temps or experts with long term contracts? 
+* How formalized is your involvement? Is there specific support from policy and or management? Or are you in a situation such that if the role of one engaged contributor changes, the involvement may dry up?
+* What is the expected duration of your contributors? Are the contributors from your org short term temps or experts with long term contracts?
 * Will your contributors be paid to gain depth to become reviewers over time?
 * What policy objectives, if any, are being addressed by your participation or contributions, for example adding GDPR compliance, or accessibility requirements, or a feature that was a political campaign promise.
 * The goals and aspirations of your organization. Do you plan further contributions already, and if so, of what kind? How are you using the codebase, and what is your scale of deployment/implementation?
