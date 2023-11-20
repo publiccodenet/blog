@@ -18,6 +18,8 @@ The [Standard for Public Code](https://standard.publiccode.net) does not cover t
 Instead, it focuses on the existing community and how they can welcome more contributors.
 That made us think that there might be a knowledge gap to fill.
 
+![illustration of a purple hand holding holding a heart with containing HTML code symbols, against a peach background](https://illustrations.publiccode.net/illustrations/service-3.svg)
+
 There are many contribution guides out there, and the [FreeCodeCamp has collected a fairly comprehensive list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) of them.
 It is a good start for anyone that wants to be a helpful contributor. 
 While there are too many for most to review them all, the one-line descriptions will help select the ones of interest.
