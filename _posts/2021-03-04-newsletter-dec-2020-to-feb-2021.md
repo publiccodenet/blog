@@ -84,7 +84,7 @@ We've talked a lot this winter! Starting with the most recent, we've been at:
 - [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/), by Boris van Hoytema at [FOSDEM 2021](https://fosdem.org/2021/) (February 2021)
 - [OSPOs Everywhere: Universities, Governments and Businesses](https://youtu.be/nRohU4LxO-E), panel discussion with Boris van Hoytema at the [EU Open Source Policy Summit 2021](https://web.archive.org/web/20210223012655/https://openforumeurope.org/event/policy-summit-2021/) (February 2021)
 - Standard for Public Code, by Jan Ainali at [Policies for open source in public agencies](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/) [[slides](https://hackmd.io/@Ainali/ryFCCIgCw#/)] [[video](https://youtu.be/oxCtmQrKAls?t=3259)] (January 2021) (in Swedish)
-- [Software becomes Public Infrastructure](https://www.citybycity.com/session/software-becomes-public-infrastructure), interview with Ben Cerveny at the Open and Agile Smart Cities CITYxCITY Festival (January 2021)
+- [Software becomes Public Infrastructure](https://web.archive.org/web/20210122091904/https://www.citybycity.com/session/software-becomes-public-infrastructure), interview with Ben Cerveny at the Open and Agile Smart Cities CITYxCITY Festival (January 2021)
 - Open Source in the Public Sector, by Jan Ainali at [GovTechDay](https://web.archive.org/web/20201021073851/https://www.govtechday.se/program) [[slides](https://hackmd.io/@Ainali/H1EQUI99D#/)] (December 2020) (in Swedish)
 
 You can also [see all our talks and articles](https://projects.publiccode.net/talks-and-articles.html).
