@@ -19,7 +19,7 @@ categories:
 
 ## Updates from the Foundation
 
-* We'll be running [a devroom at FOSDEM 2024](https://blog.publiccode.net/news/2023/11/13/fosdem-2024-public-code-and-digital-public-goods-devroom-call-for-proposal.html) together with the [Digital Public Good Alliance](https://digitalpublicgoods.net/)
+* We'll be running [a devroom at FOSDEM 2024](https://blog.publiccode.net/news/2023/11/13/fosdem-2024-public-code-and-digital-public-goods-devroom-call-for-proposal.html) together with the [Digital Public Goods Alliance](https://digitalpublicgoods.net/)
 * We completed an assessment of [Wekan](https://wekan.github.io/standard-for-public-code/)
 
 ## Notes
@@ -32,7 +32,7 @@ However, many open source projects have community contributed translations, and 
 Therefore, we created a [proposal for change](https://github.com/publiccodenet/standard/pull/999) to address this.
 
 During the call we discussed this proposal and what it implies.
-One important observation was that it may not matter if it is the maintainers doing the translations or the community.
+One important observation was that it may not matter whether it is the maintainers doing the translations or the community.
 Rather, it would be better to use terms like authoritative translations - for translations the maintainers have committed to - and courtesy translations, for community contributed or automatic machine translations.
 Even during the call, some suggestions to the pull request were made to this effect.
 
@@ -49,7 +49,7 @@ This does not mean it must be only in English; it can have complementary transla
 They can even be leading, but there must be an authoritative version in English.
 Making this more clear could make people less hesitant about the standard, both for practical and political reasons.
 
-We were also discussing the tricky quesion of how to make clear what version the documentation is for.
+We also discussed the tricky quesion of how to make clear what version the documentation is for.
 However, we thought that there is not enough widespread best practices out there to crystalize it into requirements.
 Possibly, we could make an issue on the implementation guide to add those who are doing good work as examples.
 
