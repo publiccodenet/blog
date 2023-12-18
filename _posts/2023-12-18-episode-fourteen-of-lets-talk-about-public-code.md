@@ -12,7 +12,7 @@ categories:
 
 In this fourteenth episode, we talked to Åsa Jagre at the Swedish Agency for Marine and Water Management and Konstantin Ay from Intunio working on a Jitsi plugin for Outlook. We focused on up-stream first development and code collaboration.
 
-Unfortunately, Åsa had a cough, so we are reading her messages from chat in the interview.
+Unfortunately, Åsa had a bad cough, so we are reading her messages from chat in the interview.
 
 Links mentioned in the show:
 
