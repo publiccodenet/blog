@@ -14,13 +14,15 @@ In this fourteenth episode, we talked to Åsa Jagre at the Swedish Agency for Ma
 
 Unfortunately, Åsa had a bad cough, so we are reading her messages from chat in the interview.
 
+<iframe title="#14 - Åsa Jagre and Konstantin Ay, Jitsi Outlook plugin" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px); max-width:560px; height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=6fmhx-152ab03-pb&share=1&download=1&fonts=Arial&skin=2&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=150" loading="lazy"></iframe>
+
 Links mentioned in the show:
 
 * [Jitsi-Outlook plugin](https://github.com/diggsweden/jitsi-outlook/)
 * [Open Source Project Template](https://github.com/diggsweden/open-source-project-template)
 * [asom collaboration](https://github.com/diggsweden/asom-docs)
 
-You can find the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/14-asa-jagre-and-konstantin-ay-jitsi-outlook-plugin/) or by searching in your favorite podcast app.
+You can subscribe to the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/14-asa-jagre-and-konstantin-ay-jitsi-outlook-plugin/) or by searching in your favorite podcast app.
 
 [![Konstantin, Åsa, Eric and Jan chatting in a video chat grid]({{site.url}}/assets/screenshot-episode-14.png)](https://www.youtube.com/watch?v=GK_iQWzsZLM)
 
