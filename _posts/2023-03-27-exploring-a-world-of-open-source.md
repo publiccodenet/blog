@@ -6,6 +6,12 @@ type: blogpost
 excerpt: In 2030, governments only use open source - a thought experiment
 categories:
   - News
+# renamed:
+#  _posts/2023-03-27-exploring-a-world-of open-source.md
+#      to:
+#  _posts/2023-03-27-exploring-a-world-of-open-source.md
+redirect_from:
+  - /news/2023/03/27/exploring-a-world-of open-source.html
 ---
 
 # Exploring a world of only open source at MozFest 2023
