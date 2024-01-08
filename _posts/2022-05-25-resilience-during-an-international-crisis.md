@@ -102,7 +102,7 @@ How much additional value would there be in having an entire city or country coo
 
 See also: [Locked Shields by CCDCOE](https://ccdcoe.org/exercises/locked-shields/).
 
-![]({{site.url}}/assets/practice in amsterdam.png)
+![]({{site.url}}/assets/practice-in-amsterdam.png)
 
 **Charlotte:**
 
