@@ -17,5 +17,6 @@ jobs:
           ruby-version: '2.7'
       - run: bundle install
       - run: ./script/test-markdown.sh
+      - run: ./script/check-file-names.sh
       - run: ./script/test-without-link-check.sh
       - run: ./script/check-new-links.sh
