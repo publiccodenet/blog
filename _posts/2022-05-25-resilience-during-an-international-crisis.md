@@ -55,7 +55,7 @@ Vulnerabilities in the code can in general be addressed with external code revie
 Running security tests on your own infrastructure is just good practice and the term ethical hacking is probably not really applicable to that.
 If we’re talking about unsolicited ‘ethical hacking’ from people outside of public organizations, I would say that it is outside of our scope.
 
-![]({{site.url}}/assets/cyber war-01.png)
+![]({{site.url}}/assets/cyber-war-01.png)
 
 **Charlotte:**
 
