@@ -17,7 +17,7 @@ Edited by Kehinde Bademosi & Elena Findley-de Regt
 
 *This collaborative document is an exploratory conversation between practitioners of Public Code and various actors in the business of fool-proofing digital public infrastructure.*
 
-![]({{site.url}}/assets/resilience cover pc-02.png)
+![]({{site.url}}/assets/resilience-cover-pc-02.png)
 
 > How are we building the public infrastructure of the future?
 
