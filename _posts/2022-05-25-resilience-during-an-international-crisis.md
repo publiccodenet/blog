@@ -32,7 +32,7 @@ If more public organizations are helping develop it, the impact will be less har
 
 I agree with Jan: Collaborative methods of public IT-infrastructure are essential, and beside collaboration with other experts on same tasks and services to the citizens, open source gives a possibility of choosing several vendors freely, which means that these public organisations are less vulnerable if a malware attack hits a single vendor.
 
-![]({{site.url}}/assets/if more public orgs.png)
+![]({{site.url}}/assets/if-more-public-orgs.png)
 
 **Eric:**
 
