@@ -32,7 +32,7 @@ If more public organizations are helping develop it, the impact will be less har
 
 I agree with Jan: Collaborative methods of public IT-infrastructure are essential, and beside collaboration with other experts on same tasks and services to the citizens, open source gives a possibility of choosing several vendors freely, which means that these public organisations are less vulnerable if a malware attack hits a single vendor.
 
-![]({{site.url}}/assets/if more public orgs.png)
+![]({{site.url}}/assets/if-more-public-orgs.png)
 
 **Eric:**
 
@@ -46,7 +46,7 @@ Together this creates systems with teams which understand their robustness and r
 Vulnerabilities in the code can in general be addressed with external code reviews on a regular basis, which also means that code reviews or bug hunts should be a part of the ongoing process of maintaining the source code.
 **This is not, as I see it, a constraint to the code but a requirement for the maintenance process.**
 
-![]({{site.url}}/assets/bug hunt-01.png)
+![]({{site.url}}/assets/bug-hunt-01.png)
 
 > Since ethical hacking is a thing, how far is too far?
 
@@ -55,7 +55,7 @@ Vulnerabilities in the code can in general be addressed with external code revie
 Running security tests on your own infrastructure is just good practice and the term ethical hacking is probably not really applicable to that.
 If we’re talking about unsolicited ‘ethical hacking’ from people outside of public organizations, I would say that it is outside of our scope.
 
-![]({{site.url}}/assets/cyber war-01.png)
+![]({{site.url}}/assets/cyber-war-01.png)
 
 **Charlotte:**
 
