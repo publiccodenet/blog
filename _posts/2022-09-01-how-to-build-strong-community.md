@@ -10,7 +10,7 @@ categories:
 
 # How to build a strong community for developing robust and valuable software
 
-![People sitting in armchairs around a coffee table writing on cards]({{site.url}}/assets/Storytelling Workshop Public Code_Amsterdam.jpg)
+![People sitting in armchairs around a coffee table writing on cards]({{site.url}}/assets/Storytelling-Workshop-Public-Code-Amsterdam.jpg)
 *Participants at the Foundation for Public Code Storytelling workshop in Amsterdam*
 
 ## Public Code Promising Practices in conversation with Leslie Hawthorn from Red Hat
