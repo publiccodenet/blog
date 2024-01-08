@@ -46,7 +46,7 @@ Together this creates systems with teams which understand their robustness and r
 Vulnerabilities in the code can in general be addressed with external code reviews on a regular basis, which also means that code reviews or bug hunts should be a part of the ongoing process of maintaining the source code.
 **This is not, as I see it, a constraint to the code but a requirement for the maintenance process.**
 
-![]({{site.url}}/assets/bug hunt-01.png)
+![]({{site.url}}/assets/bug-hunt-01.png)
 
 > Since ethical hacking is a thing, how far is too far?
 
