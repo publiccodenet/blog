@@ -66,7 +66,7 @@ We had lots of interesting discussions in March. Check out:
 * our co-founder Boris van Hoytema's panel discussion on [smarter, more ethical procurement of open source software in the education, medical, press and government sectors](https://publicspaces.net/timetable/event/aanbod-en-vraag-op-elkaar-afstemmen/) (in Dutch)
 * a [short video about the Governance Game](https://www.youtube.com/watch?v=Dt0WFla4eeM) our codebase steward Jan Ainali created for Mozilla Festival
 
-We also ran sessions at Mozilla Festival on [how public code can transform the future of cities](https://schedule.mozillafestival.org/session/TDHQ3D-1) and [how individuals can affect their government's technology choices](https://schedule.mozillafestival.org/session/CSH7RM-1).
+We also ran sessions at Mozilla Festival on [how public code can transform the future of cities](https://web.archive.org/web/20210420042755/https://schedule.mozillafestival.org/session/TDHQ3D-1) and [how individuals can affect their government's technology choices](https://web.archive.org/web/20210305103023/https://schedule.mozillafestival.org/session/CSH7RM-1).
 
 ## Upcoming community calls
 
