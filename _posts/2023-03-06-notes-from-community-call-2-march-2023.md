@@ -6,6 +6,11 @@ type: blogpost
 excerpt: Reflecting on the What this does not do sections
 categories:
   - Community call
+# renamed:
+#  _posts/2023-03-06-notes-from-community-call-2 march-2023.md
+#  _posts/2023-03-06-notes-from-community-call-2-march-2023.md
+redirect_from:
+  - /community call/2023/03/06/notes-from-community-call 2-march-2023.html
 ---
 
 # 2 March 2023 Standard for Public Code community call notes
