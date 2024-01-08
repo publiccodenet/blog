@@ -20,7 +20,7 @@ categories:
 ## News from the Foundation for Public Code
 
 * New release for the Governance game, [version 1.0.2](https://github.com/publiccodenet/governance-game/releases/tag/1.0.2)
-* We will have a session at MozFest: [In 2030, governments only use open source: a thought experiment](https://schedule.mozillafestival.org/session/BRR3GV-1)
+* We will have a session at MozFest: [In 2030, governments only use open source: a thought experiment](https://web.archive.org/web/20230328082818/https://schedule.mozillafestival.org/session/BRR3GV-1)
 
 ## Notes
 
