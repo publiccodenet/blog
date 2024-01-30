@@ -16,7 +16,7 @@ In this fifteenth episode, we talked to Astor Nummelin, Executive Director at Op
 
 Links related to the discussion:
 
-* [Some Thoughts on the Institutionalisation of Software](https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/)
+* Blogpost: [Some Thoughts on the Institutionalisation of Software](https://openforumeurope.org/some-thoughts-on-the-institutionalisation-of-software/)
 * [Open Forum Europe](https://openforumeurope.org)
 
 You can subscribe to the podcast at [podcast.publiccode.net](https://podcast.publiccode.net/e/lets-talk-about-public-code-15-astor-nummelin-open-forum-europe/) or by searching in your favorite podcast app.
