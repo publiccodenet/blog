@@ -34,7 +34,7 @@ A: That is very important to consider in order to ensure collaboration. In gener
 Q: When is the last chance to comment on the upcoming release?
 A: We plan to release on Wednesday, September 7, but corrections and comments are always welcome.
 
-Q: We have made this [decision tree](https://guide-juridique-logiciel-libre.etalab.gouv.fr/) to help figure out if a codebase can be published as open source. Could something similar be useful for the Standard?
+Q: We have made this [decision tree](https://web.archive.org/web/20230201062301/https://guide-juridique-logiciel-libre.etalab.gouv.fr/) to help figure out if a codebase can be published as open source. Could something similar be useful for the Standard?
 A: Yes! We have had [plans](https://github.com/publiccodenet/projects/issues/77) to create some sort of self evaluation guide ourselves for a long time, but we have not found a good framework. This will be very helpful.
 
 Q: Are you on Twitter?
