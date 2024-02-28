@@ -12,7 +12,7 @@ categories:
 
 We are winding down the current composition of the European office of the Foundation for Public Code, because our existing financial model has not proved to be sustainable.
 
-All of the full-time staff associated with our European office are being laid off from their full-time contracts.
+All of the full-time staff associated with our European office are being laid off.
 We are extremely grateful for their contributions and look forward to potentially working with them in other capacities in the future.
 
 The North American chapter of the Foundation for Public Code will continue to move forward with an expanding set of project-based initiatives and collaborations with public administrations.
