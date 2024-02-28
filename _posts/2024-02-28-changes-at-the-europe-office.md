@@ -17,8 +17,6 @@ We are extremely grateful for their contributions and look forward to potentiall
 
 The North American chapter of the Foundation for Public Code will continue to move forward with an expanding set of project-based initiatives and collaborations with public administrations.
 
-![Europe office in a grid]({{site.url}}/assets/lessons-learned.png)
-
 ## Challenges along the way
 
 We had initially built our organizational structure following a Linux Foundation model, including having the capacity to steward codebases and communities within our organization.
