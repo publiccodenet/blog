@@ -16,6 +16,7 @@ All of the full-time staff associated with our European office are being laid of
 We are extremely grateful for their contributions and look forward to potentially working with them in other capacities in the future.
 
 The North American chapter of the Foundation for Public Code will continue to move forward with an expanding set of project-based initiatives and collaborations with public administrations.
+Additionally, the Foundation will continue to participate in policy conversations around the growing ecosystem of codebase stewardship organizations at the European level.
 
 ## Challenges along the way
 
