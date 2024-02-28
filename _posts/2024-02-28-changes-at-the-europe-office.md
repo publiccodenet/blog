@@ -61,6 +61,8 @@ The Foundation for Public Code’s role in the ecosystem of digital public goods
 We have worked hard on moving the awareness and practice of codebase stewardship and governance forward and have seen positive results.
 There will be more news about this transformation in our future posts, but for now we would like to honor the enormous contributions and efforts of the collection of talented and hard-working individuals that are the outgoing employees of the European office of the Foundation for Public Code.
 
+![Europe office in a grid]({{site.url}}/assets/lessons-learned.png)
+
 Thank you so much Claus, Elena, Eric, Jan, and Kehinde.
 
 Ben Cerveny,
