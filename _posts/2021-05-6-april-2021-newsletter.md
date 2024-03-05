@@ -19,7 +19,7 @@ Our highlights this month were:
 In May, join us for:
 
 * 6 May: [Podcast episode 5 livestream](https://www.youtube.com/watch?v=zPF_3DpNA0A) - we'll talk to Amy van Someren about 's-Hertogenbosch's experience as the first Signalen replicator
-* 6 May: Standard for Public Code [community call on vendor and platform independence](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw)
+* 6 May: Standard for Public Code community call on vendor and platform independence
 * 20 May: Foundation for Public Code community call - [help pick the topic](https://github.com/publiccodenet/blog/issues/183)!
 
 ## Codebase stewardship
