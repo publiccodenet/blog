@@ -1,7 +1,7 @@
 ---
 title: "Video: Collaborative Code is the Future of Cities"
 date: 2020-02-07
-author: elena
+author: Elena Findley-de Regt
 type: blogpost
 excerpt: Ben Cerveny's talk at DecidimFest 2019
 categories:

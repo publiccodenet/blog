@@ -1,7 +1,7 @@
 ---
 title:  "We've won our first award: consider us encouraged! <3"
 date: 2020-06-17
-author: elena
+author: Elena Findley-de Regt
 type: blogpost
 category: news
 excerpt: We're delighted to win an Encourgament Award from Internet Society Netherlands (as part of the 2020 Innovation Award)

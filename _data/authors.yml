@@ -54,6 +54,12 @@ Eric Herman:
     title: Lead Codebase Steward for Quality
     uri: https://publiccode.net/who-we-are/team/eric-herman.html
 
+Felix Faassen:
+    nick: felix
+    name: Felix Faasen
+    title: Codebase Steward
+    uri: https://publiccode.net/who-we-are/former-team-members.html
+
 Jan Ainali:
     nick: jan
     name: Jan Ainali
@@ -85,3 +91,18 @@ Ryan Conlan:
     twitter: prahjex2501
     title: Designer
 
+Eric Herman, Charlotte Heikendorf, Jan Ainali:
+    nick: multiple
+    name: Eric Herman, Charlotte Heikendorf, Jan Ainali
+
+Jan Ainali, Elena Findley-de Regt:
+    nick: multiple2
+    name: Jan Ainali, Elena Findley-de Regt
+
+Eric Herman, Jan Ainali:
+    nick: multiple3
+    name: Eric Herman, Jan Ainali
+
+Elena Findley-de Regt, Laura Scheske:
+    nick: multiple4
+    name: Elena Findley-de Regt, Laura Scheske
