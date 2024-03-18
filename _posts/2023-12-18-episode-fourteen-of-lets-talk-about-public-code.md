@@ -14,7 +14,7 @@ In this fourteenth episode, we talked to Åsa Jagre at the Swedish Agency for Ma
 
 Unfortunately, Åsa had a bad cough, so we are reading her messages from chat in the interview.
 
-<iframe title="#14 - Åsa Jagre and Konstantin Ay, Jitsi Outlook plugin" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px); max-width:560px; height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=6fmhx-152ab03-pb&share=1&download=1&fonts=Arial&skin=2&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=150" loading="lazy"></iframe>
+<iframe title="#14 - Åsa Jagre and Konstantin Ay, Jitsi Outlook plugin" width="640" height="166" scrolling="no" frameborder="no" src="https://open.audio/embed.html?&amp;type=track&amp;id=413837"></iframe>
 
 Links mentioned in the show:
 

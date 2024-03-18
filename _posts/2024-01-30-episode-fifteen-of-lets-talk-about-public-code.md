@@ -12,7 +12,7 @@ categories:
 
 In this fifteenth episode, we talked to Astor Nummelin, Executive Director at Open Forum Europe about how software is getting to a point that it is becoming institutionalised and what we can do in light of this.
 
-<iframe title="#15 - Astor Nummelin, Open Forum Europe" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px); max-width:560px; height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=hxz6n-156646f-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=2&font-color=auto&logo_link=episode_page&btn-skin=7" loading="lazy"></iframe>
+<iframe title="#15 Astor Nummelin - Open forum Europe" width="640" height="166" scrolling="no" frameborder="no" src="https://open.audio/embed.html?&amp;type=track&amp;id=413838"></iframe>
 
 Links related to the discussion:
 
