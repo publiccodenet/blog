@@ -3,7 +3,7 @@ title: "How to Use the Standard for Public Code for Your Digital Transformation 
 date: 2022-08-31
 author: Kehinde Bademosi
 type: blogpost
-excerpt:
+excerpt: Explanation and tips
 categories:
 
 - codebase stewardship
