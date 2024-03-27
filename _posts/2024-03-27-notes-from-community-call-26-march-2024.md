@@ -41,7 +41,7 @@ In light of the European office winding down (see above) we are speeding up that
 ### Discussion
 
 The call opened with the question: *What would be some important governance aspects for you to feel empowered to continue to use and feel inspired to contribute to and consider to help maintain the Standard for Public Code?*
-Some values that were mentioned was transparency, openness, meritocracy and neutrality.
+Some values that were mentioned were transparency, openness, meritocracy and neutrality.
 It was also mentioned that it would be nice to not have to bootstrap the governance, rather, stepping in to some existing framework would be better.
 Another point that was made was that creating, and "staffing", an executive body from the start, rather than just publishing a GOVERNANCE file, would make a tremendous difference.
 Some also expressed it to be essential that people with historical knowledge of maintaining the Standard for Public Code to be part of this executive body.
