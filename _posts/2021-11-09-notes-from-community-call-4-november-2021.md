@@ -21,7 +21,7 @@ categories:
 * We have [launched a strategic council]({% post_url 2021-09-13-launching-our-strategic-council %})
 * Dan Hill is [joining us in our strategic council](https://about.publiccode.net/organization/strategic-council.html)
 * Signalen is [live in a third municipality](https://meldingen.alphenaandenrijn.nl/)
-* We will start hosting (unofficial) [community translations](https://github.com/publiccodenet/community-translations-standard) of the Standard for Public Code
+* We will start hosting (unofficial) [community translations](https://github.com/standard-for-public-code/community-translations-standard) of the Standard for Public Code
 
 ## Glossary
 

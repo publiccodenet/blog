@@ -18,7 +18,7 @@ categories:
 ## Updates from the Foundation
 
 * FOSDEM is this weekend, [check out the schedule](https://fosdem.org/2022/schedule/room/dpublic_code/)
-* We have published the [community translations of the Standard for Public Code](https://publiccodenet.github.io/community-translations-standard/)
+* We have published the [community translations of the Standard for Public Code](https://standard-for-public-code.github.io/community-translations-standard/)
 
 ## Notes
 

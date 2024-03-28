@@ -46,4 +46,4 @@ While talking, we also identified a need of expanding the value of this under th
 
 ### Community translations
 
-We briefly informed about the new [community translations for the Standard for public Code](https://github.com/publiccodenet/community-translations-standard).
+We briefly informed about the new [community translations for the Standard for public Code](https://github.com/standard-for-public-code/community-translations-standard).
