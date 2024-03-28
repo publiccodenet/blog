@@ -43,4 +43,4 @@ When it comes to long-term archiving, we haven't learned from any codebases exac
 Therefore, we should try to reach out to them and learn about what they do.
 
 We also discussed if this should be an entire criterion or be added as requirements in existing ones like Make your codebase findable or Make the codebase reusable and portable, but it depends on what we learn.
-What we will do right now is to add some guidance in the [Community implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/) under Bundle policy and code that there might be laws about this and that the community should describe what their process is for abiding by them.
+What we will do right now is to add some guidance in the [Community implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/) under Bundle policy and code that there might be laws about this and that the community should describe what their process is for abiding by them.

@@ -115,4 +115,4 @@ Professionalize an exemplary open public organization
 | | **ASAP**: Get general assembly to validate policy plan |
 | | **ASAP**: Follow-up with members |
 | | Before 1 July: Create annual report |
-| | Establish publishing process for [Standard community translations](https://github.com/publiccodenet/community-translations-standard) |
+| | Establish publishing process for [Standard community translations](https://github.com/standard-for-public-code/community-translations-standard) |

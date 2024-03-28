@@ -21,7 +21,7 @@ categories:
 ## Updates from the Foundation
 
 * New release of the Standard for Public Code: [version 0.6.0](https://github.com/publiccodenet/standard/releases/tag/0.6.0).
-* We have made [a bootstrap script](https://github.com/publiccodenet/community-translations-standard#contribute) that makes starting a community translation of the Standard less tedious.
+* We have made [a bootstrap script](https://github.com/standard-for-public-code/community-translations-standard#contribute) that makes starting a community translation of the Standard less tedious.
 
 ## Notes
 

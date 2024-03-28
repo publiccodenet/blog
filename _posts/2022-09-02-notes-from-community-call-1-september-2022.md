@@ -19,7 +19,7 @@ categories:
 
 ## Updates from the Foundation
 
-* The [Implementation guide for the Standard for Public Code](https://publiccodenet.github.io/community-implementation-guide-standard/) is now live - please add to it!
+* The [Implementation guide for the Standard for Public Code](https://standard-for-public-code.github.io/community-implementation-guide-standard/) is now live - please add to it!
 
 ## Notes
 

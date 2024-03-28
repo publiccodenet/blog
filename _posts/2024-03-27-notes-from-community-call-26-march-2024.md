@@ -56,7 +56,7 @@ The OSPO alliance kindly offered to provide infrastructure for the continued wor
 Luckily, the existing infrastructure will continue to exist, so there is no urgent need of that to date.
 
 Besides the governance question, it was expressed that continued knowledge sharing between users of the Standard is important.
-Partly, the [Community built companion](https://publiccodenet.github.io/community-implementation-guide-standard/) can solve this already, by being a place to share good ways of implementing the Standard for Public Code.
+Partly, the [Community built companion](https://standard-for-public-code.github.io/community-implementation-guide-standard/) can solve this already, by being a place to share good ways of implementing the Standard for Public Code.
 Similarly, a wish for the community to help disseminating the Standard for Public Code and showing good examples was expressed.
 Also there the Community built companion could be a solution, not to mention the [list of codebases that are compliant](https://standard-compliant.publiccode.net/).
 For the rest, using [the mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) to share knowledge and examples might be a good start.

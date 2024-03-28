@@ -30,4 +30,4 @@ The Demodam website is currently under development, so meet the community by:
 - Following their [LinkedIn updates](https://www.linkedin.com/company/demodam)
 - Suscribing to their [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/)
 
-You can find more information about Demodam in [this blogpost by Edo Plantinga](https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website) and on [Demodam.org](https://demodam.org)
+You can find more information about Demodam in [this blogpost by Edo Plantinga](https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website) and on [Demodam.org](https://web.archive.org/web/20231204123513/https://demodam.org/).

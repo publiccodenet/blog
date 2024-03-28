@@ -50,7 +50,7 @@ If that urge decreases, it is a good sign of maturity. So observing our own reac
 Another way would be to talk with people in our community that are using the Standard. The best way to do this would probably be long form qualitative interviews to tease this out.
 
 To push the Standard towards maturity, we discussed the idea of doing more quick iterations.
-This could possibly build on the idea of a shorter version questionnaire, like the one we had planned for a drop-in session at the March 2020 [SCORE developer week in Ghent](https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/22).
+This could possibly build on the idea of a shorter version questionnaire, like the one we had planned for a drop-in session at the March 2020 [SCORE developer week in Ghent](https://score.community/t/score-developer-sprint-week-in-ghent-2020/806/).
 
 As a side track we discussed the template we used for the analysis, since it was when using it that we felt the need for deep links.
 Jan expressed that what was hard sometimes was to keep the context of each requirement in mind. Elena showed [an example of expandable requirements](https://www.gov.uk/service-manual/service-standard/point-6-have-a-multidisciplinary-team) from the UK.
