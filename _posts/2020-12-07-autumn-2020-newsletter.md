@@ -39,7 +39,7 @@ Throughout the autumn, the OpenZaak [mailing list](https://lists.publiccode.net/
 
 #### New work
 
-In October we released a [new version (0.2.0)](https://github.com/publiccodenet/standard/releases/tag/0.2.0) of the Standard for Public Code.
+In October we released a [new version (0.2.0)](https://github.com/standard-for-public-code/standard-for-public-code/releases/tag/0.2.0) of the Standard for Public Code.
 
 Stewards held workshops with two development teams on how to apply the Standard in their codebase development and specifically in their environment.
 

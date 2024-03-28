@@ -19,7 +19,7 @@ categories:
 
 ## Updates from the Foundation
 
-* We have released [version 0.7.1](https://github.com/publiccodenet/standard/releases/tag/0.7.1) of the standard.
+* We have released [version 0.7.1](https://github.com/standard-for-public-code/standard-for-public-code/releases/tag/0.7.1) of the standard.
 * There is now [a badge](https://github.com/publiccodenet/standard#standard-for-public-code) to show that a codebase has committed to meet the criteria of the standard.
 * We have launched a site where codebases that meet the standard will be listed: [standard-compliant.publiccode.net](http://standard-compliant.publiccode.net/).
 * We will be giving [a presentation about the Standard for Public Code](https://programm.froscon.org/2023/events/2960.html) at [FrOsCon](https://froscon.org/en/) on Sunday.
