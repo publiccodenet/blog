@@ -23,7 +23,7 @@ categories:
 
 ## Updates from the Foundation
 
-* We now have a [folded one-page checklist]( https://github.com/publiccodenet/standard/releases/download/0.7.1/standard-checklist-folded-0.7.1.pdf) in the Standard with all 111 requirements.
+* We now have a [folded one-page checklist](https://github.com/standard-for-public-code/standard-for-public-code/releases/download/0.7.1/standard-checklist-folded-0.7.1.pdf) in the Standard with all 111 requirements.
 * The Open Source Project Template is [now in incubation](https://publiccode.net/codebases/open-source-project-template.html).
 
 ## Notes
