@@ -25,7 +25,7 @@ What we are launching now is a standalone guide, in which examples, methods, tem
 As we are keeping it separate, we can add as many resources we feel are relevant without affecting the standard's readability.
 This should make it easier to use the standard as a reference when auditing a codebase, and allows the guide to be full of alternatives when thinking about how a codebase could meet a certain requirement.
 
-The guide can be found at [publiccodenet.github.io/community-implementation-guide-standard/](https://publiccodenet.github.io/community-implementation-guide-standard/).
+The guide can be found at [standard-for-public-code.github.io/community-implementation-guide-standard/](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
 
 Everything you can find in the guide could be considered to be “pre-approved”.
 By that, we mean that if you are using the guide in good faith to meet a requirement, you should be confident that the codebase would pass when assessed by the Foundation for Public Code.
@@ -44,5 +44,5 @@ Some existing examples and further reading in the standard have been moved to th
 But we know there is much more knowledge in the public code community.
 
 Please help us to add resources and examples that can help others to implement the Standard for Public Code.
-Start a [pull request](https://github.com/publiccodenet/community-implementation-guide-standard#contribute) yourself, or explain what you want added in a [new issue](https://github.com/publiccodenet/community-implementation-guide-standard/issues/new/choose).
+Start a [pull request](https://github.com/standard-for-public-code/community-implementation-guide-standard#contribute) yourself, or explain what you want added in a [new issue](https://github.com/standard-for-public-code/community-implementation-guide-standard/issues/new/choose).
 If you feel more at home with email than GitHub, you can also [sign up to our Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and make your suggestions there.
