@@ -72,7 +72,7 @@ We also ran sessions at Mozilla Festival on [how public code can transform the f
 
 We'd love to see you at our monthly community calls:
 
-* [Standard for Public Code call](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw), 1st Thursday of the month, 15.00 CEST
-* [Foundation for Public Code call](https://hackmd.io/9THmWbpQTLi8L9UIzczSyw), 3rd Thursday of the month, 15.00 CEST
+* Standard for Public Code call, 1st Thursday of the month, 15.00 CEST
+* Foundation for Public Code call, 3rd Thursday of the month, 15.00 CEST
 
 The topic is published the week before the call.
