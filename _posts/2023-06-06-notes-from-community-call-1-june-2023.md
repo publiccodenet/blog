@@ -18,7 +18,7 @@ categories:
 
 ## Updates from the Foundation
 
-* We have just made [a new release of the Standard for Public Code: 0.7.0](https://github.com/publiccodenet/standard/releases/tag/0.7.0).
+* We have just made [a new release of the Standard for Public Code: 0.7.0](https://github.com/standard-for-public-code/standard-for-public-code/releases/tag/0.7.0).
 
 ## Notes
 

@@ -12,7 +12,7 @@ categories:
 
 ## Update from the Foundation
 
-* [Version 0.2.0](https://github.com/publiccodenet/standard/releases/tag/0.2.0) of the Standard for Public Code was released!
+* [Version 0.2.0](https://github.com/standard-for-public-code/standard-for-public-code/releases/tag/0.2.0) of the Standard for Public Code was released!
 * We have made an [introduction video to the Standard for Public Code](https://www.youtube.com/watch?v=QWt6vB-cipE).
 * We are still working on the [question of translations](https://github.com/publiccodenet/standard/issues/336) of the Standard for Public Code, pursuing the path of official translations, but have nothing new to report.
 
